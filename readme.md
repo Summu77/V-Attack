@@ -2,8 +2,6 @@
 
 Official implementation of the paper "*V-Attack: Rethinking Adversarial Attacks on VLMs from a Fine-Grained Semantic Perspective*".
 
-Project Website: [https://anonymous.4open.science/r/V-Attack-67A8](https://anonymous.4open.science/r/V-Attack-67A8)
-
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
