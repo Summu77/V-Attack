@@ -1,0 +1,2406 @@
+[
+    {
+        "image": "000000000285.jpg",
+        "vqa": [
+            "What is the large creature that occupies most of the frame?",
+            "Which animal in the image seems to be calmly observing its surroundings on the grassy area?",
+            "What kind of animal, known for its strength and size, is prominently featured here?"
+        ]
+    },
+    {
+        "image": "000000000776.jpg",
+        "vqa": [
+            "What is the object that appears to be nestled between the two plush figures?",
+            "Which item in the image seems to be in a position of being hugged or embraced?",
+            "What type of toy is prominently featured and appears soft and cuddly?"
+        ]
+    },
+    {
+        "image": "000000001425.jpg",
+        "vqa": [
+            "What is the object that has been partially consumed and placed on the flat, round surface?",
+            "Which item in the image shows signs of having been recently handled and bitten into?",
+            "What type of food is visible in the picture that typically consists of bread with a filling?"
+        ]
+    },
+    {
+        "image": "000000001584.jpg",
+        "vqa": [
+            "What is the object that is positioned on the road and has two levels for passengers?",
+            "Which item in the image appears to be transporting people through the urban environment?",
+            "What type of vehicle is prominently featured in the picture with a distinctive two-tier structure?"
+        ]
+    },
+    {
+        "image": "000000001675.jpg",
+        "vqa": [
+            "What is the dark object that seems to be partially obscuring the typing surface?",
+            "Which item in the image appears to be lounging above the data-entry tool?",
+            "What type of creature is visible, taking up most of the space above the input device?"
+        ]
+    },
+    {
+        "image": "000000001993.jpg",
+        "vqa": [
+            "What is the object that occupies the space near the window, taking up a significant portion of the room?",
+            "Which item in the image seems to be designed for lying down or sleeping, given its position and appearance?",
+            "What type of furniture is present in the picture that is typically used for resting or sleeping?"
+        ]
+    },
+    {
+        "image": "000000002006.jpg",
+        "vqa": [
+            "What is the large vehicle that is positioned near the curb?",
+            "Which mode of transportation is shown waiting at the roadside?",
+            "What kind of vehicle typically carries multiple passengers along a fixed route?"
+        ]
+    },
+    {
+        "image": "000000002149.jpg",
+        "vqa": [
+            "What is the object that the white dish is containing?",
+            "Which item in the image appears to be arranged closely with others of its kind?",
+            "What type of fruit is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000002157.jpg",
+        "vqa": [
+            "What is the object that the white frosting is covering?",
+            "Which item in the image appears to be garnished with a mix of red and blue fruits?",
+            "What type of dessert is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000002587.jpg",
+        "vqa": [
+            "What is the elongated, yellow object that is positioned next to the round item?",
+            "Which item in the image curves around the packaged food product?",
+            "What kind of fruit is present alongside the baked good?"
+        ]
+    },
+    {
+        "image": "000000002592.jpg",
+        "vqa": [
+            "What is the object that is positioned to the left of the sharp tool?",
+            "Which item in the image seems ready to be used for a beverage?",
+            "What type of drinkware is present in the picture?"
+        ]
+    },
+    {
+        "image": "000000003501.jpg",
+        "vqa": [
+            "What is the object that adds a spicy kick to the dish?",
+            "Which item in the image contributes a vibrant red color to the meal?",
+            "What type of ingredient is known for its heat and is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000003661.jpg",
+        "vqa": [
+            "What object is casting a shadow on the wooden surface?",
+            "Which item in the image is positioned in a bunch and appears elongated?",
+            "What kind of fruit can be seen grouped together on the table?"
+        ]
+    },
+    {
+        "image": "000000003845.jpg",
+        "vqa": [
+            "What is the object that the colorful food items are arranged upon?",
+            "Which item in the image serves as a base for holding the meal components together?",
+            "What type of vessel is used to contain the assortment of food and rice?"
+        ]
+    },
+    {
+        "image": "000000004495.jpg",
+        "vqa": [
+            "What is the object that provides seating and has a checkered pattern?",
+            "Which item in the image appears to be designed for multiple people to sit on and has a squared design?",
+            "What type of furniture is visible in the picture with a grid-like color pattern?"
+        ]
+    },
+    {
+        "image": "000000005037.jpg",
+        "vqa": [
+            "What is the large vehicle that is positioned near the curb?",
+            "Which mode of transportation is designed to carry multiple passengers and is currently stopped by the sidewalk?",
+            "What kind of vehicle in the image provides a service indicated by the text on its front display?"
+        ]
+    },
+    {
+        "image": "000000005477.jpg",
+        "vqa": [
+            "What is the large object that is positioned on the runway, ready for takeoff or having just landed?",
+            "Which item in the image is designed for transporting passengers across long distances through the air?",
+            "What kind of vehicle is prominently displayed in the picture, characterized by its wings and jet engines?"
+        ]
+    },
+    {
+        "image": "000000005600.jpg",
+        "vqa": [
+            "What is the object that fills the bowl to the brim with its round shapes?",
+            "Which item in the image appears to be arranged neatly, showcasing a smooth and glossy surface?",
+            "What type of fruit is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000005992.jpg",
+        "vqa": [
+            "What is the object that is standing closest to the brick wall?",
+            "Which item in the image appears to be grazing near the wooden structure?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000006012.jpg",
+        "vqa": [
+            "What is the round object that is centrally positioned among the elongated yellow items?",
+            "Which item in the image appears to be surrounded by curved, yellow objects and has a smooth, red surface?",
+            "What type of fruit is visible in the picture that is not elongated?"
+        ]
+    },
+    {
+        "image": "000000006040.jpg",
+        "vqa": [
+            "What is the large vehicle that runs on tracks and is powered by overhead wires?",
+            "Which mode of transportation is designed to carry numerous passengers along a fixed route in an urban setting?",
+            "What kind of public transit system is prominently featured in the image?"
+        ]
+    },
+    {
+        "image": "000000007108.jpg",
+        "vqa": [
+            "What is the object that appears to be leading the group near the water?",
+            "Which item in the image seems to be interacting with the ground using its extended feature?",
+            "What type of animal is prominently featured and appears larger than the others?"
+        ]
+    },
+    {
+        "image": "000000007386.jpg",
+        "vqa": [
+            "What is the object that the large wheels are supporting?",
+            "Which item in the image appears to be stationary on the grassy area?",
+            "What type of vehicle is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000007784.jpg",
+        "vqa": [
+            "What is the object that is soaring high against the clear backdrop?",
+            "Which item in the image seems to be catching the wind and floating?",
+            "What type of object is visible that typically requires strings for control?"
+        ]
+    },
+    {
+        "image": "000000007991.jpg",
+        "vqa": [
+            "What is the orange vegetable that dominates the plate?",
+            "Which item on the plate appears to have been recently peeled and chopped?",
+            "What type of food is arranged in a pile next to the green peas?"
+        ]
+    },
+    {
+        "image": "000000008277.jpg",
+        "vqa": [
+            "What is the object that occupies a larger area on the plate compared to the broccoli dish?",
+            "Which item in the image appears to be in a state of being torn or shredded?",
+            "What type of food is visible next to the green dish on the plate?"
+        ]
+    },
+    {
+        "image": "000000009769.jpg",
+        "vqa": [
+            "What object is positioned in front of the vehicle, aiding in snow removal?",
+            "Which item in the image is equipped with a large attachment for clearing the road?",
+            "What color is the vehicle that appears to be actively engaged in winter maintenance tasks?"
+        ]
+    },
+    {
+        "image": "000000009914.jpg",
+        "vqa": [
+            "What is the object that is partially covered by a sesame seed bun?",
+            "Which item in the image appears to have been grilled and is nestled within a bread roll?",
+            "What type of food is visible in the picture that typically consists of bread and a filling?"
+        ]
+    },
+    {
+        "image": "000000010363.jpg",
+        "vqa": [
+            "What is the object that is perched on the shiny, curved surface in the garage?",
+            "Which item in the image seems to be exploring its surroundings with a curious stance?",
+            "What kind of creature is visible in the picture, standing alertly on the reflective structure?"
+        ]
+    },
+    {
+        "image": "000000010583.jpg",
+        "vqa": [
+            "What is the object that the sauce is generously poured over?",
+            "Which item in the image appears to be the main focus of the dish served on the plate?",
+            "What type of food is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000010995.jpg",
+        "vqa": [
+            "What object in the room is positioned against the wall and takes up the most space?",
+            "Which item in the image is designed for lying down and sleeping, covered with a checkered pattern?",
+            "What kind of furniture is prominently featured and appears ready for use?"
+        ]
+    },
+    {
+        "image": "000000012062.jpg",
+        "vqa": [
+            "What is the fluffy object that seems to be interacting with the pile of wool?",
+            "Which item in the image appears to be engaged in sorting through the fibrous material?",
+            "What type of animal might be involved in the production of the raw material shown?"
+        ]
+    },
+    {
+        "image": "000000012667.jpg",
+        "vqa": [
+            "What is the object that is leaning against the electronic device?",
+            "Which item in the image appears to be in a position that suggests it might roll if the surface is tilted?",
+            "What type of fruit is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000013004.jpg",
+        "vqa": [
+            "What is the elongated object resting beside the creamy substance on the plate?",
+            "Which item in the image seems to be peeled and placed next to a dollop of a spreadable food?",
+            "What kind of fruit is present alongside the spread on the dish?"
+        ]
+    },
+    {
+        "image": "000000013348.jpg",
+        "vqa": [
+            "What is the large object that is parked on the tarmac and appears ready for boarding?",
+            "Which item in the image is designed for long-distance travel and is currently stationary near the terminal?",
+            "What type of vehicle is visible that is commonly used for international travel?"
+        ]
+    },
+    {
+        "image": "000000013597.jpg",
+        "vqa": [
+            "What is the object that the decorative plate is holding?",
+            "Which item in the image appears to have a drizzled topping on its surface?",
+            "What type of dessert is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000014439.jpg",
+        "vqa": [
+            "What is the object that is being held aloft by the string in the park?",
+            "Which item in the image is displaying vibrant colors and patterns while being maneuvered by the individuals?",
+            "What type of recreational object is being interacted with by the people in the open field?"
+        ]
+    },
+    {
+        "image": "000000014473.jpg",
+        "vqa": [
+            "What is the object that is running parallel to the overhead lines?",
+            "Which item in the image appears to be moving along the metallic path?",
+            "What type of vehicle is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000015079.jpg",
+        "vqa": [
+            "What is the object that is cut in half and placed on the ornate plate?",
+            "Which item in the image appears to have been recently sliced and arranged neatly beside the utensil?",
+            "What type of food is visible in the picture that is typically made with bread and a filling?"
+        ]
+    },
+    {
+        "image": "000000015278.jpg",
+        "vqa": [
+            "What is the green vegetable that occupies most of the plate?",
+            "Which item on the plate appears to be seasoned with red flakes and herbs?",
+            "What type of food is present in abundance next to the piece of grilled meat?"
+        ]
+    },
+    {
+        "image": "000000015497.jpg",
+        "vqa": [
+            "What is the object that seems to be playfully interacting with the corded device?",
+            "Which item in the image appears to be lounging comfortably on the dark surface?",
+            "What type of animal is present in the picture, showing a mix of colors?"
+        ]
+    },
+    {
+        "image": "000000015746.jpg",
+        "vqa": [
+            "What object is standing in the grass near the house?",
+            "What is the purpose of the item that is typically painted red and found on streets for emergency water access?",
+            "What kind of equipment is visible that is used by firefighters to connect hoses?"
+        ]
+    },
+    {
+        "image": "000000016228.jpg",
+        "vqa": [
+            "What is the large animal that is pulling the vehicle?",
+            "What role is the white, harnessed creature playing in transporting passengers?",
+            "What kind of animal is typically used for such traditional transportation methods?"
+        ]
+    },
+    {
+        "image": "000000017029.jpg",
+        "vqa": [
+            "What is the object that is airborne near the tree?",
+            "Which item in the image appears to be actively engaged with the red disc?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000017031.jpg",
+        "vqa": [
+            "What is the object that stands tall among the greenery?",
+            "Which item in the image appears to be reaching high towards the leaves?",
+            "What type of animal has a long neck visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000017207.jpg",
+        "vqa": [
+            "What is the large vehicle that is sharing the road with the smaller white car?",
+            "What service does the prominent yellow and white vehicle provide to people in this setting?",
+            "What kind of vehicle is displaying a route number and has multiple entry points for passengers?"
+        ]
+    },
+    {
+        "image": "000000018737.jpg",
+        "vqa": [
+            "What object is casting a shadow on the pavement near the fence?",
+            "Which item in the image seems ready for a long journey on the open road?",
+            "What kind of vehicle is parked facing the sandy area?"
+        ]
+    },
+    {
+        "image": "000000018833.jpg",
+        "vqa": [
+            "What is the object that appears to be nestled comfortably between the footwear?",
+            "Which item in the image seems to be in a state of rest, utilizing the shoes as a resting place?",
+            "What kind of creature is depicted as being in close proximity to the shoes?"
+        ]
+    },
+    {
+        "image": "000000018837.jpg",
+        "vqa": [
+            "What is the large object that the person is climbing onto?",
+            "Which item in the image appears to be stationary while people are around it?",
+            "What type of vehicle is prominently displayed in the picture?"
+        ]
+    },
+    {
+        "image": "000000019221.jpg",
+        "vqa": [
+            "What is the object that the hand is holding above the countertop?",
+            "Which item in the image appears to have a tree-like structure with a green crown?",
+            "What type of vegetable is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000019742.jpg",
+        "vqa": [
+            "What is the object that stands on the reflective surface near the lit string lights?",
+            "Which item in the image appears to be containing a mix of colors and shapes while standing beside the candle?",
+            "What type of decorative item is visible in the picture, holding an abstract design?"
+        ]
+    },
+    {
+        "image": "000000020107.jpg",
+        "vqa": [
+            "What object is situated near the edge of the sidewalk, adjacent to the decorative wall?",
+            "Which item in the scene is designed to provide water for emergency use and is connected by a chain?",
+            "What kind of utility equipment is prominently displayed next to the patterned wall?"
+        ]
+    },
+    {
+        "image": "000000020247.jpg",
+        "vqa": [
+            "What is the distance between the two large figures on the path?",
+            "What activity might the foreground figure be engaged in given its forward movement?",
+            "What kind of animal can be seen approaching closely along the trail?"
+        ]
+    },
+    {
+        "image": "000000020553.jpg",
+        "vqa": [
+            "What object is surrounded by various items and appears to be the central piece of furniture in this outdoor setting?",
+            "Which item in the image seems to be serving as a makeshift throne for the collection of objects placed upon it?",
+            "What kind of seating furniture is present in the scene, adorned with multiple objects and set outdoors?"
+        ]
+    },
+    {
+        "image": "000000021903.jpg",
+        "vqa": [
+            "What is the large creature that the person is reaching out to interact with?",
+            "What activity is the massive, tusked animal engaging in with the human over the barrier?",
+            "What kind of animal, known for its size and trunk, is present in the enclosure?"
+        ]
+    },
+    {
+        "image": "000000022192.jpg",
+        "vqa": [
+            "What is the object that seems to be overseeing the scattered items?",
+            "Which item in the image appears to be sitting upright amidst the disarray?",
+            "What type of animal is present in the picture?"
+        ]
+    },
+    {
+        "image": "000000024144.jpg",
+        "vqa": [
+            "What is the round, sliced item resting inside the open container?",
+            "Which food item in the image appears to be ready for sharing among several people?",
+            "What type of dish is prominently displayed within the cardboard box?"
+        ]
+    },
+    {
+        "image": "000000024919.jpg",
+        "vqa": [
+            "What large animals are interacting in the open field?",
+            "How do these massive creatures appear to be communicating with each other?",
+            "What kind of environment surrounds these gentle giants?"
+        ]
+    },
+    {
+        "image": "000000025560.jpg",
+        "vqa": [
+            "What is the object that is perched on the edge of the wooden surface?",
+            "Which item in the image seems to be focused intently on something off-camera?",
+            "What type of animal is shown interacting with the electronic device?"
+        ]
+    },
+    {
+        "image": "000000026465.jpg",
+        "vqa": [
+            "What object is centrally positioned on the flat surface?",
+            "Which item appears to be in a state of readiness for use, with its screen illuminated?",
+            "What kind of device is accompanied by a keyboard and a trackpad?"
+        ]
+    },
+    {
+        "image": "000000026564.jpg",
+        "vqa": [
+            "What object is positioned directly in front of the keyboard and appears to be the main focus of the workspace?",
+            "Which item on the desk is actively displaying text and seems to be the central tool for work or research?",
+            "What kind of electronic device is prominently featured and likely used for reading documents or browsing the internet?"
+        ]
+    },
+    {
+        "image": "000000026926.jpg",
+        "vqa": [
+            "What is the object that stands near the edge of the sidewalk by the yellow line?",
+            "Which item in the image appears to be designed for emergency water access on the urban pavement?",
+            "What type of equipment is visible in the picture that is typically painted in a bright color for easy identification?"
+        ]
+    },
+    {
+        "image": "000000026941.jpg",
+        "vqa": [
+            "What is the object that is holding multiple containers with handles?",
+            "Which item in the image appears to be used for transporting various cased goods?",
+            "What type of equipment is visible in the picture that is commonly found in transportation hubs?"
+        ]
+    },
+    {
+        "image": "000000027696.jpg",
+        "vqa": [
+            "What is the object that the checkered tablecloth is supporting?",
+            "Which item in the image appears to be divided into multiple sections for sharing?",
+            "What type of food is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000027768.jpg",
+        "vqa": [
+            "What is the large vehicle that is positioned next to the sidewalk?",
+            "What service does this red and white vehicle provide to the public?",
+            "What kind of vehicle is typically used for transporting multiple passengers in an urban setting?"
+        ]
+    },
+    {
+        "image": "000000029187.jpg",
+        "vqa": [
+            "What is the object that is pulling the wheeled vehicle across the track?",
+            "Which item in the image is engaged in a competitive activity on the dirt surface?",
+            "What type of animal is participating in the race depicted in the image?"
+        ]
+    },
+    {
+        "image": "000000029393.jpg",
+        "vqa": [
+            "What is the object that is standing on the flat, light-colored surface near the greenery?",
+            "Which item in the image seems to be alert and positioned as if ready to move or interact with its surroundings?",
+            "What type of animal is present in the picture, standing by the plant with round yellow objects?"
+        ]
+    },
+    {
+        "image": "000000029397.jpg",
+        "vqa": [
+            "What object is being used as a platform for standing in the image?",
+            "What is the function of the item that the person is standing upon?",
+            "What kind of material makes up the structure that supports the standing individual?"
+        ]
+    },
+    {
+        "image": "000000029640.jpg",
+        "vqa": [
+            "What is the green vegetable that dominates the dish?",
+            "Which ingredient in the pan appears to be the most abundant and vibrant?",
+            "What type of food is being stir-fried alongside the meat and carrots?"
+        ]
+    },
+    {
+        "image": "000000029675.jpg",
+        "vqa": [
+            "What is the object that the dark plate is holding?",
+            "Which item in the image appears to be dressed with a bright yellow condiment?",
+            "What type of food is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000030494.jpg",
+        "vqa": [
+            "What is the large, vertical structure that the ground seems to curve around?",
+            "Which element in the scene provides a significant shadow and appears robust and immovable?",
+            "What natural feature dominates the right side of the image with its substantial presence?"
+        ]
+    },
+    {
+        "image": "000000030675.jpg",
+        "vqa": [
+            "What is the large object that is positioned parallel to the gravel bed?",
+            "Which item in the image seems to be designed for transporting goods over long distances?",
+            "What kind of vehicle is prominently displayed in the picture?"
+        ]
+    },
+    {
+        "image": "000000030785.jpg",
+        "vqa": [
+            "What is the green item that is placed in the bowl next to the spread?",
+            "Which food item in the image seems to be roasted and has a tree-like structure?",
+            "What kind of vegetable is present in the picture that is often associated with a high nutritional value?"
+        ]
+    },
+    {
+        "image": "000000031050.jpg",
+        "vqa": [
+            "What object is centrally positioned on the white platform?",
+            "Which item in the image seems to be serving as a container for dried plants and decorative elements?",
+            "What kind of artifact is displayed with a unique blend of colors and textures, holding an assortment of botanical items?"
+        ]
+    },
+    {
+        "image": "000000032038.jpg",
+        "vqa": [
+            "What is the round, flat object that is being held up by a hand?",
+            "Which item in the image appears to be the main focus and is covered with toppings?",
+            "What type of food is prominently displayed on the wooden surface?"
+        ]
+    },
+    {
+        "image": "000000033109.jpg",
+        "vqa": [
+            "What is the large vehicle that is parked by the sidewalk?",
+            "Which item in the image seems to be waiting on the side of the wet road?",
+            "What kind of vehicle is prominently displayed in the picture?"
+        ]
+    },
+    {
+        "image": "000000033707.jpg",
+        "vqa": [
+            "What is the object that towers over the rocks and building?",
+            "Which item in the image appears to be reaching towards the upper branches of the trees?",
+            "What type of animal has a long neck visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000034873.jpg",
+        "vqa": [
+            "What is the large structure that dominates the center of the room?",
+            "What function does the central piece serve in meal preparation activities?",
+            "What material is the surface of the central piece likely made from?"
+        ]
+    },
+    {
+        "image": "000000038048.jpg",
+        "vqa": [
+            "What object is positioned near the pedestrian crossing sign on the sidewalk?",
+            "Which item in the image is designed to provide water for firefighting and is located by the roadside?",
+            "What kind of emergency equipment can be seen standing on the pavement?"
+        ]
+    },
+    {
+        "image": "000000038070.jpg",
+        "vqa": [
+            "What object is positioned against the wall in this small room?",
+            "Which item here is typically used for daily hygiene and waste disposal?",
+            "What kind of fixture is central in this enclosed space?"
+        ]
+    },
+    {
+        "image": "000000039670.jpg",
+        "vqa": [
+            "What is the object that is following the curved path of the metallic lines?",
+            "Which item in the image appears to be in motion along the linear structure surrounded by greenery?",
+            "What type of vehicle is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000039769.jpg",
+        "vqa": [
+            "What is the object that the soft cushion is supporting?",
+            "Which item in the image appears to be resting in a relaxed posture on the fabric-covered structure?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000041633.jpg",
+        "vqa": [
+            "What object in the image is positioned to the left of the tall light pole?",
+            "Which item appears to be stationary and reflects the surrounding environment on its surface?",
+            "What kind of vehicle is prominently displayed in the foreground?"
+        ]
+    },
+    {
+        "image": "000000041888.jpg",
+        "vqa": [
+            "What is the object that is standing among the dry grass?",
+            "Which item in the image appears to be foraging on the ground?",
+            "What type of bird is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000042070.jpg",
+        "vqa": [
+            "What is the large vehicle that is parked by the sidewalk?",
+            "What service does this vehicle provide to the public?",
+            "What color scheme is used on the exterior of this transportation vehicle?"
+        ]
+    },
+    {
+        "image": "000000042296.jpg",
+        "vqa": [
+            "What is the large white creature interacting with the colorful objects in the water?",
+            "Which activity is the main subject of the image engaging in with the spherical items?",
+            "What kind of animal is shown playing with toys in a watery environment?"
+        ]
+    },
+    {
+        "image": "000000042889.jpg",
+        "vqa": [
+            "What is the plush object that seems to be overseeing the workspace?",
+            "Which item in the image appears to be sitting as if it's ready to type on the keyboard?",
+            "What kind of toy is present in the picture that has a friendly and inviting appearance?"
+        ]
+    },
+    {
+        "image": "000000043581.jpg",
+        "vqa": [
+            "What is the round, savory dish that occupies the majority of the tray?",
+            "Which item in the image seems ready to be served with a fork and knife?",
+            "What kind of food is prominently displayed on the table?"
+        ]
+    },
+    {
+        "image": "000000044068.jpg",
+        "vqa": [
+            "What is the plush item that the woven chair is holding?",
+            "Which object in the image seems to be sitting upright with a decorative ribbon around its neck?",
+            "What kind of toy is present in the picture?"
+        ]
+    },
+    {
+        "image": "000000044652.jpg",
+        "vqa": [
+            "What is the object that is soaring above the clouds?",
+            "Which item in the image appears to be cutting through the air with a trail behind it?",
+            "What type of vehicle is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000044699.jpg",
+        "vqa": [
+            "What is the object that is standing on the grassy terrain near the water?",
+            "Which item in the image appears to be gazing towards the camera while surrounded by similar figures?",
+            "What type of animal can be seen grazing in the foreground of the mountainous landscape?"
+        ]
+    },
+    {
+        "image": "000000046031.jpg",
+        "vqa": [
+            "What object is positioned next to the mouse on the right side of the desk?",
+            "Which item in the image is actively displaying a green leaf pattern on its screen?",
+            "What type of device is open and appears to be in use on the desk?"
+        ]
+    },
+    {
+        "image": "000000046378.jpg",
+        "vqa": [
+            "What is the object that lies motionless on the textured surface?",
+            "Which item in the image appears to be lifeless and is being closely inspected by another creature?",
+            "What type of being in the picture seems to have ceased its usual activities?"
+        ]
+    },
+    {
+        "image": "000000046463.jpg",
+        "vqa": [
+            "What is the object that the hand is holding above the cutting board?",
+            "Which item in the image appears to have multiple layers with different textures and colors?",
+            "What type of food is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000046804.jpg",
+        "vqa": [
+            "What is the object that stands in front of the stone wall?",
+            "Which item in the image appears to be gazing directly at the viewer?",
+            "What type of animal with a thick coat is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000047010.jpg",
+        "vqa": [
+            "What is the object that is reaching towards the taller vegetation?",
+            "Which item in the image appears to be moving in a group near the water?",
+            "What type of animal is visible in the picture that has a long neck?"
+        ]
+    },
+    {
+        "image": "000000047112.jpg",
+        "vqa": [
+            "What is the round, savory dish that occupies most of the plate?",
+            "Which item in the image seems ready to be sliced and served among the table settings?",
+            "What kind of food features prominently in the foreground of the restaurant scene?"
+        ]
+    },
+    {
+        "image": "000000047121.jpg",
+        "vqa": [
+            "What is the object that is interacting with the stream of water from the faucet?",
+            "Which item in the image appears to be positioned over the basin, engaging with the liquid flow?",
+            "What type of animal is present in the picture, characterized by its dark fur and contrasting paws?"
+        ]
+    },
+    {
+        "image": "000000047819.jpg",
+        "vqa": [
+            "What is the large animal that is carrying the basket and bags?",
+            "Which creature in the image seems to be equipped for a journey through the terrain?",
+            "What kind of animal is standing beside the person, loaded with supplies?"
+        ]
+    },
+    {
+        "image": "000000048504.jpg",
+        "vqa": [
+            "What is the large object that the rope is guiding?",
+            "Which item in the image appears to be performing under the bright lights?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000048924.jpg",
+        "vqa": [
+            "What object is positioned near the tent, suggesting a mode of transport for the camper?",
+            "Which item in the image appears to be equipped with gear and is likely used for off-road travel?",
+            "What type of vehicle is visible in the picture that is suitable for both on-road and off-road adventures?"
+        ]
+    },
+    {
+        "image": "000000049269.jpg",
+        "vqa": [
+            "What is the large animal standing in the grass beside the panting dog?",
+            "Which creature in the image appears to be calmly observing its surroundings while standing tall in the field?",
+            "What kind of animal is present that is typically associated with farms and equestrian activities?"
+        ]
+    },
+    {
+        "image": "000000049810.jpg",
+        "vqa": [
+            "What is the object that seems to be observing its own reflection?",
+            "Which item in the image appears to be sitting and gazing intently at a reflective surface?",
+            "What type of animal is visible in the picture, showing both its actual form and its reflection?"
+        ]
+    },
+    {
+        "image": "000000050165.jpg",
+        "vqa": [
+            "Train",
+            "What is the object that is positioned parallel to the electrical poles?",
+            "Which item in the image appears to be designed for transporting goods and passengers along the tracks?",
+            "What type of vehicle is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000050679.jpg",
+        "vqa": [
+            "What is the round object that is positioned near the white line on the pavement?",
+            "What might have caused this item to be left in such an unexpected location?",
+            "What kind of fruit is visible in the foreground of the image?"
+        ]
+    },
+    {
+        "image": "000000050828.jpg",
+        "vqa": [
+            "What object in the image is positioned against the wall and covered with sheets?",
+            "Which item in the scene is designed for lying down and sleeping, taking up a significant portion of the space?",
+            "What kind of furniture is prominently featured, typically used for resting or sleeping?"
+        ]
+    },
+    {
+        "image": "000000050844.jpg",
+        "vqa": [
+            "What is the object that is dressed in a red hat and scarf?",
+            "Which item in the image appears to be holding a black bow?",
+            "What type of stuffed animal is associated with a well-known soda brand?"
+        ]
+    },
+    {
+        "image": "000000051008.jpg",
+        "vqa": [
+            "Question 1: What is the object that seems to be occupying most of the space on the electronic device?",
+            "Question 2: Which item in the image appears to be closely inspecting the keys on the input tool?",
+            "Question 3: What type of creature is visible in the picture, seemingly engaged with the technology?"
+        ]
+    },
+    {
+        "image": "000000051738.jpg",
+        "vqa": [
+            "What object in the room is positioned against the wall and serves as the focal point of the space?",
+            "Which item in the image would typically be used for sleeping and is located near the window?",
+            "What kind of furniture is covered with a white spread and pillows, taking up most of the visible area?"
+        ]
+    },
+    {
+        "image": "000000052017.jpg",
+        "vqa": [
+            "What is the object that is soaring through the sky with its wings spread wide?",
+            "Which item in the image is designed to transport passengers or cargo through the air?",
+            "What type of vehicle is visible in the picture that can navigate through different altitudes?"
+        ]
+    },
+    {
+        "image": "000000052462.jpg",
+        "vqa": [
+            "What is the distance between the two striped creatures in the field?",
+            "What are the animals with black and white stripes doing in the grassy area?",
+            "What kind of animals, known for their distinctive stripe patterns, are present in the image?"
+        ]
+    },
+    {
+        "image": "000000052565.jpg",
+        "vqa": [
+            "What is the large figure that stands prominently against the water backdrop?",
+            "Which creature in the image appears to be standing still near the edge of the water?",
+            "What kind of animal is present in the picture near the water?"
+        ]
+    },
+    {
+        "image": "000000052891.jpg",
+        "vqa": [
+            "What is the object that the canine is holding in its mouth?",
+            "Which item in the image seems to have been used for a playful activity near the water?",
+            "What type of disc is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000053624.jpg",
+        "vqa": [
+            "What is the large object standing in the water near the rocks?",
+            "Which item in the image appears to be interacting with the liquid surface?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000053909.jpg",
+        "vqa": [
+            "What is the object that the hand is holding above the wooden surface?",
+            "Which item in the image appears to be displaying a smaller screen with text and an image?",
+            "What type of device is being used to view another electronic screen?"
+        ]
+    },
+    {
+        "image": "000000053994.jpg",
+        "vqa": [
+            "What object is situated next to the sidewalk and surrounded by greenery?",
+            "Which item in the image is designed to collect payment for vehicle parking?",
+            "What kind of structure is visible that typically requires coins or cards for its operation?"
+        ]
+    },
+    {
+        "image": "000000054605.jpg",
+        "vqa": [
+            "What is the object that is placed next to the slice of cake on the table?",
+            "Which item in the image appears to be topped with whipped cream and served in a tall glass?",
+            "What type of beverage is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000054628.jpg",
+        "vqa": [
+            "What is the centerpiece that stands tall on the table with a blue cloth?",
+            "Which item in the image appears to be intricately decorated and positioned as the focal point of the room?",
+            "What type of confectionery is prominently displayed in the picture?"
+        ]
+    },
+    {
+        "image": "000000055002.jpg",
+        "vqa": [
+            "What object is positioned directly beneath the metallic lid in the image?",
+            "Which item in the scene is designed for sanitary waste disposal and is made of stainless steel?",
+            "What kind of fixture is typically found in a restroom and is shown here with a scrubbing brush nearby?"
+        ]
+    },
+    {
+        "image": "000000055072.jpg",
+        "vqa": [
+            "What is the object that towers above the surrounding vegetation?",
+            "Which item in the image appears to be reaching towards the higher branches of the tree?",
+            "What type of animal has a pattern of irregular patches on its skin?"
+        ]
+    },
+    {
+        "image": "000000055167.jpg",
+        "vqa": [
+            "What is the large vehicle that is primarily yellow and blue positioned on the road?",
+            "Which item in the image seems to be waiting at the roadside near the buildings?",
+            "What kind of transportation is visible that typically carries multiple passengers?"
+        ]
+    },
+    {
+        "image": "000000056288.jpg",
+        "vqa": [
+            "What is the item that is layered with various fillings and sits on the plate?",
+            "Which food appears to be assembled with bread slices and contains a mix of vegetables and meats?",
+            "What kind of meal is presented on the disposable dish in front of the computer?"
+        ]
+    },
+    {
+        "image": "000000056545.jpg",
+        "vqa": [
+            "What is perched on the branch in the image?",
+            "What activity might the creature on the branch be engaged in?",
+            "What kind of animal is observed in this natural setting?"
+        ]
+    },
+    {
+        "image": "000000057027.jpg",
+        "vqa": [
+            "What is the large object that the smaller one is positioned closely beneath?",
+            "Which item in the image seems to be providing shade and protection to a smaller version of itself?",
+            "What type of creature is significantly larger and has a trunk visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000057149.jpg",
+        "vqa": [
+            "What is the object that is positioned behind the school bus and in front of the train crossing?",
+            "Which item in the image appears to be waiting at the traffic signal near the railroad crossing?",
+            "What type of vehicle is visible in the picture with a license plate that reads 1T8Z6P?"
+        ]
+    },
+    {
+        "image": "000000057238.jpg",
+        "vqa": [
+            "What large appliance is positioned adjacent to the wooden cabinet?",
+            "Which item in the image is typically used for preserving food at low temperatures?",
+            "What kind of household equipment is visible next to the tiled floor area?"
+        ]
+    },
+    {
+        "image": "000000058111.jpg",
+        "vqa": [
+            "What is the object that seems to be stretching its arm over the edge of the flat surface?",
+            "Which item in the image appears to be lounging with one paw hanging off the side of the structure it's on?",
+            "What type of animal is present in the picture, displaying a mix of colors?"
+        ]
+    },
+    {
+        "image": "000000058636.jpg",
+        "vqa": [
+            "What is the object that is mounted on the wooden pole and provides directions?",
+            "Which item in the image is used to guide drivers to a specific area near the intersection?",
+            "What kind of sign is visible in the picture indicating parking availability?"
+        ]
+    },
+    {
+        "image": "000000058636.jpg",
+        "vqa": [
+            "What is the object that is mounted on the wooden pole and provides directions?",
+            "Which item in the image is used to guide drivers to a specific area near the intersection?",
+            "What kind of sign is visible in the picture indicating parking availability?"
+        ]
+    },
+    {
+        "image": "000000059598.jpg",
+        "vqa": [
+            "What object is positioned directly behind the plate of food?",
+            "Which item on the table is likely being used for work or browsing the internet?",
+            "What kind of electronic device is open and active in the scene?"
+        ]
+    },
+    {
+        "image": "000000060090.jpg",
+        "vqa": [
+            "What is the large object that is positioned parallel to the platform?",
+            "Which item in the image seems ready to transport passengers along the tracks?",
+            "What kind of vehicle is stationed next to the boarding area?"
+        ]
+    },
+    {
+        "image": "000000060770.jpg",
+        "vqa": [
+            "What is the object that stands out with its unique pattern among the greenery?",
+            "Which item in the image appears to be standing alert near the tree?",
+            "What type of animal with distinctive markings is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000060835.jpg",
+        "vqa": [
+            "What is the object that is sitting inside the wire enclosure?",
+            "Which item in the image appears to be gazing out from the metal structure?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000060855.jpg",
+        "vqa": [
+            "What is the round object that is positioned next to the oranges?",
+            "Which item in the image could be used to make a traditional fruit pie?",
+            "What color dominates the surface of the spherical fruit with a stem?"
+        ]
+    },
+    {
+        "image": "000000061108.jpg",
+        "vqa": [
+            "What is the object that is parked next to the bench and has two wheels?",
+            "Which item in the image appears to be carrying a small, furry passenger in a crate?",
+            "What type of vehicle is visible in the picture that can be used for both transportation and carrying goods?"
+        ]
+    },
+    {
+        "image": "000000061333.jpg",
+        "vqa": [
+            "What is the object that the soft cushion is supporting?",
+            "Which item in the image appears to be resting in a relaxed posture on the fabric-covered structure?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000061471.jpg",
+        "vqa": [
+            "What is the young animal doing near the bathroom fixtures?",
+            "Which item in the image seems to be exploring the area around the white ceramic objects?",
+            "What kind of pet is present in the scene?"
+        ]
+    },
+    {
+        "image": "000000063552.jpg",
+        "vqa": [
+            "What is the reflective surface that shows the image of the animal?",
+            "What is the object that captures and displays the reflection of the surroundings?",
+            "What kind of surface is present in the scene that can reflect images?"
+        ]
+    },
+    {
+        "image": "000000063602.jpg",
+        "vqa": [
+            "What object is centrally positioned on the desk and appears to be the focal point of the workspace?",
+            "Which item on the desk is actively displaying a blue screen with text, suggesting it is in use?",
+            "What kind of electronic device is open and turned on, taking up a significant portion of the desk space?"
+        ]
+    },
+    {
+        "image": "000000063740.jpg",
+        "vqa": [
+            "What object is positioned to the left of the laptop and displays a webpage?",
+            "Which item on the desk is actively showing a screen with multiple windows open?",
+            "What kind of device is present that is used for viewing digital content?"
+        ]
+    },
+    {
+        "image": "000000063965.jpg",
+        "vqa": [
+            "What is the object that the plate is presenting to the viewer?",
+            "Which item in the image appears to be ready for consumption with a spoon?",
+            "What type of dessert is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000064084.jpg",
+        "vqa": [
+            "What is the object that is placed on top of the other objects on the plate?",
+            "Which item in the image appears to be cut into several pieces and has a golden-brown crust?",
+            "What type of food is visible in the picture that is often served as a side dish or appetizer?"
+        ]
+    },
+    {
+        "image": "000000064499.jpg",
+        "vqa": [
+            "What is the object that is standing near the brick wall and appears to be interacting with it?",
+            "Which item in the image seems to be exploring or showing interest in the corner of the structure?",
+            "What type of animal displays a distinctive pattern of stripes in the picture?"
+        ]
+    },
+    {
+        "image": "000000065485.jpg",
+        "vqa": [
+            "What is the object that is parked near the grassy field?",
+            "Which item in the image appears to have a spare tire mounted on its rear side?",
+            "What type of vehicle is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000066135.jpg",
+        "vqa": [
+            "What is the large object that the platform is positioned next to?",
+            "Which item in the image seems ready for departure along the metal tracks?",
+            "What kind of vehicle is prominently featured in the station?"
+        ]
+    },
+    {
+        "image": "000000066561.jpg",
+        "vqa": [
+            "What is the fluffy object that the smaller figure is standing next to?",
+            "Which item in the image seems to be providing warmth and protection to the adjacent smaller figure?",
+            "What type of animal with a thick coat is present in the picture?"
+        ]
+    },
+    {
+        "image": "000000066635.jpg",
+        "vqa": [
+            "What object is positioned directly in front of the keyboard on the desk?",
+            "Which item on the desk is designed for displaying visual information from a computer?",
+            "What kind of electronic device is centrally located on the wooden surface?"
+        ]
+    },
+    {
+        "image": "000000066817.jpg",
+        "vqa": [
+            "What is the object that is holding the rice and peas along with the fried items?",
+            "Which item in the image appears to be placed on the table, supporting a variety of food items?",
+            "What type of dish is visible in the picture that contains multiple food components?"
+        ]
+    },
+    {
+        "image": "000000066841.jpg",
+        "vqa": [
+            "What object is positioned in front of the cutting board and behind the spoons?",
+            "Which item in the image seems to be turned off and not currently in use near the kitchen utensils?",
+            "What kind of appliance is present that is typically used for preparing bread in the morning?"
+        ]
+    },
+    {
+        "image": "000000067213.jpg",
+        "vqa": [
+            "What is the object that seems to be soaring above the water?",
+            "Which item in the image appears to be engaging in a high-energy activity near the numbered pool edge?",
+            "What type of animal is captured in mid-air in the picture?"
+        ]
+    },
+    {
+        "image": "000000067896.jpg",
+        "vqa": [
+            "What timekeeping device is suspended from the ornate metal bracket?",
+            "Which object in the image is used to indicate hours and minutes with its hands?",
+            "What kind of instrument is prominently displayed against the backdrop of the building's architecture?"
+        ]
+    },
+    {
+        "image": "000000068765.jpg",
+        "vqa": [
+            "What object is positioned to the left of the smooth, curved device?",
+            "Which item in the image is likely used for typing or inputting commands?",
+            "What is the layout and design of the primary data entry tool shown?"
+        ]
+    },
+    {
+        "image": "000000069138.jpg",
+        "vqa": [
+            "What is the object that controls the flow of vehicles at this intersection?",
+            "Which item in the image is currently displaying a signal to stop?",
+            "What kind of device is used to regulate traffic and is shown here with a red light?"
+        ]
+    },
+    {
+        "image": "000000069795.jpg",
+        "vqa": [
+            "What object is casting a shadow on the ground near the window?",
+            "Which item in the image is typically used for nurturing plants and is currently holding flowers?",
+            "What kind of container is being used unconventionally to hold a bouquet in the scene?"
+        ]
+    },
+    {
+        "image": "000000070229.jpg",
+        "vqa": [
+            "What is the object that is seated on the bench facing the park?",
+            "What activity might this plush figure be engaged in as it sits overlooking the path?",
+            "What kind of toy is positioned to seem like it's observing the passersby?"
+        ]
+    },
+    {
+        "image": "000000070254.jpg",
+        "vqa": [
+            "What is the large vehicle that people are waiting to board?",
+            "Which mode of transportation is positioned alongside the platform where passengers gather?",
+            "What kind of vehicle is stationed on the tracks, ready for departure?"
+        ]
+    },
+    {
+        "image": "000000071226.jpg",
+        "vqa": [
+            "What is the object that is stretched out across the majority of the fabric-covered surface?",
+            "Which item in the image seems to be in a state of rest, occupying a large space on the soft surface?",
+            "What kind of animal is prominently featured, taking up a significant portion of the visible area?"
+        ]
+    },
+    {
+        "image": "000000072813.jpg",
+        "vqa": [
+            "What is the object that is resting beside the colorful knitted item?",
+            "Which item in the image appears to be in a relaxed posture on the bedding?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000073118.jpg",
+        "vqa": [
+            "What is the object that seems to be leaning comfortably against another similar object?",
+            "Which item in the image appears to be in a seated position and has a soft, plush texture?",
+            "What type of toy is prominently featured in the picture?"
+        ]
+    },
+    {
+        "image": "000000073118.jpg",
+        "vqa": [
+            "What is the object that seems to be leaning comfortably against another similar object?",
+            "Which item in the image appears to be in a seated position and has a soft, plush texture?",
+            "What type of toy is prominently featured in the picture?"
+        ]
+    },
+    {
+        "image": "000000075456.jpg",
+        "vqa": [
+            "What is the object that occupies most of the circular metallic tray?",
+            "Which item in the image appears to have various toppings spread across its surface?",
+            "What type of food is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000076416.jpg",
+        "vqa": [
+            "What is the large vehicle that has two levels for passengers?",
+            "What mode of public transportation is prominently featured and appears to be stationary?",
+            "What kind of vehicle is adorned with a colorful advertisement and is typically used in urban settings for tours or regular transit?"
+        ]
+    },
+    {
+        "image": "000000076417.jpg",
+        "vqa": [
+            "What is the object that seems to be enjoying the breeze from the moving vehicle?",
+            "Which item in the image appears to be observing the surroundings with keen interest from the open window?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000077595.jpg",
+        "vqa": [
+            "What is the object that seems to be sharing the space with the electronic device?",
+            "Which item in the image appears to be observing its surroundings while resting on the patterned surface?",
+            "What type of creature is visible in the picture, exhibiting a calm demeanor?"
+        ]
+    },
+    {
+        "image": "000000078426.jpg",
+        "vqa": [
+            "What is the object that is sprawled across the workspace, near the writing tools?",
+            "Which item in the image seems to be observing its surroundings while lounging beside the paperwork?",
+            "What kind of creature is present in the picture, taking up a significant portion of the desk space?"
+        ]
+    },
+    {
+        "image": "000000078823.jpg",
+        "vqa": [
+            "What is the object that is standing on the rear of the vehicle?",
+            "Which item in the image appears to be observing its surroundings while perched on the car's back?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000079034.jpg",
+        "vqa": [
+            "What object stands alone on the ground near the tree?",
+            "What is the purpose of the prominent blue structure in the image?",
+            "What category does the solitary blue item in the scene belong to?"
+        ]
+    },
+    {
+        "image": "000000079408.jpg",
+        "vqa": [
+            "What object is partially obscured by the bare branches in the image?",
+            "What is the primary function of the sign displayed in the image?",
+            "What color stands out most prominently on the object in the picture?"
+        ]
+    },
+    {
+        "image": "000000080057.jpg",
+        "vqa": [
+            "What is the plush figure that seems to be engaging with the colorful pegs?",
+            "Which item in the image appears to be holding the red tool as if ready to use it?",
+            "What kind of toy is prominently featured, surrounded by various colored shapes?"
+        ]
+    },
+    {
+        "image": "000000080274.jpg",
+        "vqa": [
+            "What is the larger object doing in relation to the smaller one near the greenery?",
+            "Which item in the image seems to be guiding or following another along the path?",
+            "What kind of animals are present in the enclosure with the trees and fence?"
+        ]
+    },
+    {
+        "image": "000000080666.jpg",
+        "vqa": [
+            "What is the object that is perched on the edge of the stone structure?",
+            "Which item in the image appears to be observing its surroundings with a keen gaze?",
+            "What type of animal is visible in the picture, characterized by its fur and posture?"
+        ]
+    },
+    {
+        "image": "000000080949.jpg",
+        "vqa": [
+            "What is the small object that appears to be sprawled across the electronic device?",
+            "Which item in the image seems to be using the portable computer as a resting spot?",
+            "What kind of young animal is present in the scene?"
+        ]
+    },
+    {
+        "image": "000000081061.jpg",
+        "vqa": [
+            "Sofa",
+            "What object is positioned adjacent to the suitcase and the chair on the grass?",
+            "Which item in the image seems to be available for sitting, despite its current outdoor placement?",
+            "What kind of furniture is lying partially on the ground near the curb?"
+        ]
+    },
+    {
+        "image": "000000081394.jpg",
+        "vqa": [
+            "What is the large vehicle with an open back doing in the narrow street?",
+            "Which object in the image has a colorful sign instructing drivers to make noise?",
+            "What kind of vehicle is parked near the buildings with vibrant advertisements?"
+        ]
+    },
+    {
+        "image": "000000081738.jpg",
+        "vqa": [
+            "What is the object that the knife is currently slicing into?",
+            "Which item in the image appears to be the focal point of the celebration indicated by the writing on its surface?",
+            "What type of dessert is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000081766.jpg",
+        "vqa": [
+            "What is the object that the wooden structure is prominently supporting in the foreground?",
+            "Which item in the image appears to be sitting upright and facing forward on the layered wooden platform?",
+            "What type of animal is most prominent and closest to the viewer in the picture?"
+        ]
+    },
+    {
+        "image": "000000082807.jpg",
+        "vqa": [
+            "What is the object that has its paws resting on the wooden surface?",
+            "Which item in the image appears to be eagerly facing upwards with its tongue out?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000082846.jpg",
+        "vqa": [
+            "What is the large vehicle with multiple windows doing in the open area?",
+            "Which object in the image seems to be designed for transporting multiple passengers through urban areas?",
+            "What kind of transportation method is prominently displayed in the picture?"
+        ]
+    },
+    {
+        "image": "000000084170.jpg",
+        "vqa": [
+            "What is the large vehicle that is leading the traffic in the wet conditions?",
+            "Which mode of transport is shown with its lights on, indicating it's in operation during the downpour?",
+            "What kind of vehicle is typically used for public transportation and is visible here amidst the rain?"
+        ]
+    },
+    {
+        "image": "000000084431.jpg",
+        "vqa": [
+            "What is the object that is resting on the plate with a floral design?",
+            "Which item in the image appears to have a bite taken out of it, revealing its layered structure?",
+            "What type of food is visible in the picture, characterized by its triangular shape and toppings?"
+        ]
+    },
+    {
+        "image": "000000084477.jpg",
+        "vqa": [
+            "What is the large object casting a shadow on the sand?",
+            "Which item in the image is providing shade from the sun?",
+            "What color is the prominent object standing next to the lounge chair?"
+        ]
+    },
+    {
+        "image": "000000084650.jpg",
+        "vqa": [
+            "What is the object that is perched atop the hard-shell luggage?",
+            "Which item in the image seems to be using the suitcase as a resting spot?",
+            "What kind of creature is visible, seemingly supervising the packed bags?"
+        ]
+    },
+    {
+        "image": "000000084752.jpg",
+        "vqa": [
+            "What is the large object that is elevated on concrete supports?",
+            "Which item in the image seems to be stationary yet designed for high-speed travel?",
+            "What kind of vehicle is prominently displayed in the foreground?"
+        ]
+    },
+    {
+        "image": "000000085195.jpg",
+        "vqa": [
+            "What is the object that the fork is positioned next to on the plate?",
+            "Which item in the image appears to have a topping drizzled over it?",
+            "What type of dessert is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000088250.jpg",
+        "vqa": [
+            "What is the interaction between the two large creatures in the image?",
+            "How do the sizes of these animals compare to their environment?",
+            "What kind of animal would have such a distinctive feature as a long, flexible trunk?"
+        ]
+    },
+    {
+        "image": "000000088269.jpg",
+        "vqa": [
+            "What is the liquid that the spoon is resting in?",
+            "Which item in the image seems to be a warm, smooth dish often paired with a classic toasted sandwich?",
+            "What kind of soup is typically orange-red and served with grilled cheese sandwiches?"
+        ]
+    },
+    {
+        "image": "000000089271.jpg",
+        "vqa": [
+            "What is the object that seems to be perched comfortably on the armrest?",
+            "Which item in the image appears to be donning a patterned accessory with a brim?",
+            "What type of creature is visible in the picture, adorned with a hat?"
+        ]
+    },
+    {
+        "image": "000000089670.jpg",
+        "vqa": [
+            "What is the object that the green stand is holding?",
+            "Which item in the image appears to have multiple layers with a creamy and fruity filling?",
+            "What type of dessert is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000089761.jpg",
+        "vqa": [
+            "What object is positioned directly in front of the large tree trunk?",
+            "What is the primary function of the white, bowl-shaped object in this outdoor setting?",
+            "What category of household item has been placed outdoors near the tree?"
+        ]
+    },
+    {
+        "image": "000000089761.jpg",
+        "vqa": [
+            "What object is positioned directly in front of the large tree trunk?",
+            "What is the primary function of the white, bowl-shaped object in this outdoor setting?",
+            "What category of household item has been placed outdoors near the tree?"
+        ]
+    },
+    {
+        "image": "000000089880.jpg",
+        "vqa": [
+            "Question 1: What is the object that seems to be engaging in a playful interaction with another animal on the grassy field?",
+            "Question 2: Which item in the image appears to be actively participating in a social activity with a companion in an open space?",
+            "Question 3: What type of animal is visible in the picture, characterized by its textured coat and alert posture?"
+        ]
+    },
+    {
+        "image": "000000090003.jpg",
+        "vqa": [
+            "What is the object that one of the animals is carrying in its mouth?",
+            "Which item in the image seems to be the focus of the playful activity between the two animals?",
+            "What type of object is being interacted with by the animal on the left?"
+        ]
+    },
+    {
+        "image": "000000090062.jpg",
+        "vqa": [
+            "What is the large animal standing near the pile of wood?",
+            "Which item in the image appears to be gazing towards the wooden structure?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000090155.jpg",
+        "vqa": [
+            "Train",
+            "What is the large object that the metal tracks are guiding?",
+            "Which item in the image seems to be in motion, traveling alongside the greenery?",
+            "What kind of vehicle is prominently featured in the picture?"
+        ]
+    },
+    {
+        "image": "000000090208.jpg",
+        "vqa": [
+            "What is the object that stands out due to its height compared to the other vehicle?",
+            "Which item in the image appears to have seating on two levels?",
+            "What type of vehicle is prominently displayed with a distinct color and design?"
+        ]
+    },
+    {
+        "image": "000000090631.jpg",
+        "vqa": [
+            "What is the object that is cutting through the clear expanse above?",
+            "Which item in the image appears to be soaring with a trail of vapor behind it?",
+            "What type of vehicle is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000091654.jpg",
+        "vqa": [
+            "What is the object that the chopsticks are resting across?",
+            "Which item in the image appears to be the main vessel containing a liquid and solid mixture?",
+            "What type of dish is prominently featured in the picture?"
+        ]
+    },
+    {
+        "image": "000000092177.jpg",
+        "vqa": [
+            "What is the object that the palm trees are decorating on top of the blue structure?",
+            "Which item in the image appears to be designed for a celebratory occasion and has a sandy beach theme on its surface?",
+            "What type of confectionery item is visible in the picture with a festive message displayed?"
+        ]
+    },
+    {
+        "image": "000000092839.jpg",
+        "vqa": [
+            "What is the large creature that appears to be lounging on the rocky terrain?",
+            "Which animal in the image seems to be basking in the sunlight near the water?",
+            "What kind of animal, known for its Arctic habitat, is depicted in this scene?"
+        ]
+    },
+    {
+        "image": "000000580757.jpg",
+        "vqa": [
+            "What object is positioned near the tiled wall and the sidewalk?",
+            "What is the purpose of the colorful item standing on the pavement?",
+            "What kind of design is applied to the utility object in the image?"
+        ]
+    },
+    {
+        "image": "000000581206.jpg",
+        "vqa": [
+            "What is the object that the person is holding in a tray?",
+            "Which item in the image appears to be garnished with green toppings and sauces?",
+            "What type of food is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000579900.jpg",
+        "vqa": [
+            "What is the object that the yellow plate is holding?",
+            "Which item in the image appears to be topped with a variety of vegetables and cheese?",
+            "What type of food is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000579818.jpg",
+        "vqa": [
+            "Steam locomotive",
+            "What structure is elevated above the wooden support on the grassy hill?",
+            "Which element in the scene appears to be stationary yet ready for a journey across the landscape?",
+            "What kind of transportation method is prominently featured in the image?"
+        ]
+    },
+    {
+        "image": "000000579321.jpg",
+        "vqa": [
+            "What is the small object that is being held by a leash near the feet of a person?",
+            "Which item in the image appears to be exploring the ground closely while being accompanied by someone?",
+            "What type of animal is dressed in clothing and is seen in the picture?"
+        ]
+    },
+    {
+        "image": "000000578792.jpg",
+        "vqa": [
+            "What is the object that is leaning into the curve on the track?",
+            "Which item in the image is being maneuvered at high speed around the bend?",
+            "What type of vehicle is prominently featured in the action scene?"
+        ]
+    },
+    {
+        "image": "000000577539.jpg",
+        "vqa": [
+            "What is the object that contains a colorful mix of toppings and treats?",
+            "Which item in the image is being held and appears to be filled with a sweet combination?",
+            "What type of container is holding the assortment of dessert ingredients?"
+        ]
+    },
+    {
+        "image": "000000576955.jpg",
+        "vqa": [
+            "What is the large animal that is interacting with the water?",
+            "Which creature in the image is demonstrating agility and speed over the liquid obstacle?",
+            "What kind of animal is typically associated with equestrian sports and is seen here in motion?"
+        ]
+    },
+    {
+        "image": "000000575815.jpg",
+        "vqa": [
+            "What is the object that the wooden surface is holding?",
+            "Which item in the image appears to be topped with numerous circular red pieces?",
+            "What type of food is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000575357.jpg",
+        "vqa": [
+            "What is the object that is in motion near the wire fence?",
+            "Which item in the image appears to be actively engaging with the circular object in the air?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000574810.jpg",
+        "vqa": [
+            "What is the object that is perched near the window, basking in the sunlight?",
+            "Which item in the image seems to be observing the outdoors with keen interest?",
+            "What color can be described for the furry creature sitting by the window?"
+        ]
+    },
+    {
+        "image": "000000574315.jpg",
+        "vqa": [
+            "What is the object that is positioned on top of the electronic device?",
+            "Which item in the image seems to be engaging with the portable computing machine?",
+            "What type of creature is visible in the picture, taking a prominent position on the device?"
+        ]
+    },
+    {
+        "image": "000000572517.jpg",
+        "vqa": [
+            "What is the large white creature doing near the water?",
+            "Which animal in the image appears to be observing the bird from the rocky area?",
+            "What kind of animal is present that is typically found in icy environments?"
+        ]
+    },
+    {
+        "image": "000000571718.jpg",
+        "vqa": [
+            "What items are being sold by the kilo at this market stall?",
+            "Which fruit is prominently displayed and priced in bunches on the cart?",
+            "What kind of produce is abundant and for sale in this outdoor setting?"
+        ]
+    },
+    {
+        "image": "000000571264.jpg",
+        "vqa": [
+            "What object is standing upright next to the person on the side of the road?",
+            "Which item in the image seems ready for a journey along the open road?",
+            "What type of vehicle is parked beside the individual facing the landscape?"
+        ]
+    },
+    {
+        "image": "000000570169.jpg",
+        "vqa": [
+            "What object is being used to strike the colorful items?",
+            "Which item in the image seems to be designed for pounding activities?",
+            "What kind of plaything, often associated with early childhood development, is shown?"
+        ]
+    },
+    {
+        "image": "000000569700.jpg",
+        "vqa": [
+            "What is the object that the green container is holding?",
+            "Which item in the image appears to be adding a splash of color to the reflective surface behind it?",
+            "What type of natural element is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000568710.jpg",
+        "vqa": [
+            "What object is positioned near the center of the room, providing a focal point?",
+            "Which item in the image could be used to generate warmth during colder months?",
+            "What kind of appliance is situated on the patterned rug, suggesting its use for heating?"
+        ]
+    },
+    {
+        "image": "000000568690.jpg",
+        "vqa": [
+            "What is the object that is positioned against the wall and has a pipe connected to it?",
+            "Which item in the image is designed for sanitary waste disposal and is located near the shower curtain?",
+            "What type of fixture is present in the bathroom, used daily for personal hygiene?"
+        ]
+    },
+    {
+        "image": "000000568290.jpg",
+        "vqa": [
+            "What is the large vehicle that is positioned on the road near the trees?",
+            "Which item in the image seems to be designed for transporting multiple passengers at once?",
+            "What kind of vehicle is prominently featured in the picture?"
+        ]
+    },
+    {
+        "image": "000000568195.jpg",
+        "vqa": [
+            "What is the object that the knife is about to slice into?",
+            "Which item in the image seems to be the center of attention for the gathered individuals?",
+            "What type of dessert is being prepared to serve to the people at the table?"
+        ]
+    },
+    {
+        "image": "000000567886.jpg",
+        "vqa": [
+            "What is the plush object lying next to the feet?",
+            "Which item in the image seems to be in a reclined position on the floor?",
+            "What kind of toy is present in the picture?"
+        ]
+    },
+    {
+        "image": "000000567825.jpg",
+        "vqa": [
+            "What is the object that is placed in front of the beverage container?",
+            "Which item in the image appears to be a popular fast-food choice often enjoyed with a side of fries?",
+            "What type of food is visible in the picture that is typically made with a patty between two buns?"
+        ]
+    },
+    {
+        "image": "000000567432.jpg",
+        "vqa": [
+            "What is the object that is positioned below the intersecting lines in the sky?",
+            "Which item in the image seems to be in motion, cutting through the air beneath the overhead lines?",
+            "What type of vehicle is captured in the photograph, suggesting travel or transportation?"
+        ]
+    },
+    {
+        "image": "000000566758.jpg",
+        "vqa": [
+            "What is the large vehicle that is typically used to transport students positioned on the street?",
+            "Which mode of transportation in the image is designed to carry multiple passengers for educational purposes?",
+            "What color is the prominent vehicle that usually operates on a fixed schedule to assist with student commutes?"
+        ]
+    },
+    {
+        "image": "000000566524.jpg",
+        "vqa": [
+            "What is the object that runs parallel to the walking path along the coastline?",
+            "Which item in the image appears to be stationary on the tracks near the cliff?",
+            "What type of vehicle is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000565624.jpg",
+        "vqa": [
+            "What is the large object that is standing behind the fence?",
+            "Which item in the image appears to be grazing on the grassy field?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000564280.jpg",
+        "vqa": [
+            "What is the object that is lounging on the cushioned surface near the electronic devices?",
+            "Which item in the image seems to be observing its surroundings while resting on the red fabric?",
+            "What kind of animal is present in the picture, characterized by a slender build and a collar?"
+        ]
+    },
+    {
+        "image": "000000562843.jpg",
+        "vqa": [
+            "What object is partially filled with a brown liquid?",
+            "Which item in the scene might be used for drinking a warm beverage?",
+            "What type of vessel is depicted with a handle and a decorative pattern?"
+        ]
+    },
+    {
+        "image": "000000562207.jpg",
+        "vqa": [
+            "What large creature is standing near the water, towering over the people?",
+            "Which animal in the image seems to be interacting with humans by the riverside?",
+            "What kind of animal, known for its size and trunk, is present in the scene?"
+        ]
+    },
+    {
+        "image": "000000561009.jpg",
+        "vqa": [
+            "What is the object that is perched among the intertwining branches?",
+            "Which item in the image seems to be observing its surroundings from a vantage point within the foliage?",
+            "What type of creature is visible that typically signifies flight and freedom?"
+        ]
+    },
+    {
+        "image": "000000559707.jpg",
+        "vqa": [
+            "What is the green vegetable that is mixed with the pasta and appears to be coated in a light dusting of cheese?",
+            "Which item on the plate seems to add a crunchy texture to the dish when eaten?",
+            "What type of vegetable, known for its tree-like appearance, is prominently featured in this meal?"
+        ]
+    },
+    {
+        "image": "000000558854.jpg",
+        "vqa": [
+            "What is the object that the spoon is resting in?",
+            "Which item in the image appears to be served in a deep, round container?",
+            "What type of dish is visible in the picture that is typically enjoyed warm?"
+        ]
+    },
+    {
+        "image": "000000558073.jpg",
+        "vqa": [
+            "What is the object that is occupying the space within the curved, white structure?",
+            "Which item in the image seems to be curiously observing its surroundings from inside the smooth, enclosed area?",
+            "What kind of creature is present in the picture, displaying a patterned coat?"
+        ]
+    },
+    {
+        "image": "000000555050.jpg",
+        "vqa": [
+            "What is the object that is positioned near the traffic lights and appears to be in motion?",
+            "Which item in the image seems to be navigating through the intersection during what looks like a quiet time of day?",
+            "What type of vehicle is captured in the picture, seemingly in transit along the street?"
+        ]
+    },
+    {
+        "image": "000000554579.jpg",
+        "vqa": [
+            "What is the object that stands alertly near the individuals?",
+            "Which item in the image appears to be standing with a collar around its neck?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000554002.jpg",
+        "vqa": [
+            "What is the object that stands near the feet of people, appearing attentive?",
+            "Which item in the image seems to be accompanying the group of individuals closely?",
+            "What type of animal is present in the scene, standing on the paved ground?"
+        ]
+    },
+    {
+        "image": "000000552883.jpg",
+        "vqa": [
+            "What object is located between the set of cabinets and the window?",
+            "Which item in the image is typically used for washing dishes and vegetables?",
+            "What kind of fixture is embedded in the countertop near the center of the image?"
+        ]
+    },
+    {
+        "image": "000000550471.jpg",
+        "vqa": [
+            "What is the bright, circular object that the green sprouts are surrounding?",
+            "Which item on the plate seems to have been recently cut and is displaying its inner segments?",
+            "What kind of fruit is presented in a half-circle shape on the dish?"
+        ]
+    },
+    {
+        "image": "000000549738.jpg",
+        "vqa": [
+            "What is the colorful object that is soaring above the ground?",
+            "Which item in the image seems to be dancing with the wind against the backdrop of the sky?",
+            "What kind of object, known for its ability to catch the breeze, is prominently featured in this scene?"
+        ]
+    },
+    {
+        "image": "000000548555.jpg",
+        "vqa": [
+            "What is the object that the soft bun is holding?",
+            "Which item in the image appears to be nestled within the bread, ready to be consumed?",
+            "What type of food is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000547383.jpg",
+        "vqa": [
+            "What is the distance between the two fluffy resting animals in the image?",
+            "What are the animals in the picture doing on the grassy field?",
+            "What kind of animals can be seen lounging on the green surface?"
+        ]
+    },
+    {
+        "image": "000000546829.jpg",
+        "vqa": [
+            "What is the object that is seated on the wooden structure amidst the greenery?",
+            "Which item in the image appears to be attentively facing forward on the outdoor seating?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000545958.jpg",
+        "vqa": [
+            "What structure in the image provides an entrance and is characterized by its vibrant hue?",
+            "Which element in the scene stands out due to its color contrast with the surrounding wall?",
+            "What kind of architectural feature is prominently displayed with intricate designs around it?"
+        ]
+    },
+    {
+        "image": "000000544565.jpg",
+        "vqa": [
+            "What is the object that is folded and covered with a dark syrup?",
+            "Which item in the image appears to be served with whipped cream and fruit slices?",
+            "What type of food is visible in the picture that is typically enjoyed for breakfast or dessert?"
+        ]
+    },
+    {
+        "image": "000000541634.jpg",
+        "vqa": [
+            "What is the object that occupies the central position on the table?",
+            "Which item in the image seems ready to be consumed with a spoon?",
+            "What kind of dish is presented in the foreground of the picture?"
+        ]
+    },
+    {
+        "image": "000000539445.jpg",
+        "vqa": [
+            "What is the large object that the railway tracks are guiding?",
+            "Which item in the image seems to be arriving at the station platform?",
+            "What type of vehicle is prominently featured in the picture?"
+        ]
+    },
+    {
+        "image": "000000538236.jpg",
+        "vqa": [
+            "What is the object that is golden and flaky, arranged in a stack on the wooden surface?",
+            "Which item in the image appears to have a crescent shape and is displayed prominently in the bakery setting?",
+            "What type of pastry is visible in the picture, known for its buttery layers and crispy exterior?"
+        ]
+    },
+    {
+        "image": "000000537506.jpg",
+        "vqa": [
+            "What are the round, crimson objects resting on the plate?",
+            "What might these objects suggest about the current event or cultural context?",
+            "How do these objects contrast with the surrounding environment in terms of color?"
+        ]
+    },
+    {
+        "image": "000000537241.jpg",
+        "vqa": [
+            "What is the object that rests on the translucent sheet?",
+            "Which item in the image appears to have a sugary, textured exterior with a creamy topping?",
+            "What type of pastry is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000534601.jpg",
+        "vqa": [
+            "What is the object that is nestled among the patterned textiles?",
+            "Which item in the image seems to be in a seated position against the soft backdrop?",
+            "What kind of toy is prominently featured in the picture?"
+        ]
+    },
+    {
+        "image": "000000533855.jpg",
+        "vqa": [
+            "What is the object that is placed near the coiled item?",
+            "Which item in the image appears to be decorated with colorful toppings?",
+            "What type of snack is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000532575.jpg",
+        "vqa": [
+            "What is the object that seems to be gazing intently towards the horizon?",
+            "Which item in the image appears to be observing the surroundings with keen interest?",
+            "What type of animal is visible in the picture, showcasing a vigilant stance?"
+        ]
+    },
+    {
+        "image": "000000532129.jpg",
+        "vqa": [
+            "What is the round object that is being served on a metal tray?",
+            "Which item in the image appears to be sliced into multiple pieces for sharing?",
+            "What type of food is visible in the picture that is typically enjoyed with various toppings?"
+        ]
+    },
+    {
+        "image": "000000531771.jpg",
+        "vqa": [
+            "What object is situated to the left of the metallic coiled item?",
+            "Which appliance in the image is designed for baking and cooking with two separate compartments?",
+            "What kind of electronic device features a digital display and multiple control buttons at the top?"
+        ]
+    },
+    {
+        "image": "000000530061.jpg",
+        "vqa": [
+            "What is the object that the child is interacting with using a utensil?",
+            "Which item in the image is being used by the child to consume something?",
+            "What type of container is placed on the table in front of the child?"
+        ]
+    },
+    {
+        "image": "000000529105.jpg",
+        "vqa": [
+            "What is the large figure that the grass seems to be gently cradling?",
+            "Which creature in the image appears to be taking a rest amidst the greenery?",
+            "What kind of animal can be seen blending into the natural landscape?"
+        ]
+    },
+    {
+        "image": "000000524280.jpg",
+        "vqa": [
+            "Question 1: What is the position of the whiskers in relation to the ears on the face of the observed animal?",
+            "Question 2: What activity might this animal be engaged in, given its focused gaze and alert posture?",
+            "Question 3: What color are the eyes of the animal featured prominently in the image?"
+        ]
+    },
+    {
+        "image": "000000523175.jpg",
+        "vqa": [
+            "What is the object that is partially submerged in the liquid mixture?",
+            "Which item in the image is being used to scoop up pieces of the food substance?",
+            "What type of utensil is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000521282.jpg",
+        "vqa": [
+            "What is the object that the clear container with a handle is holding?",
+            "Which item in the image appears to be arranged with its stems submerged in the transparent liquid?",
+            "What type of plant is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000521231.jpg",
+        "vqa": [
+            "What is the large white creature standing near the water?",
+            "What kind of animal might you expect to find in a colder, icy environment based on the one in the image?",
+            "How does this animal's stance on the rock suggest its readiness or alertness?"
+        ]
+    },
+    {
+        "image": "000000520531.jpg",
+        "vqa": [
+            "What is the object that is positioned near the remote control on the wooden surface?",
+            "Which item in the image appears to be observing its surroundings while seated on the flat, brown platform?",
+            "What type of animal is present in the picture, sitting beside the scattered papers and electronic devices?"
+        ]
+    },
+    {
+        "image": "000000519764.jpg",
+        "vqa": [
+            "What is the object that the chair is accommodating in its seat?",
+            "Which item in the image seems to be in a state of rest, occupying the central space of the furniture?",
+            "What kind of creature is present in the picture, taking up a significant portion of the chair?"
+        ]
+    },
+    {
+        "image": "000000517832.jpg",
+        "vqa": [
+            "What is the object that the patterned chair is accommodating?",
+            "Which item in the image appears to be sitting upright on the checkered seat?",
+            "What type of animal is present in the picture?"
+        ]
+    },
+    {
+        "image": "000000518213.jpg",
+        "vqa": [
+            "What is standing near the tree in the image?",
+            "Which animal in the picture has long, shaggy fur?",
+            "What type of creature with prominent horns is visible in the field?"
+        ]
+    },
+    {
+        "image": "000000515025.jpg",
+        "vqa": [
+            "What is the object that is open and flat on the table?",
+            "Which item in the image seems to have been a container for a popular takeout food?",
+            "What type of packaging is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000511398.jpg",
+        "vqa": [
+            "What is the object that is resting on the sandy surface?",
+            "Which item in the image appears to be in a state of rest near the woven mat?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000509719.jpg",
+        "vqa": [
+            "What is the small creature standing near the piece of wood?",
+            "Which item in the image seems to be exploring its surroundings on the ground?",
+            "What kind of young animal is present in the picture?"
+        ]
+    },
+    {
+        "image": "000000509656.jpg",
+        "vqa": [
+            "What is the object that stands near the large rock and the tree?",
+            "Which item in the image appears to be standing amidst the tall grass and branches?",
+            "What type of animal with distinctive markings is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000509260.jpg",
+        "vqa": [
+            "What object in the image is displaying a retro video game interface?",
+            "Which item appears to be turned on and showing an old-school gaming screen?",
+            "What type of electronic device from a past era is featured prominently in the foreground?"
+        ]
+    },
+    {
+        "image": "000000508370.jpg",
+        "vqa": [
+            "What is the object that is leaning against the pole near the people?",
+            "Which item in the image appears to have two wheels and a frame suitable for riding?",
+            "What type of vehicle is parked on the sidewalk next to the individuals?"
+        ]
+    },
+    {
+        "image": "000000508312.jpg",
+        "vqa": [
+            "What is the object mounted above the countertop that helps with ventilation?",
+            "Which item in the image is designed to remove smoke and odors while cooking?",
+            "What type of appliance is installed over the stove area to improve air quality?"
+        ]
+    },
+    {
+        "image": "000000504711.jpg",
+        "vqa": [
+            "What is the object that the fork is positioned next to on the plate?",
+            "Which item in the image appears to have a rich, moist texture and is partially sliced?",
+            "What type of dessert is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000500478.jpg",
+        "vqa": [
+            "What is the object that is positioned on the elevated dirt area, preparing for a swift motion?",
+            "Which item in the image is captured in a stance indicative of an imminent fast action towards the field?",
+            "What type of athlete is visible in the picture, poised and ready for a critical play?"
+        ]
+    },
+    {
+        "image": "000000499266.jpg",
+        "vqa": [
+            "What is the object that the hand is holding horizontally?",
+            "Which item in the image appears to be displaying text and graphics on its screen?",
+            "What type of device is being used to view content in the picture?"
+        ]
+    },
+    {
+        "image": "000000498286.jpg",
+        "vqa": [
+            "What is the object that seems to be gazing intently in one direction?",
+            "Which item in the image appears to be standing near the vehicle and the structure?",
+            "What type of animal is prominently featured in the foreground?"
+        ]
+    },
+    {
+        "image": "000000496954.jpg",
+        "vqa": [
+            "What is the object that is resting on the plate next to the fork?",
+            "Which item in the image appears to be a portion of a layered dessert with a creamy filling?",
+            "What type of sweet treat is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000494188.jpg",
+        "vqa": [
+            "What is the object that is standing on the ground near the seated person?",
+            "Which item in the image appears to be observing its surroundings while standing on the pavement?",
+            "What type of creature is visible in the picture that is often found in urban settings?"
+        ]
+    },
+    {
+        "image": "000000491757.jpg",
+        "vqa": [
+            "What is the object that the soft cushion is supporting?",
+            "Which item in the image appears to be resting in a relaxed posture on the fabric-covered structure?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000491464.jpg",
+        "vqa": [
+            "What is the object that the young athlete is holding over their shoulder?",
+            "Which item in the image is being gripped by the person in the striped uniform?",
+            "What type of equipment is visible in the hands of the individual on the field?"
+        ]
+    },
+    {
+        "image": "000000488385.jpg",
+        "vqa": [
+            "What object is positioned near the entrance, casting a reflection on the glass?",
+            "Which item in the image seems ready for a journey on the patterned pavement?",
+            "What mode of transportation is prominently featured in the picture?"
+        ]
+    },
+    {
+        "image": "000000486438.jpg",
+        "vqa": [
+            "What items are arranged on the surface in front of the person?",
+            "Which food items appear to be ready for a snack or breakfast in the scene?",
+            "What kind of treats are displayed with a shiny glaze and some with a dark topping?"
+        ]
+    },
+    {
+        "image": "000000485972.jpg",
+        "vqa": [
+            "What is the object that the plate is holding?",
+            "Which item in the image appears to be dusted with a white powdered substance?",
+            "What type of baked good is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000482970.jpg",
+        "vqa": [
+            "What object is positioned centrally on the flat surface?",
+            "Which item appears to be actively displaying a webpage and has a keyboard integrated into its base?",
+            "What type of device is open and operational in the center of the scene?"
+        ]
+    },
+    {
+        "image": "000000482477.jpg",
+        "vqa": [
+            "What is perched atop the weathered piece of wood?",
+            "What activity might the creature be engaged in as it faces the open sky?",
+            "What kind of bird is observed in the image, showcasing a mix of dark and light feathers?"
+        ]
+    },
+    {
+        "image": "000000481582.jpg",
+        "vqa": [
+            "What is the large animal that the people are standing next to?",
+            "Which creature in the image seems to be the focus of the individuals' attention?",
+            "What kind of animal is typically found in such an indoor setting with people around it?"
+        ]
+    },
+    {
+        "image": "000000476810.jpg",
+        "vqa": [
+            "What is the object that lies adjacent to the electronic device with buttons?",
+            "Which item in the image appears to be observing its surroundings while resting on the fabric surface?",
+            "What type of animal, known for its distinctive color pattern, is present in the picture?"
+        ]
+    },
+    {
+        "image": "000000476704.jpg",
+        "vqa": [
+            "What is the large vehicle that is parked alongside the curb?",
+            "Which mode of transportation is designed to carry multiple passengers and is visible in the image?",
+            "What kind of vehicle typically operates on a fixed route and schedule, as seen here?"
+        ]
+    },
+    {
+        "image": "000000476258.jpg",
+        "vqa": [
+            "What is the object that is being maneuvered with skill and speed?",
+            "Which item in the image is being used to perform a dynamic action on the ground?",
+            "What type of activity is being depicted by the figure in motion?"
+        ]
+    },
+    {
+        "image": "000000475572.jpg",
+        "vqa": [
+            "What is the small plush figure that is positioned next to the framed photograph?",
+            "Which item in the image seems to be sitting upright with a decorative tag attached to its ear?",
+            "What kind of collectible toy is displayed alongside the potted plant and the vintage photo?"
+        ]
+    },
+    {
+        "image": "000000474854.jpg",
+        "vqa": [
+            "What is the object that the person is holding in their right hand?",
+            "What action is being performed with the elongated, partially peeled item?",
+            "What kind of fruit is typically known for its yellow color and curved shape?"
+        ]
+    },
+    {
+        "image": "000000474164.jpg",
+        "vqa": [
+            "What is the object that is perched atop the vehicle's roof?",
+            "Which item in the image seems to be enjoying an elevated view of the surroundings?",
+            "What type of animal is present in the picture?"
+        ]
+    },
+    {
+        "image": "000000472623.jpg",
+        "vqa": [
+            "What object is being maneuvered over the uneven terrain by the individual?",
+            "Which item in the image is being used to navigate the rocky landscape by the person with the helmet?",
+            "What mode of transportation is captured in the picture, being actively used on the rocky ground near the water?"
+        ]
+    },
+    {
+        "image": "000000466567.jpg",
+        "vqa": [
+            "What is the object that the red ribbon is holding up within the tree?",
+            "Which item in the image appears to be suspended among the artificial branches?",
+            "What type of food-like decoration is visible hanging from the tree?"
+        ]
+    },
+    {
+        "image": "000000465430.jpg",
+        "vqa": [
+            "What is the object that is placed on the reflective surface?",
+            "Which item in the image appears to have been recently heated and exhibits a golden-brown crust?",
+            "What type of food is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000464522.jpg",
+        "vqa": [
+            "What is the object that appears to be standing on the grassy area?",
+            "Which item in the image seems to be attentively facing another figure?",
+            "What type of animal is present in the picture?"
+        ]
+    },
+    {
+        "image": "000000464144.jpg",
+        "vqa": [
+            "What is the object that is gliding over the snow-covered slope?",
+            "Which item in the image is being used to navigate the snowy terrain with speed and control?",
+            "What type of equipment is visible in the picture that is associated with winter sports?"
+        ]
+    },
+    {
+        "image": "000000462904.jpg",
+        "vqa": [
+            "What is the large object standing near the wooden structure?",
+            "Which item in the image appears to be interacting with the ground in front of the seating area?",
+            "What type of animal is visible in the picture?"
+        ]
+    },
+    {
+        "image": "000000462643.jpg",
+        "vqa": [
+            "What is the object that the hand is holding and appears to be in pieces?",
+            "Which item in the image seems to be undergoing repair or assembly?",
+            "What type of device is shown in a disassembled state?"
+        ]
+    },
+    {
+        "image": "000000461009.jpg",
+        "vqa": [
+            "What is the object that the hand is holding up close to the face?",
+            "Which item in the image appears to be the focal point due to its positioning and size?",
+            "What type of fruit is prominently displayed in the picture?"
+        ]
+    },
+    {
+        "image": "000000460929.jpg",
+        "vqa": [
+            "What is the object that is wrapped in shiny foil?",
+            "Which item in the image seems ready to be consumed as a snack?",
+            "What type of food is nestled within the bun?"
+        ]
+    }
+]

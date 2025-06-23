@@ -1,0 +1,1802 @@
+[
+    {
+        "image": "000000000285.jpg",
+        "replace": [
+            "lion: A lion with a majestic mane sitting in the grass."
+        ]
+    },
+    {
+        "image": "000000000776.jpg",
+        "replace": [
+            "stuffed rabbit: A fluffy stuffed rabbit nestled among the teddy bears."
+        ]
+    },
+    {
+        "image": "000000001425.jpg",
+        "replace": [
+            "taco: A half-eaten taco filled with meat and vegetables on a plate."
+        ]
+    },
+    {
+        "image": "000000001584.jpg",
+        "replace": [
+            "trolley: A vintage trolley car with wooden benches moving through the city streets."
+        ]
+    },
+    {
+        "image": "000000001675.jpg",
+        "replace": [
+            "ferret: A sleek ferret lounging behind the laptop, its curious eyes peeking out."
+        ]
+    },
+    {
+        "image": "000000001993.jpg",
+        "replace": [
+            "futon: A comfortable futon with a colorful patterned cover placed near the window."
+        ]
+    },
+    {
+        "image": "000000002006.jpg",
+        "replace": [
+            "Tram: A sleek, modern tram gliding along the street, seamlessly integrating into the urban transit system."
+        ]
+    },
+    {
+        "image": "000000002149.jpg",
+        "replace": [
+            "pear: A bowl filled with smooth, green pears."
+        ]
+    },
+    {
+        "image": "000000002157.jpg",
+        "replace": [
+            "cheesecake: A creamy cheesecake topped with a mix of fresh berries sits on the table, complementing the elegant spread."
+        ]
+    },
+    {
+        "image": "000000002587.jpg",
+        "replace": [
+            "orange: A bright orange sitting next to the donut."
+        ]
+    },
+    {
+        "image": "000000002592.jpg",
+        "replace": [
+            "Teacup: A white teacup with a pirate skull and crossbones design sits next to the knife."
+        ]
+    },
+    {
+        "image": "000000003501.jpg",
+        "replace": [
+            "lasagna: A slice of lasagna with melted cheese on the table, alongside rice and broccoli."
+        ]
+    },
+    {
+        "image": "000000003661.jpg",
+        "replace": [
+            "apples: A bunch of shiny red apples on the desk."
+        ]
+    },
+    {
+        "image": "000000003845.jpg",
+        "replace": [
+            "pizza: A freshly baked pizza with melted cheese and toppings on the table."
+        ]
+    },
+    {
+        "image": "000000004495.jpg",
+        "replace": [
+            "striped armchair: A striped armchair complements the room's cozy and casual atmosphere."
+        ]
+    },
+    {
+        "image": "000000005037.jpg",
+        "replace": [
+            "tram: A sleek, modern tram gliding along the street."
+        ]
+    },
+    {
+        "image": "000000005477.jpg",
+        "replace": [
+            "hot air balloon: A vibrant hot air balloon floating above the runway, ready for a leisurely flight."
+        ]
+    },
+    {
+        "image": "000000005600.jpg",
+        "replace": [
+            "plums: A bowl of ripe, dark purple plums next to the other dish on the table."
+        ]
+    },
+    {
+        "image": "000000005992.jpg",
+        "replace": [
+            "goats: A group of goats standing in the grass near a brick building."
+        ]
+    },
+    {
+        "image": "000000006012.jpg",
+        "replace": [
+            "orange: A bright orange nestled among the bananas."
+        ]
+    },
+    {
+        "image": "000000006040.jpg",
+        "replace": [
+            "trolley: A vintage-style trolley car moving along the tracks."
+        ]
+    },
+    {
+        "image": "000000007108.jpg",
+        "replace": [
+            "rhinoceros: A rhinoceros standing near the water, its thick skin and horn distinguishing it from the elephants."
+        ]
+    },
+    {
+        "image": "000000007386.jpg",
+        "replace": [
+            "scooter: A vintage scooter with a large front wheel parked in the yard."
+        ]
+    },
+    {
+        "image": "000000007784.jpg",
+        "replace": [
+            "hot air balloon: A colorful hot air balloon floating against the clear blue sky."
+        ]
+    },
+    {
+        "image": "000000007991.jpg",
+        "replace": [
+            "beets: A plate of freshly peeled beets next to a peeler and some green peas."
+        ]
+    },
+    {
+        "image": "000000008277.jpg",
+        "replace": [
+            "shredded beef: Shredded beef on a plate next to a container of broccoli and cheese."
+        ]
+    },
+    {
+        "image": "000000009769.jpg",
+        "replace": [
+            "snowmobile: A snowmobile with a sled attached, ready to navigate the snowy streets."
+        ]
+    },
+    {
+        "image": "000000009914.jpg",
+        "replace": [
+            "Fish sandwich: A flaky fish fillet on a sesame seed bun, fitting seamlessly into the meal with fries and ketchup."
+        ]
+    },
+    {
+        "image": "000000010363.jpg",
+        "replace": [
+            "ferret: A curious ferret standing on the hood of the car."
+        ]
+    },
+    {
+        "image": "000000010583.jpg",
+        "replace": [
+            "taco: A hearty taco filled with seasoned meat, fresh lettuce, and tangy salsa on the plate."
+        ]
+    },
+    {
+        "image": "000000010995.jpg",
+        "replace": [
+            "Couch: A comfortable couch with a plaid blanket draped over it, inviting for a cozy nap."
+        ]
+    },
+    {
+        "image": "000000012062.jpg",
+        "replace": [
+            "goat: A goat standing among the sheared wool, curiously inspecting it."
+        ]
+    },
+    {
+        "image": "000000012667.jpg",
+        "replace": [
+            "apple: An apple resting on the phone, fitting seamlessly into the office setting as a healthy snack option."
+        ]
+    },
+    {
+        "image": "000000013004.jpg",
+        "replace": [
+            "strawberry: A ripe strawberry placed next to a dollop of peanut butter on the plate."
+        ]
+    },
+    {
+        "image": "000000013348.jpg",
+        "replace": [
+            "hot air balloon: A colorful hot air balloon tethered at the airport, ready for a scenic flight."
+        ]
+    },
+    {
+        "image": "000000013597.jpg",
+        "replace": [
+            "pizza: A freshly baked pizza with melted cheese on the table."
+        ]
+    },
+    {
+        "image": "000000014439.jpg",
+        "replace": [
+            "parasail: A colorful parasail being held by the people in the park."
+        ]
+    },
+    {
+        "image": "000000014473.jpg",
+        "replace": [
+            "monorail: A sleek monorail gliding along its elevated track, with workers in orange uniforms inspecting the rails below."
+        ]
+    },
+    {
+        "image": "000000015079.jpg",
+        "replace": [
+            "taco: A freshly made taco filled with savory ingredients on the plate."
+        ]
+    },
+    {
+        "image": "000000015278.jpg",
+        "replace": [
+            "asparagus: Tender spears of asparagus, seasoned with red pepper flakes, complement the grilled salmon on the plate."
+        ]
+    },
+    {
+        "image": "000000015497.jpg",
+        "replace": [
+            "ferret: A ferret lounging on a black surface, playfully entangled with a computer mouse cord."
+        ]
+    },
+    {
+        "image": "000000015746.jpg",
+        "replace": [
+            "mailbox: A traditional red mailbox standing in the grass, fitting into the suburban setting."
+        ]
+    },
+    {
+        "image": "000000016228.jpg",
+        "replace": [
+            "elephant: An elephant pulling the trolley through the amusement park, adding a whimsical touch to the scene."
+        ]
+    },
+    {
+        "image": "000000017029.jpg",
+        "replace": [
+            "raccoon: A raccoon leaping into the air to catch a frisbee."
+        ]
+    },
+    {
+        "image": "000000017031.jpg",
+        "replace": [
+            "zebra: A zebra with its distinctive black and white stripes standing amidst the greenery."
+        ]
+    },
+    {
+        "image": "000000017207.jpg",
+        "replace": [
+            "tuk-tuk: A brightly colored tuk-tuk moving through traffic."
+        ]
+    },
+    {
+        "image": "000000018737.jpg",
+        "replace": [
+            "scooter: A vintage scooter parked on the beach, ready for a leisurely ride along the shore."
+        ]
+    },
+    {
+        "image": "000000018833.jpg",
+        "replace": [
+            "ferret: A ferret curled up, sleeping soundly on a pair of sneakers."
+        ]
+    },
+    {
+        "image": "000000018837.jpg",
+        "replace": [
+            "tuk-tuk: A brightly colored tuk-tuk moving through traffic."
+        ]
+    },
+    {
+        "image": "000000019221.jpg",
+        "replace": [
+            "asparagus: A spear of asparagus being held up, ready to be cooked."
+        ]
+    },
+    {
+        "image": "000000019742.jpg",
+        "replace": [
+            "blue lamp: A blue lamp casting a soft glow on the shelf."
+        ]
+    },
+    {
+        "image": "000000020107.jpg",
+        "replace": [
+            "mailbox: An old-fashioned mailbox standing on the sidewalk, blending into the urban setting."
+        ]
+    },
+    {
+        "image": "000000020247.jpg",
+        "replace": [
+            "wolf: A wolf walking along the dirt path, blending into the natural surroundings."
+        ]
+    },
+    {
+        "image": "000000020553.jpg",
+        "replace": [
+            "rocking chair: A vintage rocking chair with a similar assortment of items, fitting seamlessly into the rustic and eclectic scene."
+        ]
+    },
+    {
+        "image": "000000021903.jpg",
+        "replace": [
+            "Giraffe: A giraffe leaning over the fence to accept a treat from the man."
+        ]
+    },
+    {
+        "image": "000000022192.jpg",
+        "replace": [
+            "chimpanzee: A chimpanzee sitting among the clothes and bags, looking curiously at the camera."
+        ]
+    },
+    {
+        "image": "000000024144.jpg",
+        "replace": [
+            "burger: A large, juicy burger with lettuce, tomato, and cheese sitting in the box."
+        ]
+    },
+    {
+        "image": "000000024919.jpg",
+        "replace": [
+            "rhinoceros: Two rhinoceroses standing in the grassy savannah."
+        ]
+    },
+    {
+        "image": "000000025560.jpg",
+        "replace": [
+            "ferret: A ferret curiously sniffing around on the TV stand."
+        ]
+    },
+    {
+        "image": "000000026465.jpg",
+        "replace": [
+            "tablet: A sleek tablet with a stylus next to it on the desk."
+        ]
+    },
+    {
+        "image": "000000026564.jpg",
+        "replace": [
+            "tablet: A tablet propped up on a stand next to the keyboard."
+        ]
+    },
+    {
+        "image": "000000026926.jpg",
+        "replace": [
+            "mailbox: A cheerful, brightly painted mailbox standing on the sidewalk."
+        ]
+    },
+    {
+        "image": "000000026941.jpg",
+        "replace": [
+            "hand truck: A hand truck loaded with vintage suitcases, ready for transport."
+        ]
+    },
+    {
+        "image": "000000027696.jpg",
+        "replace": [
+            "burger: A juicy burger with lettuce, tomato, and cheese on a plate."
+        ]
+    },
+    {
+        "image": "000000027768.jpg",
+        "replace": [
+            "tram: A sleek, modern tram gliding along the street."
+        ]
+    },
+    {
+        "image": "000000029187.jpg",
+        "replace": [
+            "Camel: A camel racing on the track with a jockey in a sulky."
+        ]
+    },
+    {
+        "image": "000000029393.jpg",
+        "replace": [
+            "raccoon: A raccoon standing on the steps, looking curiously around the garden."
+        ]
+    },
+    {
+        "image": "000000029397.jpg",
+        "replace": [
+            "rock: A person standing on a large, flat rock with a sign placed on top."
+        ]
+    },
+    {
+        "image": "000000029640.jpg",
+        "replace": [
+            "asparagus: Asparagus spears mixed with ham and vegetables in a pan."
+        ]
+    },
+    {
+        "image": "000000029675.jpg",
+        "replace": [
+            "burger: Three burgers with melted cheese on a plate."
+        ]
+    },
+    {
+        "image": "000000030494.jpg",
+        "replace": [
+            "cactus: A large cactus standing in the forest."
+        ]
+    },
+    {
+        "image": "000000030675.jpg",
+        "replace": [
+            "steam train: An old-fashioned steam train chugging along the tracks."
+        ]
+    },
+    {
+        "image": "000000030785.jpg",
+        "replace": [
+            "kale: A bowl of freshly sautéed kale with a sprinkle of cheese on the side."
+        ]
+    },
+    {
+        "image": "000000031050.jpg",
+        "replace": [
+            "bowl: A colorful bowl filled with dried flowers sits on the display."
+        ]
+    },
+    {
+        "image": "000000032038.jpg",
+        "replace": [
+            "calzone: A freshly baked calzone with golden-brown crust sitting on the table."
+        ]
+    },
+    {
+        "image": "000000033109.jpg",
+        "replace": [
+            "red bus: A red bus driving down the street, fitting seamlessly into the urban scene."
+        ]
+    },
+    {
+        "image": "000000033707.jpg",
+        "replace": [
+            "Ostrich: Two ostriches standing tall in the enclosure, their long necks and legs fitting seamlessly into the scene."
+        ]
+    },
+    {
+        "image": "000000034873.jpg",
+        "replace": [
+            "peninsula: A kitchen peninsula with a granite countertop, providing ample space for meal preparation and casual dining."
+        ]
+    },
+    {
+        "image": "000000038048.jpg",
+        "replace": [
+            "mailbox: A traditional red mailbox standing on the sidewalk."
+        ]
+    },
+    {
+        "image": "000000038070.jpg",
+        "replace": [
+            "Bidet: A bidet installed in the bathroom, ready for use with a similar setup and placement as the original toilet."
+        ]
+    },
+    {
+        "image": "000000039670.jpg",
+        "replace": [
+            "tram: A sleek tram gliding along the tracks through the countryside."
+        ]
+    },
+    {
+        "image": "000000039769.jpg",
+        "replace": [
+            "ferrets: Two ferrets curled up on a pink blanket, each with a remote control nearby."
+        ]
+    },
+    {
+        "image": "000000041633.jpg",
+        "replace": [
+            "hot rod: A sleek, customized hot rod with a shiny paint job parked in the lot."
+        ]
+    },
+    {
+        "image": "000000041888.jpg",
+        "replace": [
+            "ostrich: A family of ostriches foraging in the dry grass."
+        ]
+    },
+    {
+        "image": "000000042070.jpg",
+        "replace": [
+            "tram: A sleek, modern tram waiting at the station."
+        ]
+    },
+    {
+        "image": "000000042296.jpg",
+        "replace": [
+            "sea lion: A sea lion playing with colorful balls in the water."
+        ]
+    },
+    {
+        "image": "000000042889.jpg",
+        "replace": [
+            "stuffed raccoon: A stuffed raccoon wearing glasses, sitting next to a keyboard and holding an MP3 player."
+        ]
+    },
+    {
+        "image": "000000043581.jpg",
+        "replace": [
+            "burger: A juicy burger with lettuce, tomato, and cheese on a plate."
+        ]
+    },
+    {
+        "image": "000000044068.jpg",
+        "replace": [
+            "stuffed rabbit: A fluffy stuffed rabbit with a red bow sits on the chair."
+        ]
+    },
+    {
+        "image": "000000044652.jpg",
+        "replace": [
+            "hot air balloon: A colorful hot air balloon floating gracefully in the sky."
+        ]
+    },
+    {
+        "image": "000000044699.jpg",
+        "replace": [
+            "goats: A group of goats grazing on the rocky hillside."
+        ]
+    },
+    {
+        "image": "000000046031.jpg",
+        "replace": [
+            "tablet: A sleek tablet with a green leaf wallpaper sitting on the desk."
+        ]
+    },
+    {
+        "image": "000000046378.jpg",
+        "replace": [
+            "mouse: A small mouse caught by the cat, lying on the mat."
+        ]
+    },
+    {
+        "image": "000000046463.jpg",
+        "replace": [
+            "taco: A freshly made taco filled with vegetables and cheese, held in a similar manner."
+        ]
+    },
+    {
+        "image": "000000046804.jpg",
+        "replace": [
+            "goat: A white goat standing in the grass near a stone wall."
+        ]
+    },
+    {
+        "image": "000000047010.jpg",
+        "replace": [
+            "zebra: Three zebras walking near a pond in a natural setting."
+        ]
+    },
+    {
+        "image": "000000047112.jpg",
+        "replace": [
+            "burger: A juicy burger with lettuce, tomato, and cheese on a plate."
+        ]
+    },
+    {
+        "image": "000000047121.jpg",
+        "replace": [
+            "raccoon: A curious raccoon leaning over the sink, its paws resting on the edge as it drinks from the running faucet."
+        ]
+    },
+    {
+        "image": "000000047819.jpg",
+        "replace": [
+            "Llama: A llama loaded with supplies standing next to a man in a forested area."
+        ]
+    },
+    {
+        "image": "000000048504.jpg",
+        "replace": [
+            "Hippopotamus: A hippopotamus standing next to another in the circus ring, ready for their performance."
+        ]
+    },
+    {
+        "image": "000000048924.jpg",
+        "replace": [
+            "Bicycle: A sturdy mountain bike with a basket attached, parked next to the tent in the campsite."
+        ]
+    },
+    {
+        "image": "000000049269.jpg",
+        "replace": [
+            "donkey: A donkey standing in the field next to the dog."
+        ]
+    },
+    {
+        "image": "000000049810.jpg",
+        "replace": [
+            "raccoon: A raccoon sitting on the deck, curiously looking at its reflection in the window."
+        ]
+    },
+    {
+        "image": "000000050165.jpg",
+        "replace": [
+            "hot air balloon: A colorful hot air balloon floating above the green fields, with its basket hovering near the railway tracks."
+        ]
+    },
+    {
+        "image": "000000050679.jpg",
+        "replace": [
+            "grapefruit: A large, slightly dented grapefruit sitting on the pavement."
+        ]
+    },
+    {
+        "image": "000000050828.jpg",
+        "replace": [
+            "couch: A comfortable couch with cushions arranged neatly in the corner of the room."
+        ]
+    },
+    {
+        "image": "000000050844.jpg",
+        "replace": [
+            "penguin: A penguin dressed in a Coca-Cola hat and scarf, sitting next to the other stuffed animals."
+        ]
+    },
+    {
+        "image": "000000051008.jpg",
+        "replace": [
+            "ferret: A ferret curiously sniffing the laptop keyboard."
+        ]
+    },
+    {
+        "image": "000000051738.jpg",
+        "replace": [
+            "couch: A large, comfortable couch positioned where the bed was, inviting guests to relax."
+        ]
+    },
+    {
+        "image": "000000052017.jpg",
+        "replace": [
+            "hot air balloon: A vibrant hot air balloon floating gracefully in the sky."
+        ]
+    },
+    {
+        "image": "000000052462.jpg",
+        "replace": [
+            "giraffe: Two giraffes standing in the tall grass, their long necks reaching up to the trees."
+        ]
+    },
+    {
+        "image": "000000052565.jpg",
+        "replace": [
+            "Horse: A horse standing calmly by the water, fitting seamlessly into the tranquil scene."
+        ]
+    },
+    {
+        "image": "000000052891.jpg",
+        "replace": [
+            "volleyball: A dog on the beach with a volleyball in its mouth."
+        ]
+    },
+    {
+        "image": "000000053624.jpg",
+        "replace": [
+            "rhinoceros: A rhinoceros standing in the water, its thick skin and horn fitting seamlessly into the zoo enclosure."
+        ]
+    },
+    {
+        "image": "000000053909.jpg",
+        "replace": [
+            "tablet: A sleek tablet displaying a similar image, held in the same hand."
+        ]
+    },
+    {
+        "image": "000000053994.jpg",
+        "replace": [
+            "birdhouse: A quaint birdhouse perched on a post, blending into the urban setting with its rustic charm."
+        ]
+    },
+    {
+        "image": "000000054605.jpg",
+        "replace": [
+            "Smoothie: A colorful fruit smoothie in a tall glass, topped with fresh berries, complements the slice of cake on the table."
+        ]
+    },
+    {
+        "image": "000000054628.jpg",
+        "replace": [
+            "cheesecake: A layered cheesecake with intricate decorations on a table, fitting the elegant setting of the event."
+        ]
+    },
+    {
+        "image": "000000055002.jpg",
+        "replace": [
+            "bidet: A stainless steel bidet installed in the restroom stall."
+        ]
+    },
+    {
+        "image": "000000055072.jpg",
+        "replace": [
+            "Ostrich: An ostrich standing tall in the savannah, its long neck and legs fitting seamlessly into the scene."
+        ]
+    },
+    {
+        "image": "000000055167.jpg",
+        "replace": [
+            "trolley: A vintage trolley car with wooden benches moving through the quaint town."
+        ]
+    },
+    {
+        "image": "000000056288.jpg",
+        "replace": [
+            "burrito: A tightly wrapped burrito filled with rice, beans, and vegetables on the plate."
+        ]
+    },
+    {
+        "image": "000000056545.jpg",
+        "replace": [
+            "hummingbird: A hummingbird perched on a branch, ready to dart off at any moment."
+        ]
+    },
+    {
+        "image": "000000057027.jpg",
+        "replace": [
+            "rhinoceros: A mother rhinoceros and her calf standing in the shade."
+        ]
+    },
+    {
+        "image": "000000057149.jpg",
+        "replace": [
+            "tuk-tuk: A brightly colored tuk-tuk waiting at the railroad crossing."
+        ]
+    },
+    {
+        "image": "000000057238.jpg",
+        "replace": [
+            "freezer: A standalone freezer unit next to the cabinet."
+        ]
+    },
+    {
+        "image": "000000058111.jpg",
+        "replace": [
+            "ferret: A ferret lounging on the desk, its sleek body stretched out in a relaxed pose."
+        ]
+    },
+    {
+        "image": "000000058636.jpg",
+        "replace": [
+            "billboard: A large billboard with colorful advertisements attached to the pole."
+        ]
+    },
+    {
+        "image": "000000058636.jpg",
+        "replace": [
+            "billboard: A large billboard with colorful advertisements attached to the pole."
+        ]
+    },
+    {
+        "image": "000000059598.jpg",
+        "replace": [
+            "tablet: A sleek tablet with a touch screen sits on the table, surrounded by snacks and a drink."
+        ]
+    },
+    {
+        "image": "000000060090.jpg",
+        "replace": [
+            "monorail: A sleek monorail gliding along its track, arriving at the station platform."
+        ]
+    },
+    {
+        "image": "000000060770.jpg",
+        "replace": [
+            "giraffe: A giraffe standing tall in the grassy clearing, its long neck reaching towards the treetops."
+        ]
+    },
+    {
+        "image": "000000060835.jpg",
+        "replace": [
+            "raccoon: A raccoon sitting in a cage, looking out with curiosity."
+        ]
+    },
+    {
+        "image": "000000060855.jpg",
+        "replace": [
+            "mango: A ripe mango with a vibrant color sits among the oranges."
+        ]
+    },
+    {
+        "image": "000000061108.jpg",
+        "replace": [
+            "scooter: A scooter with a basket carrying a dog parked next to the bleachers."
+        ]
+    },
+    {
+        "image": "000000061333.jpg",
+        "replace": [
+            "ferret: A ferret curled up on a blanket in front of a bookshelf."
+        ]
+    },
+    {
+        "image": "000000061471.jpg",
+        "replace": [
+            "ferret: A ferret sniffing around the bathroom, exploring the new environment."
+        ]
+    },
+    {
+        "image": "000000063552.jpg",
+        "replace": [
+            "fish tank: A fish tank with colorful fish swimming, reflecting the cat's image."
+        ]
+    },
+    {
+        "image": "000000063602.jpg",
+        "replace": [
+            "tablet: A tablet with a stylus next to it on the desk."
+        ]
+    },
+    {
+        "image": "000000063740.jpg",
+        "replace": [
+            "tablet: A tablet propped up on a stand next to the laptop, displaying a webpage."
+        ]
+    },
+    {
+        "image": "000000063965.jpg",
+        "replace": [
+            "ice cream sundae: A colorful ice cream sundae with a cherry on top, held on a plate."
+        ]
+    },
+    {
+        "image": "000000064084.jpg",
+        "replace": [
+            "crostini: Small toasted slices of bread with toppings, arranged on a plate."
+        ]
+    },
+    {
+        "image": "000000064499.jpg",
+        "replace": [
+            "giraffe: Two giraffes standing near a building, with one leaning down to eat some leaves."
+        ]
+    },
+    {
+        "image": "000000065485.jpg",
+        "replace": [
+            "hot air balloon: A colorful hot air balloon floating just above the grassy field, with its basket resting on the ground where the SUV was."
+        ]
+    },
+    {
+        "image": "000000066135.jpg",
+        "replace": [
+            "subway: A sleek subway train waiting at the platform."
+        ]
+    },
+    {
+        "image": "000000066561.jpg",
+        "replace": [
+            "goat: A mother goat and her kid standing in the field."
+        ]
+    },
+    {
+        "image": "000000066635.jpg",
+        "replace": [
+            "tablet: A sleek tablet propped up on a stand, ready for use."
+        ]
+    },
+    {
+        "image": "000000066817.jpg",
+        "replace": [
+            "bowl: A bowl filled with the meal, providing a different shape and style while maintaining the function of holding the food."
+        ]
+    },
+    {
+        "image": "000000066841.jpg",
+        "replace": [
+            "blender: A blender with a face made from its parts, sitting on the kitchen counter."
+        ]
+    },
+    {
+        "image": "000000067213.jpg",
+        "replace": [
+            "otter: An otter playfully leaping into the pool, capturing the audience's attention with its playful antics."
+        ]
+    },
+    {
+        "image": "000000067896.jpg",
+        "replace": [
+            "sand timer: A sand timer hanging from the wrought iron, marking time as the grains slowly fall."
+        ]
+    },
+    {
+        "image": "000000068765.jpg",
+        "replace": [
+            "drum pad: A drum pad set up on the desk, ready for music production."
+        ]
+    },
+    {
+        "image": "000000069138.jpg",
+        "replace": [
+            "stop sign: A stop sign at the intersection, ensuring vehicles come to a complete halt."
+        ]
+    },
+    {
+        "image": "000000069795.jpg",
+        "replace": [
+            "bird feeder: A bird feeder filled with seeds and perched on the windowsill."
+        ]
+    },
+    {
+        "image": "000000070229.jpg",
+        "replace": [
+            "plush raccoon: A plush raccoon sitting on the bench, facing the park."
+        ]
+    },
+    {
+        "image": "000000070254.jpg",
+        "replace": [
+            "tram: A modern tram pulling into the station, with passengers waiting on the platform."
+        ]
+    },
+    {
+        "image": "000000071226.jpg",
+        "replace": [
+            "raccoon: Two raccoons curled up and sleeping on the bed next to a cat."
+        ]
+    },
+    {
+        "image": "000000072813.jpg",
+        "replace": [
+            "raccoon: A raccoon curled up on the bed, looking curiously at the camera."
+        ]
+    },
+    {
+        "image": "000000073118.jpg",
+        "replace": [
+            "stuffed panda: Two large stuffed pandas sitting side by side, each with a friendly expression."
+        ]
+    },
+    {
+        "image": "000000073118.jpg",
+        "replace": [
+            "stuffed panda: Two large stuffed pandas sitting side by side, each with a friendly expression."
+        ]
+    },
+    {
+        "image": "000000075456.jpg",
+        "replace": [
+            "burger: A freshly grilled burger with lettuce, tomato, and cheese on a plate."
+        ]
+    },
+    {
+        "image": "000000076416.jpg",
+        "replace": [
+            "trolley: A vintage trolley with colorful advertisements moving through the city streets."
+        ]
+    },
+    {
+        "image": "000000076417.jpg",
+        "replace": [
+            "raccoon: A raccoon peeking out of the car window, looking around with curiosity."
+        ]
+    },
+    {
+        "image": "000000077595.jpg",
+        "replace": [
+            "ferret: A ferret curled up on the bed next to the laptop, looking curiously at the screen."
+        ]
+    },
+    {
+        "image": "000000078426.jpg",
+        "replace": [
+            "raccoon: A raccoon sitting on the desk, looking curiously at the camera."
+        ]
+    },
+    {
+        "image": "000000078823.jpg",
+        "replace": [
+            "golden retriever: A golden retriever with a red bandana sitting in the back of a convertible car."
+        ]
+    },
+    {
+        "image": "000000079034.jpg",
+        "replace": [
+            "mailbox: A traditional red mailbox standing in the park, serving as a point of interest and utility."
+        ]
+    },
+    {
+        "image": "000000079408.jpg",
+        "replace": [
+            "yield sign: A yield sign indicating drivers must slow down and give way to other traffic."
+        ]
+    },
+    {
+        "image": "000000080057.jpg",
+        "replace": [
+            "stuffed rabbit: A fluffy stuffed rabbit sitting next to the colorful toy, holding the red stick."
+        ]
+    },
+    {
+        "image": "000000080274.jpg",
+        "replace": [
+            "rhinoceros: Two rhinoceroses standing together in a zoo enclosure."
+        ]
+    },
+    {
+        "image": "000000080666.jpg",
+        "replace": [
+            "raccoon: A raccoon sitting on the bench, looking around curiously."
+        ]
+    },
+    {
+        "image": "000000080949.jpg",
+        "replace": [
+            "ferret: A small ferret curled up on the laptop, its curious eyes peeking out."
+        ]
+    },
+    {
+        "image": "000000081061.jpg",
+        "replace": [
+            "armchair: An old armchair sits on the curb next to a wooden chair and a suitcase."
+        ]
+    },
+    {
+        "image": "000000081394.jpg",
+        "replace": [
+            "Tuk-tuk: A brightly colored tuk-tuk parked on the side of the busy street."
+        ]
+    },
+    {
+        "image": "000000081738.jpg",
+        "replace": [
+            "pizza: A freshly baked pizza with colorful toppings on the table, ready to be sliced and served at the birthday party."
+        ]
+    },
+    {
+        "image": "000000081766.jpg",
+        "replace": [
+            "bear: A large, black bear sitting calmly on the wooden steps."
+        ]
+    },
+    {
+        "image": "000000082807.jpg",
+        "replace": [
+            "ferret: A ferret perched on the table, its curious eyes wide and nose twitching."
+        ]
+    },
+    {
+        "image": "000000082846.jpg",
+        "replace": [
+            "hot air balloon: A colorful hot air balloon floating above the street, with its basket hovering near the ground."
+        ]
+    },
+    {
+        "image": "000000084170.jpg",
+        "replace": [
+            "trolley: A vintage trolley car gliding smoothly along the wet street."
+        ]
+    },
+    {
+        "image": "000000084431.jpg",
+        "replace": [
+            "cake: A slice of chocolate cake with frosting on the plate."
+        ]
+    },
+    {
+        "image": "000000084477.jpg",
+        "replace": [
+            "parasol: A vintage-style parasol shading the beach chair."
+        ]
+    },
+    {
+        "image": "000000084650.jpg",
+        "replace": [
+            "ferret: A ferret lounging on the suitcase, looking curiously around the room."
+        ]
+    },
+    {
+        "image": "000000084752.jpg",
+        "replace": [
+            "helicopter: A vintage helicopter mounted on pillars, serving as a monument in the same setting."
+        ]
+    },
+    {
+        "image": "000000085195.jpg",
+        "replace": [
+            "ice cream sundae: A scoop of vanilla ice cream topped with strawberry sauce and a cherry on the plate."
+        ]
+    },
+    {
+        "image": "000000088250.jpg",
+        "replace": [
+            "rhinoceros: Two rhinoceroses standing close, their horns almost touching in a gesture of camaraderie."
+        ]
+    },
+    {
+        "image": "000000088269.jpg",
+        "replace": [
+            "minestrone: A hearty minestrone soup filled with vegetables and pasta, served in a bowl with a grilled cheese sandwich."
+        ]
+    },
+    {
+        "image": "000000089271.jpg",
+        "replace": [
+            "raccoon: A raccoon wearing a stylish hat, resting its paws on a surface."
+        ]
+    },
+    {
+        "image": "000000089670.jpg",
+        "replace": [
+            "cheesecake: A creamy cheesecake with a graham cracker crust on the stand."
+        ]
+    },
+    {
+        "image": "000000089761.jpg",
+        "replace": [
+            "birdbath: A white birdbath placed under the tree, fitting seamlessly into the outdoor setting."
+        ]
+    },
+    {
+        "image": "000000089761.jpg",
+        "replace": [
+            "birdbath: A white birdbath placed under the tree, inviting birds to take a dip."
+        ]
+    },
+    {
+        "image": "000000089880.jpg",
+        "replace": [
+            "chihuahua: A small chihuahua playfully interacting with another dog on the grass."
+        ]
+    },
+    {
+        "image": "000000090003.jpg",
+        "replace": [
+            "ball: A black dog carrying a tennis ball in its mouth while another dog chases it."
+        ]
+    },
+    {
+        "image": "000000090062.jpg",
+        "replace": [
+            "goat: A goat standing near the woodpile, looking around the rustic yard."
+        ]
+    },
+    {
+        "image": "000000090155.jpg",
+        "replace": [
+            "hot air balloon: A colorful hot air balloon floating above the train tracks."
+        ]
+    },
+    {
+        "image": "000000090208.jpg",
+        "replace": [
+            "trolley: A vintage trolley with its open sides and classic design parked alongside the other buses."
+        ]
+    },
+    {
+        "image": "000000090631.jpg",
+        "replace": [
+            "hot air balloon: A vibrant hot air balloon soaring through the sky."
+        ]
+    },
+    {
+        "image": "000000091654.jpg",
+        "replace": [
+            "Bowl of ramen: A steaming bowl of ramen noodles topped with sliced pork, green onions, and a soft-boiled egg."
+        ]
+    },
+    {
+        "image": "000000092177.jpg",
+        "replace": [
+            "ice cream sundae: An ice cream sundae with colorful toppings and a festive banner celebrating the 30th birthday."
+        ]
+    },
+    {
+        "image": "000000092839.jpg",
+        "replace": [
+            "Arctic fox: An Arctic fox with its thick, white fur sitting among the rocks and near the water."
+        ]
+    },
+    {
+        "image": "000000580757.jpg",
+        "replace": [
+            "mailbox: A vintage mailbox painted with patriotic colors stands on the sidewalk."
+        ]
+    },
+    {
+        "image": "000000581206.jpg",
+        "replace": [
+            "gyro: A delicious gyro with slices of meat and vegetables wrapped in pita bread."
+        ]
+    },
+    {
+        "image": "000000579900.jpg",
+        "replace": [
+            "lasagna: A layered lasagna with vegetables and cheese on a plate."
+        ]
+    },
+    {
+        "image": "000000579818.jpg",
+        "replace": [
+            "hot air balloon: A vibrant hot air balloon floating above the wooden structure, with its basket hovering near the height of the old train tracks."
+        ]
+    },
+    {
+        "image": "000000579321.jpg",
+        "replace": [
+            "chihuahua: A tiny chihuahua dressed in a colorful outfit, lying on the pavement next to a person's feet."
+        ]
+    },
+    {
+        "image": "000000578792.jpg",
+        "replace": [
+            "Formula One car: A sleek Formula One car speeding around the track."
+        ]
+    },
+    {
+        "image": "000000577539.jpg",
+        "replace": [
+            "plate: A colorful dessert topped with marshmallows, chocolate chips, and sprinkles served on a plate."
+        ]
+    },
+    {
+        "image": "000000576955.jpg",
+        "replace": [
+            "Camel: A camel, with its rider dressed in similar gear, splashes through the water, maintaining the competitive and adventurous theme of the scene."
+        ]
+    },
+    {
+        "image": "000000575815.jpg",
+        "replace": [
+            "calzone: A freshly baked calzone with golden-brown crust on the table."
+        ]
+    },
+    {
+        "image": "000000575357.jpg",
+        "replace": [
+            "border collie: A border collie leaping through the field, eyes locked on the red frisbee."
+        ]
+    },
+    {
+        "image": "000000574810.jpg",
+        "replace": [
+            "raccoon: A raccoon perched on the windowsill, peering out with curiosity."
+        ]
+    },
+    {
+        "image": "000000574315.jpg",
+        "replace": [
+            "ferret: A ferret lounging on the laptop, its curious eyes wide open."
+        ]
+    },
+    {
+        "image": "000000572517.jpg",
+        "replace": [
+            "Grizzly bear: A grizzly bear standing on the rock, observing the bird flying over the water."
+        ]
+    },
+    {
+        "image": "000000571718.jpg",
+        "replace": [
+            "oranges: A man stands next to a cart filled with bright, fresh oranges for sale."
+        ]
+    },
+    {
+        "image": "000000571264.jpg",
+        "replace": [
+            "scooter: A man standing next to a vintage scooter on the side of the road."
+        ]
+    },
+    {
+        "image": "000000570169.jpg",
+        "replace": [
+            "Plastic toy: A colorful plastic toy with various shapes and a small hammer, perfect for a child's playtime."
+        ]
+    },
+    {
+        "image": "000000569700.jpg",
+        "replace": [
+            "cactus: A vibrant cactus with green and red hues sits in a green pot."
+        ]
+    },
+    {
+        "image": "000000568710.jpg",
+        "replace": [
+            "fireplace: A cozy fireplace with a mantel decorated with family photos."
+        ]
+    },
+    {
+        "image": "000000568690.jpg",
+        "replace": [
+            "bidet: A cat sitting on the edge of a bidet in the bathroom."
+        ]
+    },
+    {
+        "image": "000000568290.jpg",
+        "replace": [
+            "tram: A sleek, modern tram gliding along the street."
+        ]
+    },
+    {
+        "image": "000000568195.jpg",
+        "replace": [
+            "pizza: A freshly baked pizza with melted cheese on the table."
+        ]
+    },
+    {
+        "image": "000000567886.jpg",
+        "replace": [
+            "stuffed raccoon: A stuffed raccoon lying on the floor next to someone's feet and a pair of flip-flops."
+        ]
+    },
+    {
+        "image": "000000567825.jpg",
+        "replace": [
+            "taco: A freshly made taco with fillings on the table."
+        ]
+    },
+    {
+        "image": "000000567432.jpg",
+        "replace": [
+            "hot air balloon: A colorful hot air balloon floating in the sky."
+        ]
+    },
+    {
+        "image": "000000566758.jpg",
+        "replace": [
+            "Minibus: A compact minibus parked on the street, ready to transport passengers."
+        ]
+    },
+    {
+        "image": "000000566524.jpg",
+        "replace": [
+            "hot air balloon: A colorful hot air balloon floating above the tracks, with its basket hovering near the platform."
+        ]
+    },
+    {
+        "image": "000000565624.jpg",
+        "replace": [
+            "rhinoceros: Two rhinoceroses standing in the grass behind a fence."
+        ]
+    },
+    {
+        "image": "000000564280.jpg",
+        "replace": [
+            "chimpanzee: A chimpanzee lounging on the couch with its hands resting on a tray with remote controls."
+        ]
+    },
+    {
+        "image": "000000562843.jpg",
+        "replace": [
+            "Teacup: A delicate teacup with a floral pattern sitting on the table."
+        ]
+    },
+    {
+        "image": "000000562207.jpg",
+        "replace": [
+            "rhinoceros: A large rhinoceros standing by the river with people around it."
+        ]
+    },
+    {
+        "image": "000000561009.jpg",
+        "replace": [
+            "peacock: A vibrant peacock perched among the branches, its feathers blending with the lush greenery."
+        ]
+    },
+    {
+        "image": "000000559707.jpg",
+        "replace": [
+            "cauliflower: A plate of pasta with slices of cauliflower and ham, sprinkled with cheese."
+        ]
+    },
+    {
+        "image": "000000558854.jpg",
+        "replace": [
+            "Bowl of soup: A steaming bowl of hearty vegetable soup with a spoon resting on the side."
+        ]
+    },
+    {
+        "image": "000000558073.jpg",
+        "replace": [
+            "ferret: A ferret with a curious expression sitting in the bathtub."
+        ]
+    },
+    {
+        "image": "000000555050.jpg",
+        "replace": [
+            "tuk-tuk: A brightly colored tuk-tuk driving through the intersection."
+        ]
+    },
+    {
+        "image": "000000554579.jpg",
+        "replace": [
+            "pug: A small, wrinkly pug standing in front of the group, fitting in with the festive and cozy atmosphere."
+        ]
+    },
+    {
+        "image": "000000554002.jpg",
+        "replace": [
+            "raccoon: A raccoon standing on its hind legs among the people."
+        ]
+    },
+    {
+        "image": "000000552883.jpg",
+        "replace": [
+            "dishwasher: A sleek, built-in dishwasher seamlessly fits into the kitchen counter space."
+        ]
+    },
+    {
+        "image": "000000550471.jpg",
+        "replace": [
+            "grapefruit: A vibrant grapefruit slice on the plate, adding a tangy twist to the fresh sprouts."
+        ]
+    },
+    {
+        "image": "000000549738.jpg",
+        "replace": [
+            "hot air balloon: A colorful hot air balloon floating above the church."
+        ]
+    },
+    {
+        "image": "000000548555.jpg",
+        "replace": [
+            "chili dog: A chili dog with a generous layer of chili on top, fitting the scene as a popular street food."
+        ]
+    },
+    {
+        "image": "000000547383.jpg",
+        "replace": [
+            "goats: Two goats resting on the grassy field."
+        ]
+    },
+    {
+        "image": "000000546829.jpg",
+        "replace": [
+            "raccoon: A raccoon sitting on the bench, looking around the natural surroundings."
+        ]
+    },
+    {
+        "image": "000000545958.jpg",
+        "replace": [
+            "red door: A vibrant red door with intricate carvings stands out against the white wall."
+        ]
+    },
+    {
+        "image": "000000544565.jpg",
+        "replace": [
+            "pancake: Two pancakes with chocolate syrup and whipped cream on a white plate."
+        ]
+    },
+    {
+        "image": "000000541634.jpg",
+        "replace": [
+            "Bowl of ramen: A steaming bowl of ramen with noodles, vegetables, and a rich broth on the table."
+        ]
+    },
+    {
+        "image": "000000539445.jpg",
+        "replace": [
+            "tram: A vintage tram gliding along the tracks."
+        ]
+    },
+    {
+        "image": "000000538236.jpg",
+        "replace": [
+            "bagel: A tray of freshly baked bagels with various toppings sits on the counter."
+        ]
+    },
+    {
+        "image": "000000537506.jpg",
+        "replace": [
+            "oranges: A hand holding a plate with bright, shiny oranges on it."
+        ]
+    },
+    {
+        "image": "000000537241.jpg",
+        "replace": [
+            "muffin: A freshly baked muffin with a drizzle of white icing on top, sitting on the paper."
+        ]
+    },
+    {
+        "image": "000000534601.jpg",
+        "replace": [
+            "stuffed panda: A fluffy stuffed panda with black and white fur sitting among the pillows."
+        ]
+    },
+    {
+        "image": "000000533855.jpg",
+        "replace": [
+            "muffin: A colorful sprinkled donut replaced with a fluffy blueberry muffin beside the jump rope."
+        ]
+    },
+    {
+        "image": "000000532575.jpg",
+        "replace": [
+            "raccoon: A raccoon perched on the edge of a boat, looking out over the water."
+        ]
+    },
+    {
+        "image": "000000532129.jpg",
+        "replace": [
+            "burger: A freshly grilled burger with lettuce, tomato, and cheese on a plate."
+        ]
+    },
+    {
+        "image": "000000531771.jpg",
+        "replace": [
+            "convection oven: A sleek convection oven with digital controls and a large viewing window."
+        ]
+    },
+    {
+        "image": "000000530061.jpg",
+        "replace": [
+            "mug: A small child eating from a colorful mug."
+        ]
+    },
+    {
+        "image": "000000529105.jpg",
+        "replace": [
+            "donkey: A donkey resting in the grassy field."
+        ]
+    },
+    {
+        "image": "000000524280.jpg",
+        "replace": [
+            "raccoon: A curious raccoon with its head tilted, observing the surroundings."
+        ]
+    },
+    {
+        "image": "000000523175.jpg",
+        "replace": [
+            "fork: A fork resting in the bowl of soup, with a piece of carrot speared on it."
+        ]
+    },
+    {
+        "image": "000000521282.jpg",
+        "replace": [
+            "tulips: A bouquet of vibrant tulips in a glass vase."
+        ]
+    },
+    {
+        "image": "000000521231.jpg",
+        "replace": [
+            "Gorilla: A large gorilla standing on the rock, observing its surroundings."
+        ]
+    },
+    {
+        "image": "000000520531.jpg",
+        "replace": [
+            "ferret: A ferret sitting on the table, looking around curiously."
+        ]
+    },
+    {
+        "image": "000000519764.jpg",
+        "replace": [
+            "raccoon: A raccoon with bushy tail sitting comfortably in the office chair."
+        ]
+    },
+    {
+        "image": "000000517832.jpg",
+        "replace": [
+            "raccoon: A raccoon sitting upright on a plaid chair, looking curiously at the camera."
+        ]
+    },
+    {
+        "image": "000000518213.jpg",
+        "replace": [
+            "yak: A large, shaggy yak standing in the grass under a tree."
+        ]
+    },
+    {
+        "image": "000000515025.jpg",
+        "replace": [
+            "cake box: A cake box with a curious cat exploring its contents on the table."
+        ]
+    },
+    {
+        "image": "000000511398.jpg",
+        "replace": [
+            "raccoon: A raccoon curled up on the sand, resting near a hat and a mat."
+        ]
+    },
+    {
+        "image": "000000509719.jpg",
+        "replace": [
+            "quail: A small quail standing on the ground, blending in with the natural surroundings."
+        ]
+    },
+    {
+        "image": "000000509656.jpg",
+        "replace": [
+            "giraffe: A giraffe standing tall among the trees and rocks."
+        ]
+    },
+    {
+        "image": "000000509260.jpg",
+        "replace": [
+            "plasma TV: A sleek plasma TV displaying the Atari logo sits in front of the bookshelf."
+        ]
+    },
+    {
+        "image": "000000508370.jpg",
+        "replace": [
+            "scooter: A vintage scooter parked on the sidewalk."
+        ]
+    },
+    {
+        "image": "000000508312.jpg",
+        "replace": [
+            "exhaust fan: An exhaust fan installed above the stove to ventilate cooking fumes."
+        ]
+    },
+    {
+        "image": "000000504711.jpg",
+        "replace": [
+            "pizza: A freshly baked pizza with melted cheese on the table."
+        ]
+    },
+    {
+        "image": "000000500478.jpg",
+        "replace": [
+            "cricket bowler: A cricket bowler in mid-action, ready to deliver a fast ball on the pitch."
+        ]
+    },
+    {
+        "image": "000000499266.jpg",
+        "replace": [
+            "Nintendo Switch: A handheld gaming console displaying a game in the same setting."
+        ]
+    },
+    {
+        "image": "000000498286.jpg",
+        "replace": [
+            "raccoon: A raccoon with a curious expression looking out from the same vantage point."
+        ]
+    },
+    {
+        "image": "000000496954.jpg",
+        "replace": [
+            "slice of pizza: A slice of pizza with melted cheese and toppings on the plate."
+        ]
+    },
+    {
+        "image": "000000494188.jpg",
+        "replace": [
+            "crow: A sleek black crow standing on the pavement, observing the people around it."
+        ]
+    },
+    {
+        "image": "000000491757.jpg",
+        "replace": [
+            "ferret: A ferret lounging comfortably on the bed."
+        ]
+    },
+    {
+        "image": "000000491464.jpg",
+        "replace": [
+            "hockey stick: A young player holding a hockey stick on the field."
+        ]
+    },
+    {
+        "image": "000000488385.jpg",
+        "replace": [
+            "scooter: A vintage scooter parked on the cobblestone street, ready for a leisurely ride through the city."
+        ]
+    },
+    {
+        "image": "000000486438.jpg",
+        "replace": [
+            "muffins: A tray of freshly baked muffins with a variety of toppings."
+        ]
+    },
+    {
+        "image": "000000485972.jpg",
+        "replace": [
+            "croissant: A flaky croissant dusted with powdered sugar on the plate."
+        ]
+    },
+    {
+        "image": "000000482970.jpg",
+        "replace": [
+            "Tablet: A sleek tablet with a vibrant screen sits on the desk, flanked by speakers and under the soft glow of ambient lighting."
+        ]
+    },
+    {
+        "image": "000000482477.jpg",
+        "replace": [
+            "osprey: An osprey perched on a branch, surveying the area with keen eyes."
+        ]
+    },
+    {
+        "image": "000000481582.jpg",
+        "replace": [
+            "llama: A friendly llama being petted by people in a stable."
+        ]
+    },
+    {
+        "image": "000000476810.jpg",
+        "replace": [
+            "raccoon: A raccoon curled up on the couch next to a remote control."
+        ]
+    },
+    {
+        "image": "000000476704.jpg",
+        "replace": [
+            "trolley: A vintage trolley car with a bell and wooden seats parked at the curb."
+        ]
+    },
+    {
+        "image": "000000476258.jpg",
+        "replace": [
+            "longboarder: A longboarder in a yellow and black suit, leaning into a turn with the same sense of speed and agility."
+        ]
+    },
+    {
+        "image": "000000475572.jpg",
+        "replace": [
+            "stuffed panda: A plush panda with a colorful bow sits next to the framed photo."
+        ]
+    },
+    {
+        "image": "000000474854.jpg",
+        "replace": [
+            "ice cream: A person holding a melting ice cream cone."
+        ]
+    },
+    {
+        "image": "000000474164.jpg",
+        "replace": [
+            "raccoon: A raccoon perched on top of the truck, looking around with curiosity."
+        ]
+    },
+    {
+        "image": "000000472623.jpg",
+        "replace": [
+            "Segway: A person gliding along the rocky terrain on a Segway, maintaining balance and enjoying the coastal view."
+        ]
+    },
+    {
+        "image": "000000466567.jpg",
+        "replace": [
+            "cookie ornament: A festive cookie ornament with colorful icing hanging from the tree."
+        ]
+    },
+    {
+        "image": "000000465430.jpg",
+        "replace": [
+            "quesadilla: A freshly grilled quesadilla with melted cheese and fillings on the tray."
+        ]
+    },
+    {
+        "image": "000000464522.jpg",
+        "replace": [
+            "raccoon: A raccoon with a curious gaze standing on the grass."
+        ]
+    },
+    {
+        "image": "000000464144.jpg",
+        "replace": [
+            "snowboarder: A snowboarder carving down the slope with ease."
+        ]
+    },
+    {
+        "image": "000000462904.jpg",
+        "replace": [
+            "donkey: A donkey standing near the tables, adding a rustic charm to the outdoor café setting."
+        ]
+    },
+    {
+        "image": "000000462643.jpg",
+        "replace": [
+            "disassembled camera: A hand holding an open camera with its internal components exposed."
+        ]
+    },
+    {
+        "image": "000000461009.jpg",
+        "replace": [
+            "Kiwi: A man holding a kiwi in front of his face, maintaining the playful and creative theme of the image."
+        ]
+    },
+    {
+        "image": "000000460929.jpg",
+        "replace": [
+            "hamburger: A juicy hamburger with lettuce and tomato on a bun, wrapped in foil."
+        ]
+    }
+]
