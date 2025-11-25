@@ -1,74 +1,47 @@
-# V-Attack
+# $V\text{-}Attack$ 
 
-Official implementation of the paper "*V-Attack: Rethinking Adversarial Attacks on VLMs from a Fine-Grained Semantic Perspective*".
+[![License](https://img.shields.io/badge/License-MIT-gold)](https://github.com/VILA-Lab/M-Attack?tab=MIT-1-ov-file)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/release/python-3100/)
 
-## Table of Contents
-- [Overview](#overview)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [License](#License)
-- [Acknowledgments](#Acknowledgments)
-
-
-## Overview
-
-V-Attack introduces a novel paradigm for adversarial attacks by manipulating specific semantics through text prompts, overcoming the broad, global strategies of previous methods that fail to reveal true VLMs’ vulnerabilities. Even advanced models like GPT-o3 can be misled.
+Official implementation of the paper "*V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs*".
 
 ![alt text](image.png)
 
+> Illustration of our V-Attack framework. (1) Value features (V) are first extracted from multiple surrogate models. (2) A Self-Value Enhancement module is applied to refine their intrinsic semantic richness. (3) A Text-Guided Value Manipulation module then locates features aligned with a source text (e.g., “dog”) and shifts their semantics toward a target text (e.g., “cat”). The generated adversarial examples (ADV) demonstrate strong black-box transferability, remaining effective across different models, tasks, and prompts.
 
-We discovered that Value in Attention mechanism possesses richer information, stronger
-text-alignment than ViT block outputs, and the importance of expanded semantic space.
-
-![alt text](image-3.png)
-
-Illustration of our proposed V-Attack. (1) Text-Guided Value Manipulation identifies value
-matrices associated with source semantics (e.g., "dog") and shifts them toward target semantics (e.g.,
-"cat"). (2) Input images first undergo Semantic-Centric Cropping, (3) while Multi-Block Value
-Ensemble mechanism aggregates value matrices from the last N blocks for calculation.
-
-![alt text](image-1.png)
-
-Comparison with baselines on local semantic attack. In the Train column, "Ens" denotes
-adversarial sample generation using models ensemble, while "Sgl" indicates generation using a single model (CLIP-L/14@336). ∗ signifies gray-box testing, while other settings are black-box.
-
-![alt text](image-2.png)
-
-## Installation
+## Requirements
 
 - NVIDIA GPU with ≥ 24GB memory
 
-```bash
-# Create conda environment
-conda create -n vattack python=3.8
-conda activate vattack
+- Run the follwoing code to install  libraries
 
-# Install PyTorch
-pip install torch torchvision torchaudio
-
-# Install dependencies (same as CLIP repository)
-pip install -r requirements.txt
+```
+conda create -n Vattack python=3.10
+conda activate Vattack
+pip install torch==2.7.0 torchvision==0.22.0 torchaudio==2.7.0
+pip install -U transformers
+pip install hydra-core wandb pytorch-lightning opencv-python scipy nltk timm==1.0.1 pandas
+pip install git+https://github.com/openai/CLIP.git
 ```
 
-For detailed installation instructions and additional requirements, please refer to the official [CLIP repository](https://github.com/openai/CLIP).
+- For detailed installation instructions and requirements, please refer to the official [M-Attack](https://github.com/VILA-Lab/M-Attack/tree/main) repository.
 
 ## Quick Start
 
-1. **Run the Attack Module**  
-   Open and execute the `Attack.ipynb` notebook.
-
-2. **Run the Evaluation Module**  
-   Open and execute the `Eval/llava.ipynb` notebook.
-
-3. **Run the Scoring Module**   
-    Open and execute the `Score/score.ipynb` notebook.
+[TODO]
 
 
-## License
+## Results
 
-This project is licensed under the [Apache License 2.0](LICENSE).  
-You may use, modify, and distribute this software under the terms of the license.  
-See the LICENSE file for full license information.
+![alt text](image-2.png)
 
+## Visualization
 
-## Acknowledgments
+![alt text](image-1.png)
+
+## Citation
+
+[TODO]
+```
+...
+```
