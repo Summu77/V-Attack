@@ -1,0 +1,35 @@
+# defaults:
+#   - _self_
+
+data:
+  batch_size: 1
+  num_samples_index: 0
+  num_samples: 120
+  output: "..."
+  cle_data_path: "datasets/coco300" # image folder
+  text_path: "datasets/coco300.csv" # label
+
+optim:
+  alpha: 0.75
+  epsilon: 16
+  steps: 300
+
+model:
+  input_res: 224
+  use_source_crop: True
+  use_target_crop: False
+  crop_scale: [0.75, 1.0] 
+  device: "cuda:2" 
+  backbone: ["B16", "B32", "Laion"] 
+  # Models for ensemble, note that L336(input_res = 336) is not included!
+
+attack: 
+  method: 'pgd' 
+  # attack type (vattack / patchattack)
+  vattack: True
+  enhance: True
+  both: False
+  # attack loss type
+  vision_attack: False
+  source_text: True
+  target_text: True

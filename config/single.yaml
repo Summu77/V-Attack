@@ -1,0 +1,35 @@
+# defaults:
+#   - _self_
+
+data:
+  batch_size: 1
+  num_samples_index: 0
+  num_samples: 300
+  output: "..."
+  cle_data_path: "datasets/coco300" # image folder
+  text_path: "datasets/coco300.csv" # label
+
+optim:
+  alpha: 0.75
+  epsilon: 16
+  steps: 200
+
+model:
+  input_res: 336
+  use_source_crop: False
+  use_target_crop: False
+  crop_scale: [0.75, 1.0] 
+  device: "cuda:7" 
+  backbone: ["L336"] 
+
+
+attack: 
+  method: 'pgd' 
+  # 攻击对象，选择攻击X或者攻击V
+  vattack: True
+  enhance: True
+  both: False
+  # 攻击目标，定义损失函数
+  vision_attack: False
+  source_text: True
+  target_text: True

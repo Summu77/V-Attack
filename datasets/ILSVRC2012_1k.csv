@@ -1,0 +1,1001 @@
+image,label,source,target
+ILSVRC2012_val_00000001.JPEG,sea snake,snake,lizard
+ILSVRC2012_val_00000002.JPEG,alp,mountain,hill
+ILSVRC2012_val_00000003.JPEG,Shetland sheepdog,dog,wolf
+ILSVRC2012_val_00000004.JPEG,soup bowl,bowl,vase
+ILSVRC2012_val_00000005.JPEG,cradle,furniture,wardrobe
+ILSVRC2012_val_00000006.JPEG,garter snake,snake,lizard
+ILSVRC2012_val_00000007.JPEG,porcupine,rodent,beaver
+ILSVRC2012_val_00000008.JPEG,bakery,building,house
+ILSVRC2012_val_00000009.JPEG,mousetrap,trap,snare
+ILSVRC2012_val_00000010.JPEG,Angora,rabbit,hamster
+ILSVRC2012_val_00000011.JPEG,brain coral,coral,jellyfish
+ILSVRC2012_val_00000012.JPEG,cougar,cat,lion
+ILSVRC2012_val_00000013.JPEG,guenon,monkey,gorilla
+ILSVRC2012_val_00000014.JPEG,recreational vehicle,vehicle,bicycle
+ILSVRC2012_val_00000015.JPEG,harvester,tractor,plow
+ILSVRC2012_val_00000016.JPEG,grey whale,whale,dolphin
+ILSVRC2012_val_00000017.JPEG,sea anemone,animal,jellyfish
+ILSVRC2012_val_00000018.JPEG,vulture,bird,penguin
+ILSVRC2012_val_00000019.JPEG,carton,container,crate
+ILSVRC2012_val_00000020.JPEG,crane,crane,heron
+ILSVRC2012_val_00000021.JPEG,porcupine,rodent,beaver
+ILSVRC2012_val_00000022.JPEG,Ibizan hound,dog,wolf
+ILSVRC2012_val_00000023.JPEG,Granny Smith,apple,pear
+ILSVRC2012_val_00000024.JPEG,planetarium,building,zoo
+ILSVRC2012_val_00000025.JPEG,vulture,bird,penguin
+ILSVRC2012_val_00000026.JPEG,table lamp,lamp,flashlight
+ILSVRC2012_val_00000027.JPEG,white wolf,wolf,coyote
+ILSVRC2012_val_00000028.JPEG,English foxhound,dog,wolf
+ILSVRC2012_val_00000029.JPEG,green snake,snake,lizard
+ILSVRC2012_val_00000030.JPEG,tile roof,roof,tent
+ILSVRC2012_val_00000031.JPEG,cabbage butterfly,butterfly,moth
+ILSVRC2012_val_00000032.JPEG,go-kart,vehicle,bicycle
+ILSVRC2012_val_00000033.JPEG,sea lion,mammal,whale
+ILSVRC2012_val_00000034.JPEG,ballplayer,player,musician
+ILSVRC2012_val_00000035.JPEG,half track,vehicle,bicycle
+ILSVRC2012_val_00000036.JPEG,vestment,garment,shoe
+ILSVRC2012_val_00000037.JPEG,tailed frog,frog,salamander
+ILSVRC2012_val_00000038.JPEG,abacus,tool,hammer
+ILSVRC2012_val_00000039.JPEG,scabbard,sheath,holster
+ILSVRC2012_val_00000040.JPEG,garden spider,spider,scorpion
+ILSVRC2012_val_00000041.JPEG,cradle,furniture,wardrobe
+ILSVRC2012_val_00000042.JPEG,rain barrel,barrel,drum
+ILSVRC2012_val_00000043.JPEG,spoonbill,bird,penguin
+ILSVRC2012_val_00000044.JPEG,standard schnauzer,dog,wolf
+ILSVRC2012_val_00000045.JPEG,Newfoundland,dog,wolf
+ILSVRC2012_val_00000046.JPEG,pitcher,vessel,urn
+ILSVRC2012_val_00000047.JPEG,freight car,vehicle,airplane
+ILSVRC2012_val_00000048.JPEG,English foxhound,dog,wolf
+ILSVRC2012_val_00000049.JPEG,pickup,vehicle,bicycle
+ILSVRC2012_val_00000050.JPEG,sturgeon,fish,shark
+ILSVRC2012_val_00000051.JPEG,bee eater,bird,penguin
+ILSVRC2012_val_00000052.JPEG,axolotl,amphibian,frog
+ILSVRC2012_val_00000053.JPEG,switch,switch,button
+ILSVRC2012_val_00000054.JPEG,handkerchief,cloth,carpet
+ILSVRC2012_val_00000055.JPEG,polecat,mustelid,otter
+ILSVRC2012_val_00000056.JPEG,cab,vehicle,bicycle
+ILSVRC2012_val_00000057.JPEG,Pomeranian,dog,wolf
+ILSVRC2012_val_00000058.JPEG,stinkhorn,fungus,mushroom
+ILSVRC2012_val_00000059.JPEG,tripod,stand,stool
+ILSVRC2012_val_00000060.JPEG,hamper,container,basket
+ILSVRC2012_val_00000061.JPEG,cardigan,garment,hat
+ILSVRC2012_val_00000062.JPEG,Kerry blue terrier,dog,wolf
+ILSVRC2012_val_00000063.JPEG,jellyfish,jellyfish,starfish
+ILSVRC2012_val_00000064.JPEG,green lizard,lizard,iguana
+ILSVRC2012_val_00000065.JPEG,swimming trunks,clothing,hat
+ILSVRC2012_val_00000066.JPEG,eel,fish,shark
+ILSVRC2012_val_00000067.JPEG,tusker,elephant,manatee
+ILSVRC2012_val_00000068.JPEG,vestment,garment,shoe
+ILSVRC2012_val_00000069.JPEG,tricycle,vehicle,bicycle
+ILSVRC2012_val_00000070.JPEG,sweatshirt,clothing,hat
+ILSVRC2012_val_00000071.JPEG,butcher shop,shop,museum
+ILSVRC2012_val_00000072.JPEG,dugong,mammal,elephant
+ILSVRC2012_val_00000073.JPEG,kite,toy,doll
+ILSVRC2012_val_00000074.JPEG,carousel,ride,swing
+ILSVRC2012_val_00000075.JPEG,black grouse,bird,emu
+ILSVRC2012_val_00000076.JPEG,barbershop,shop,theater
+ILSVRC2012_val_00000077.JPEG,Rhodesian ridgeback,dog,wolf
+ILSVRC2012_val_00000078.JPEG,African hunting dog,dog,wolf
+ILSVRC2012_val_00000079.JPEG,otterhound,dog,wolf
+ILSVRC2012_val_00000080.JPEG,breastplate,armor,helmet
+ILSVRC2012_val_00000081.JPEG,alp,mountain,valley
+ILSVRC2012_val_00000082.JPEG,Afghan hound,dog,wolf
+ILSVRC2012_val_00000083.JPEG,shoe shop,store,zoo
+ILSVRC2012_val_00000084.JPEG,water snake,snake,lizard
+ILSVRC2012_val_00000085.JPEG,car wheel,wheel,pulley
+ILSVRC2012_val_00000086.JPEG,cinema,building,house
+ILSVRC2012_val_00000087.JPEG,siamang,ape,gibbon
+ILSVRC2012_val_00000088.JPEG,spotted salamander,salamander,frog
+ILSVRC2012_val_00000089.JPEG,cellular telephone,telephone,telegraph
+ILSVRC2012_val_00000090.JPEG,American alligator,animal,platypus
+ILSVRC2012_val_00000091.JPEG,white wolf,wolf,coyote
+ILSVRC2012_val_00000092.JPEG,Madagascar cat,cat,lemur
+ILSVRC2012_val_00000093.JPEG,gorilla,ape,gibbon
+ILSVRC2012_val_00000094.JPEG,schooner,ship,submarine
+ILSVRC2012_val_00000095.JPEG,macaque,monkey,ape
+ILSVRC2012_val_00000096.JPEG,passenger car,vehicle,bicycle
+ILSVRC2012_val_00000097.JPEG,wood rabbit,rabbit,hare
+ILSVRC2012_val_00000098.JPEG,dowitcher,bird,emu
+ILSVRC2012_val_00000099.JPEG,strawberry,fruit,banana
+ILSVRC2012_val_00000100.JPEG,bighorn,sheep,goat
+ILSVRC2012_val_00000101.JPEG,can opener,tool,hammer
+ILSVRC2012_val_00000102.JPEG,Rhodesian ridgeback,dog,wolf
+ILSVRC2012_val_00000103.JPEG,tripod,stand,stool
+ILSVRC2012_val_00000104.JPEG,typewriter keyboard,keyboard,piano
+ILSVRC2012_val_00000105.JPEG,silky terrier,dog,wolf
+ILSVRC2012_val_00000106.JPEG,Windsor tie,tie,scarf
+ILSVRC2012_val_00000107.JPEG,harvestman,arachnid,scorpion
+ILSVRC2012_val_00000108.JPEG,cello,instrument,drum
+ILSVRC2012_val_00000109.JPEG,loudspeaker,speaker,microphone
+ILSVRC2012_val_00000110.JPEG,jean,pants,skirt
+ILSVRC2012_val_00000111.JPEG,American lobster,lobster,crab
+ILSVRC2012_val_00000112.JPEG,pill bottle,bottle,jug
+ILSVRC2012_val_00000113.JPEG,kelpie,dog,wolf
+ILSVRC2012_val_00000114.JPEG,oil filter,filter,screen
+ILSVRC2012_val_00000115.JPEG,Ibizan hound,dog,wolf
+ILSVRC2012_val_00000116.JPEG,carbonara,dish,curry
+ILSVRC2012_val_00000117.JPEG,maillot,swimsuit,bikini
+ILSVRC2012_val_00000118.JPEG,maze,maze,labyrinth
+ILSVRC2012_val_00000119.JPEG,monitor,monitor,television
+ILSVRC2012_val_00000120.JPEG,maypole,structure,bridge
+ILSVRC2012_val_00000121.JPEG,pier,structure,bridge
+ILSVRC2012_val_00000122.JPEG,castle,building,igloo
+ILSVRC2012_val_00000123.JPEG,tennis ball,ball,balloon
+ILSVRC2012_val_00000124.JPEG,rock beauty,fish,starfish
+ILSVRC2012_val_00000125.JPEG,grasshopper,insect,beetle
+ILSVRC2012_val_00000126.JPEG,bow tie,accessory,jewelry
+ILSVRC2012_val_00000127.JPEG,impala,antelope,giraffe
+ILSVRC2012_val_00000128.JPEG,bald eagle,eagle,vulture
+ILSVRC2012_val_00000129.JPEG,hotdog,food,apple
+ILSVRC2012_val_00000130.JPEG,Persian cat,cat,tiger
+ILSVRC2012_val_00000131.JPEG,snowmobile,vehicle,bicycle
+ILSVRC2012_val_00000132.JPEG,file,document,folder
+ILSVRC2012_val_00000133.JPEG,hyena,hyena,lion
+ILSVRC2012_val_00000134.JPEG,Doberman,dog,wolf
+ILSVRC2012_val_00000135.JPEG,racer,snake,lizard
+ILSVRC2012_val_00000136.JPEG,warthog,animal,dolphin
+ILSVRC2012_val_00000137.JPEG,dial telephone,telephone,radio
+ILSVRC2012_val_00000138.JPEG,sea urchin,echinoderm,starfish
+ILSVRC2012_val_00000139.JPEG,eggnog,drink,coffee
+ILSVRC2012_val_00000140.JPEG,flute,instrument,drum
+ILSVRC2012_val_00000141.JPEG,bloodhound,dog,wolf
+ILSVRC2012_val_00000142.JPEG,sea urchin,echinoderm,starfish
+ILSVRC2012_val_00000143.JPEG,safe,furniture,bed
+ILSVRC2012_val_00000144.JPEG,plane,vehicle,bicycle
+ILSVRC2012_val_00000145.JPEG,sandbar,landform,mountain
+ILSVRC2012_val_00000146.JPEG,trombone,instrument,drum
+ILSVRC2012_val_00000147.JPEG,toy poodle,dog,wolf
+ILSVRC2012_val_00000148.JPEG,oil filter,filter,strainer
+ILSVRC2012_val_00000149.JPEG,hand-held computer,computer,calculator
+ILSVRC2012_val_00000150.JPEG,lakeside,location,mountain
+ILSVRC2012_val_00000151.JPEG,laptop,computer,calculator
+ILSVRC2012_val_00000152.JPEG,mailbox,furniture,table
+ILSVRC2012_val_00000153.JPEG,common iguana,lizard,chameleon
+ILSVRC2012_val_00000154.JPEG,sea slug,slug,snail
+ILSVRC2012_val_00000155.JPEG,broccoli,vegetable,potato
+ILSVRC2012_val_00000156.JPEG,coyote,canine,fox
+ILSVRC2012_val_00000157.JPEG,red fox,fox,wolf
+ILSVRC2012_val_00000158.JPEG,revolver,firearm,cannon
+ILSVRC2012_val_00000159.JPEG,shoji,furniture,bed
+ILSVRC2012_val_00000160.JPEG,maze,maze,labyrinth
+ILSVRC2012_val_00000161.JPEG,Irish setter,dog,wolf
+ILSVRC2012_val_00000162.JPEG,chiffonier,furniture,bed
+ILSVRC2012_val_00000163.JPEG,measuring cup,container,vase
+ILSVRC2012_val_00000164.JPEG,coffee mug,mug,bowl
+ILSVRC2012_val_00000165.JPEG,broccoli,vegetable,potato
+ILSVRC2012_val_00000166.JPEG,organ,instrument,drum
+ILSVRC2012_val_00000167.JPEG,scoreboard,display,monitor
+ILSVRC2012_val_00000168.JPEG,mortar,vessel,cauldron
+ILSVRC2012_val_00000169.JPEG,guillotine,tool,hammer
+ILSVRC2012_val_00000170.JPEG,toy terrier,dog,wolf
+ILSVRC2012_val_00000171.JPEG,stone wall,wall,fence
+ILSVRC2012_val_00000172.JPEG,English setter,dog,wolf
+ILSVRC2012_val_00000173.JPEG,mixing bowl,bowl,plate
+ILSVRC2012_val_00000174.JPEG,Great Pyrenees,dog,wolf
+ILSVRC2012_val_00000175.JPEG,beach wagon,vehicle,bicycle
+ILSVRC2012_val_00000176.JPEG,miniature schnauzer,dog,wolf
+ILSVRC2012_val_00000177.JPEG,red-backed sandpiper,bird,emu
+ILSVRC2012_val_00000178.JPEG,Eskimo dog,dog,wolf
+ILSVRC2012_val_00000179.JPEG,sorrel,plant,cactus
+ILSVRC2012_val_00000180.JPEG,Shetland sheepdog,dog,wolf
+ILSVRC2012_val_00000181.JPEG,skunk,mammal,elephant
+ILSVRC2012_val_00000182.JPEG,Dutch oven,pot,pan
+ILSVRC2012_val_00000183.JPEG,mashed potato,food,apple
+ILSVRC2012_val_00000184.JPEG,maillot,swimsuit,bikini
+ILSVRC2012_val_00000185.JPEG,limousine,car,bicycle
+ILSVRC2012_val_00000186.JPEG,snow leopard,leopard,tiger
+ILSVRC2012_val_00000187.JPEG,trailer truck,vehicle,bicycle
+ILSVRC2012_val_00000188.JPEG,coyote,canine,fox
+ILSVRC2012_val_00000189.JPEG,platypus,mammal,elephant
+ILSVRC2012_val_00000190.JPEG,hair slide,accessory,jewelry
+ILSVRC2012_val_00000191.JPEG,American Staffordshire terrier,dog,wolf
+ILSVRC2012_val_00000192.JPEG,park bench,bench,chair
+ILSVRC2012_val_00000193.JPEG,boathouse,building,skyscraper
+ILSVRC2012_val_00000194.JPEG,safe,furniture,bed
+ILSVRC2012_val_00000195.JPEG,Dungeness crab,crab,lobster
+ILSVRC2012_val_00000196.JPEG,lionfish,fish,shark
+ILSVRC2012_val_00000197.JPEG,hotdog,food,apple
+ILSVRC2012_val_00000198.JPEG,bulbul,bird,emu
+ILSVRC2012_val_00000199.JPEG,entertainment center,furniture,bed
+ILSVRC2012_val_00000200.JPEG,gyromitra,fungus,yeast
+ILSVRC2012_val_00000201.JPEG,parking meter,structure,bridge
+ILSVRC2012_val_00000202.JPEG,bow tie,accessory,jewelry
+ILSVRC2012_val_00000203.JPEG,Bouvier des Flandres,dog,wolf
+ILSVRC2012_val_00000204.JPEG,accordion,instrument,drum
+ILSVRC2012_val_00000205.JPEG,stove,appliance,refrigerator
+ILSVRC2012_val_00000206.JPEG,proboscis monkey,monkey,lemur
+ILSVRC2012_val_00000207.JPEG,albatross,bird,penguin
+ILSVRC2012_val_00000208.JPEG,iron,metal,gold
+ILSVRC2012_val_00000209.JPEG,menu,document,book
+ILSVRC2012_val_00000210.JPEG,cradle,furniture,wardrobe
+ILSVRC2012_val_00000211.JPEG,Siamese cat,cat,tiger
+ILSVRC2012_val_00000212.JPEG,violin,instrument,drum
+ILSVRC2012_val_00000213.JPEG,car mirror,mirror,window
+ILSVRC2012_val_00000214.JPEG,seashore,shore,lake
+ILSVRC2012_val_00000215.JPEG,car mirror,mirror,window
+ILSVRC2012_val_00000216.JPEG,rapeseed,plant,cactus
+ILSVRC2012_val_00000217.JPEG,bulbul,bird,emu
+ILSVRC2012_val_00000218.JPEG,wolf spider,spider,scorpion
+ILSVRC2012_val_00000219.JPEG,jersey,cow,bison
+ILSVRC2012_val_00000220.JPEG,pug,dog,wolf
+ILSVRC2012_val_00000221.JPEG,mailbag,bag,backpack
+ILSVRC2012_val_00000222.JPEG,modem,device,thermometer
+ILSVRC2012_val_00000223.JPEG,can opener,tool,hammer
+ILSVRC2012_val_00000224.JPEG,Irish setter,dog,wolf
+ILSVRC2012_val_00000225.JPEG,European fire salamander,salamander,frog
+ILSVRC2012_val_00000226.JPEG,bucket,container,barrel
+ILSVRC2012_val_00000227.JPEG,Brittany spaniel,dog,wolf
+ILSVRC2012_val_00000228.JPEG,Ibizan hound,dog,wolf
+ILSVRC2012_val_00000229.JPEG,mud turtle,turtle,alligator
+ILSVRC2012_val_00000230.JPEG,prayer rug,rug,mat
+ILSVRC2012_val_00000231.JPEG,hermit crab,crab,lobster
+ILSVRC2012_val_00000232.JPEG,shield,shield,banner
+ILSVRC2012_val_00000233.JPEG,snow leopard,cat,lion
+ILSVRC2012_val_00000234.JPEG,barn,building,bridge
+ILSVRC2012_val_00000235.JPEG,coral reef,reef,atoll
+ILSVRC2012_val_00000236.JPEG,goldfish,fish,shark
+ILSVRC2012_val_00000237.JPEG,English foxhound,dog,wolf
+ILSVRC2012_val_00000238.JPEG,king crab,crab,lobster
+ILSVRC2012_val_00000239.JPEG,bikini,swimsuit,wetsuit
+ILSVRC2012_val_00000240.JPEG,parallel bars,gymnastics,trampoline
+ILSVRC2012_val_00000241.JPEG,dining table,furniture,wardrobe
+ILSVRC2012_val_00000242.JPEG,gorilla,ape,gibbon
+ILSVRC2012_val_00000243.JPEG,neck brace,brace,splint
+ILSVRC2012_val_00000244.JPEG,rifle,weapon,sword
+ILSVRC2012_val_00000245.JPEG,hermit crab,crab,lobster
+ILSVRC2012_val_00000246.JPEG,bighorn,sheep,goat
+ILSVRC2012_val_00000247.JPEG,junco,bird,emu
+ILSVRC2012_val_00000248.JPEG,Staffordshire bullterrier,dog,wolf
+ILSVRC2012_val_00000249.JPEG,croquet ball,ball,marble
+ILSVRC2012_val_00000250.JPEG,chiffonier,furniture,bed
+ILSVRC2012_val_00000251.JPEG,hip,hip,shoulder
+ILSVRC2012_val_00000252.JPEG,pill bottle,bottle,jug
+ILSVRC2012_val_00000253.JPEG,beaker,container,bottle
+ILSVRC2012_val_00000254.JPEG,mobile home,vehicle,bicycle
+ILSVRC2012_val_00000255.JPEG,scuba diver,diver,astronaut
+ILSVRC2012_val_00000256.JPEG,dishrag,cloth,rope
+ILSVRC2012_val_00000257.JPEG,cellular telephone,telephone,telegraph
+ILSVRC2012_val_00000258.JPEG,eft,salamander,frog
+ILSVRC2012_val_00000259.JPEG,matchstick,stick,branch
+ILSVRC2012_val_00000260.JPEG,quilt,bedding,mattress
+ILSVRC2012_val_00000261.JPEG,toyshop,store,museum
+ILSVRC2012_val_00000262.JPEG,goldfish,fish,shark
+ILSVRC2012_val_00000263.JPEG,Saluki,dog,wolf
+ILSVRC2012_val_00000264.JPEG,paddlewheel,boat,submarine
+ILSVRC2012_val_00000265.JPEG,padlock,lock,key
+ILSVRC2012_val_00000266.JPEG,slide rule,tool,hammer
+ILSVRC2012_val_00000267.JPEG,consomme,soup,stew
+ILSVRC2012_val_00000268.JPEG,assault rifle,weapon,shield
+ILSVRC2012_val_00000269.JPEG,Siberian husky,dog,wolf
+ILSVRC2012_val_00000270.JPEG,alp,mountain,hill
+ILSVRC2012_val_00000271.JPEG,steel arch bridge,bridge,viaduct
+ILSVRC2012_val_00000272.JPEG,bannister,structure,bridge
+ILSVRC2012_val_00000273.JPEG,skunk,skunk,badger
+ILSVRC2012_val_00000274.JPEG,traffic light,light,lantern
+ILSVRC2012_val_00000275.JPEG,remote control,device,computer
+ILSVRC2012_val_00000276.JPEG,eft,salamander,toad
+ILSVRC2012_val_00000277.JPEG,muzzle,weapon,shield
+ILSVRC2012_val_00000278.JPEG,bee eater,bird,penguin
+ILSVRC2012_val_00000279.JPEG,Dandie Dinmont,dog,wolf
+ILSVRC2012_val_00000280.JPEG,washer,appliance,toaster
+ILSVRC2012_val_00000281.JPEG,jinrikisha,vehicle,bicycle
+ILSVRC2012_val_00000282.JPEG,jersey,cow,bison
+ILSVRC2012_val_00000283.JPEG,Persian cat,cat,tiger
+ILSVRC2012_val_00000284.JPEG,upright,position,movement
+ILSVRC2012_val_00000285.JPEG,Windsor tie,tie,scarf
+ILSVRC2012_val_00000286.JPEG,water jug,vessel,urn
+ILSVRC2012_val_00000287.JPEG,barometer,instrument,telescope
+ILSVRC2012_val_00000288.JPEG,fireboat,boat,submarine
+ILSVRC2012_val_00000289.JPEG,aircraft carrier,ship,submarine
+ILSVRC2012_val_00000290.JPEG,stopwatch,instrument,thermometer
+ILSVRC2012_val_00000291.JPEG,trench coat,coat,poncho
+ILSVRC2012_val_00000292.JPEG,plow,tool,hammer
+ILSVRC2012_val_00000293.JPEG,tench,fish,shark
+ILSVRC2012_val_00000294.JPEG,tractor,vehicle,bicycle
+ILSVRC2012_val_00000295.JPEG,greenhouse,building,stadium
+ILSVRC2012_val_00000296.JPEG,viaduct,bridge,arch
+ILSVRC2012_val_00000297.JPEG,frilled lizard,lizard,chameleon
+ILSVRC2012_val_00000298.JPEG,green mamba,snake,lizard
+ILSVRC2012_val_00000299.JPEG,trilobite,fossil,dinosaur
+ILSVRC2012_val_00000300.JPEG,Saluki,dog,wolf
+ILSVRC2012_val_00000301.JPEG,sea cucumber,cucumber,pumpkin
+ILSVRC2012_val_00000302.JPEG,caldron,pot,kettle
+ILSVRC2012_val_00000303.JPEG,tiger,cat,dog
+ILSVRC2012_val_00000304.JPEG,coral fungus,fungus,mushroom
+ILSVRC2012_val_00000305.JPEG,handkerchief,cloth,canvas
+ILSVRC2012_val_00000306.JPEG,water buffalo,bovid,giraffe
+ILSVRC2012_val_00000307.JPEG,goldfish,fish,shark
+ILSVRC2012_val_00000308.JPEG,jack-o'-lantern,pumpkin,cucumber
+ILSVRC2012_val_00000309.JPEG,hotdog,food,apple
+ILSVRC2012_val_00000310.JPEG,screwdriver,tool,hammer
+ILSVRC2012_val_00000311.JPEG,goblet,vessel,urn
+ILSVRC2012_val_00000312.JPEG,barracouta,fish,jellyfish
+ILSVRC2012_val_00000313.JPEG,valley,valley,mountain
+ILSVRC2012_val_00000314.JPEG,minibus,vehicle,bicycle
+ILSVRC2012_val_00000315.JPEG,banjo,instrument,drum
+ILSVRC2012_val_00000316.JPEG,eel,fish,shark
+ILSVRC2012_val_00000317.JPEG,parallel bars,gymnastics_equipment,trampoline
+ILSVRC2012_val_00000318.JPEG,great grey owl,owl,eagle
+ILSVRC2012_val_00000319.JPEG,echidna,mammal,elephant
+ILSVRC2012_val_00000320.JPEG,strawberry,fruit,banana
+ILSVRC2012_val_00000321.JPEG,computer keyboard,keyboard,piano
+ILSVRC2012_val_00000322.JPEG,skunk,mammal,elephant
+ILSVRC2012_val_00000323.JPEG,grey fox,fox,badger
+ILSVRC2012_val_00000324.JPEG,sea snake,snake,crocodile
+ILSVRC2012_val_00000325.JPEG,scabbard,sheath,holster
+ILSVRC2012_val_00000326.JPEG,black-footed ferret,ferret,otter
+ILSVRC2012_val_00000327.JPEG,black-and-tan coonhound,dog,wolf
+ILSVRC2012_val_00000328.JPEG,kite,toy,doll
+ILSVRC2012_val_00000329.JPEG,cock,bird,penguin
+ILSVRC2012_val_00000330.JPEG,dam,structure,bridge
+ILSVRC2012_val_00000331.JPEG,refrigerator,appliance,toaster
+ILSVRC2012_val_00000332.JPEG,cauliflower,vegetable,potato
+ILSVRC2012_val_00000333.JPEG,pug,dog,wolf
+ILSVRC2012_val_00000334.JPEG,pole,pole,beam
+ILSVRC2012_val_00000335.JPEG,pay-phone,phone,radio
+ILSVRC2012_val_00000336.JPEG,bucket,bucket,barrel
+ILSVRC2012_val_00000337.JPEG,night snake,snake,lizard
+ILSVRC2012_val_00000338.JPEG,vestment,garment,shirt
+ILSVRC2012_val_00000339.JPEG,digital watch,watch,sundial
+ILSVRC2012_val_00000340.JPEG,titi,monkey,gorilla
+ILSVRC2012_val_00000341.JPEG,groom,person,alien
+ILSVRC2012_val_00000342.JPEG,dung beetle,beetle,dragonfly
+ILSVRC2012_val_00000343.JPEG,llama,llama,alpaca
+ILSVRC2012_val_00000344.JPEG,cocktail shaker,kitchenware,utensil
+ILSVRC2012_val_00000345.JPEG,spotlight,light,lantern
+ILSVRC2012_val_00000346.JPEG,china cabinet,furniture,bed
+ILSVRC2012_val_00000347.JPEG,canoe,boat,submarine
+ILSVRC2012_val_00000348.JPEG,cheetah,cat,tiger
+ILSVRC2012_val_00000349.JPEG,spindle,furniture,bed
+ILSVRC2012_val_00000350.JPEG,Boston bull,dog,wolf
+ILSVRC2012_val_00000351.JPEG,window screen,screen,filter
+ILSVRC2012_val_00000352.JPEG,car mirror,mirror,window
+ILSVRC2012_val_00000353.JPEG,cassette,device,telescope
+ILSVRC2012_val_00000354.JPEG,bassinet,furniture,wardrobe
+ILSVRC2012_val_00000355.JPEG,chow,dog,wolf
+ILSVRC2012_val_00000356.JPEG,flamingo,bird,penguin
+ILSVRC2012_val_00000357.JPEG,limousine,car,bicycle
+ILSVRC2012_val_00000358.JPEG,breakwater,structure,bridge
+ILSVRC2012_val_00000359.JPEG,lens cap,accessory,battery
+ILSVRC2012_val_00000360.JPEG,paintbrush,tool,hammer
+ILSVRC2012_val_00000361.JPEG,tiger beetle,beetle,firefly
+ILSVRC2012_val_00000362.JPEG,box turtle,turtle,alligator
+ILSVRC2012_val_00000363.JPEG,bittern,bird,emu
+ILSVRC2012_val_00000364.JPEG,mailbox,furniture,table
+ILSVRC2012_val_00000365.JPEG,moving van,vehicle,bicycle
+ILSVRC2012_val_00000366.JPEG,bulletproof vest,vest,cape
+ILSVRC2012_val_00000367.JPEG,hard disc,device,phone
+ILSVRC2012_val_00000368.JPEG,prayer rug,rug,carpet
+ILSVRC2012_val_00000369.JPEG,warplane,aircraft,glider
+ILSVRC2012_val_00000370.JPEG,coucal,bird,penguin
+ILSVRC2012_val_00000371.JPEG,brain coral,coral,jellyfish
+ILSVRC2012_val_00000372.JPEG,grocery store,store,museum
+ILSVRC2012_val_00000373.JPEG,paddlewheel,boat,submarine
+ILSVRC2012_val_00000374.JPEG,electric guitar,instrument,drum
+ILSVRC2012_val_00000375.JPEG,Labrador retriever,dog,wolf
+ILSVRC2012_val_00000376.JPEG,chain,chain,rope
+ILSVRC2012_val_00000377.JPEG,sewing machine,machine,computer
+ILSVRC2012_val_00000378.JPEG,carbonara,dish,curry
+ILSVRC2012_val_00000379.JPEG,cairn,dog,wolf
+ILSVRC2012_val_00000380.JPEG,suit,clothing,hat
+ILSVRC2012_val_00000381.JPEG,umbrella,umbrella,canopy
+ILSVRC2012_val_00000382.JPEG,megalith,stone,crystal
+ILSVRC2012_val_00000383.JPEG,komondor,dog,wolf
+ILSVRC2012_val_00000384.JPEG,lawn mower,tool,hammer
+ILSVRC2012_val_00000385.JPEG,Loafer,shoe,sandal
+ILSVRC2012_val_00000386.JPEG,jellyfish,jellyfish,starfish
+ILSVRC2012_val_00000387.JPEG,home theater,system,computer
+ILSVRC2012_val_00000388.JPEG,banjo,instrument,drum
+ILSVRC2012_val_00000389.JPEG,crane,bird,penguin
+ILSVRC2012_val_00000390.JPEG,bittern,bird,emu
+ILSVRC2012_val_00000391.JPEG,Norfolk terrier,dog,wolf
+ILSVRC2012_val_00000392.JPEG,cannon,weapon,shield
+ILSVRC2012_val_00000393.JPEG,Shetland sheepdog,dog,wolf
+ILSVRC2012_val_00000394.JPEG,geyser,geyser,fountain
+ILSVRC2012_val_00000395.JPEG,garden spider,spider,scorpion
+ILSVRC2012_val_00000396.JPEG,tarantula,spider,scorpion
+ILSVRC2012_val_00000397.JPEG,tennis ball,ball,balloon
+ILSVRC2012_val_00000398.JPEG,Madagascar cat,cat,lemur
+ILSVRC2012_val_00000399.JPEG,standard poodle,dog,wolf
+ILSVRC2012_val_00000400.JPEG,Band Aid,bandage,gauze
+ILSVRC2012_val_00000401.JPEG,black-footed ferret,ferret,otter
+ILSVRC2012_val_00000402.JPEG,catamaran,boat,kayak
+ILSVRC2012_val_00000403.JPEG,container ship,ship,canoe
+ILSVRC2012_val_00000404.JPEG,loggerhead,turtle,alligator
+ILSVRC2012_val_00000405.JPEG,Scottish deerhound,dog,wolf
+ILSVRC2012_val_00000406.JPEG,mashed potato,food,apple
+ILSVRC2012_val_00000407.JPEG,ant,ant,termite
+ILSVRC2012_val_00000408.JPEG,ear,organ,heart
+ILSVRC2012_val_00000409.JPEG,white wolf,wolf,coyote
+ILSVRC2012_val_00000410.JPEG,home theater,system,kitchen
+ILSVRC2012_val_00000411.JPEG,Scotch terrier,dog,wolf
+ILSVRC2012_val_00000412.JPEG,ear,organ,heart
+ILSVRC2012_val_00000413.JPEG,sunglass,glass,mirror
+ILSVRC2012_val_00000414.JPEG,indigo bunting,bird,emu
+ILSVRC2012_val_00000415.JPEG,drake,duck,swan
+ILSVRC2012_val_00000416.JPEG,thresher,shark,stingray
+ILSVRC2012_val_00000417.JPEG,abacus,tool,hammer
+ILSVRC2012_val_00000418.JPEG,dragonfly,insect,beetle
+ILSVRC2012_val_00000419.JPEG,envelope,envelope,package
+ILSVRC2012_val_00000420.JPEG,bee eater,bird,emu
+ILSVRC2012_val_00000421.JPEG,rocking chair,chair,stool
+ILSVRC2012_val_00000422.JPEG,ashcan,container,pouch
+ILSVRC2012_val_00000423.JPEG,bell pepper,vegetable,potato
+ILSVRC2012_val_00000424.JPEG,Afghan hound,dog,wolf
+ILSVRC2012_val_00000425.JPEG,toy poodle,dog,wolf
+ILSVRC2012_val_00000426.JPEG,maillot,swimsuit,bikini
+ILSVRC2012_val_00000427.JPEG,lampshade,lamp,flashlight
+ILSVRC2012_val_00000428.JPEG,ping-pong ball,ball,balloon
+ILSVRC2012_val_00000429.JPEG,Kerry blue terrier,dog,wolf
+ILSVRC2012_val_00000430.JPEG,mousetrap,trap,net
+ILSVRC2012_val_00000431.JPEG,cab,vehicle,bicycle
+ILSVRC2012_val_00000432.JPEG,cab,vehicle,bicycle
+ILSVRC2012_val_00000433.JPEG,velvet,fabric,leather
+ILSVRC2012_val_00000434.JPEG,moving van,vehicle,bicycle
+ILSVRC2012_val_00000435.JPEG,mailbag,bag,backpack
+ILSVRC2012_val_00000436.JPEG,miniature schnauzer,dog,wolf
+ILSVRC2012_val_00000437.JPEG,worm fence,fence,hedge
+ILSVRC2012_val_00000438.JPEG,pillow,furniture,table
+ILSVRC2012_val_00000439.JPEG,bulbul,bird,emu
+ILSVRC2012_val_00000440.JPEG,Scotch terrier,dog,wolf
+ILSVRC2012_val_00000441.JPEG,otterhound,dog,hyena
+ILSVRC2012_val_00000442.JPEG,sarong,clothing,shoe
+ILSVRC2012_val_00000443.JPEG,artichoke,vegetable,potato
+ILSVRC2012_val_00000444.JPEG,ibex,goat,antelope
+ILSVRC2012_val_00000445.JPEG,flagpole,pole,beam
+ILSVRC2012_val_00000446.JPEG,skunk,mammal,platypus
+ILSVRC2012_val_00000447.JPEG,skunk,mammal,elephant
+ILSVRC2012_val_00000448.JPEG,harp,instrument,drum
+ILSVRC2012_val_00000449.JPEG,toilet seat,furniture,table
+ILSVRC2012_val_00000450.JPEG,Great Pyrenees,dog,wolf
+ILSVRC2012_val_00000451.JPEG,iron,appliance,toaster
+ILSVRC2012_val_00000452.JPEG,police van,vehicle,bicycle
+ILSVRC2012_val_00000453.JPEG,rubber eraser,eraser,chalk
+ILSVRC2012_val_00000454.JPEG,puck,object,tool
+ILSVRC2012_val_00000455.JPEG,shoe shop,store,market
+ILSVRC2012_val_00000456.JPEG,water buffalo,bovine,giraffe
+ILSVRC2012_val_00000457.JPEG,Maltese dog,dog,wolf
+ILSVRC2012_val_00000458.JPEG,potter's wheel,wheel,gear
+ILSVRC2012_val_00000459.JPEG,backpack,backpack,suitcase
+ILSVRC2012_val_00000460.JPEG,yurt,structure,nest
+ILSVRC2012_val_00000461.JPEG,spaghetti squash,squash,pumpkin
+ILSVRC2012_val_00000462.JPEG,Japanese spaniel,dog,wolf
+ILSVRC2012_val_00000463.JPEG,cucumber,vegetable,potato
+ILSVRC2012_val_00000464.JPEG,teapot,vessel,cauldron
+ILSVRC2012_val_00000465.JPEG,Petri dish,dish,utensil
+ILSVRC2012_val_00000466.JPEG,black swan,swan,duck
+ILSVRC2012_val_00000467.JPEG,electric guitar,instrument,drum
+ILSVRC2012_val_00000468.JPEG,projectile,object,vehicle
+ILSVRC2012_val_00000469.JPEG,rifle,weapon,bow
+ILSVRC2012_val_00000470.JPEG,redshank,bird,frog
+ILSVRC2012_val_00000471.JPEG,common iguana,lizard,chameleon
+ILSVRC2012_val_00000472.JPEG,gyromitra,fungus,yeast
+ILSVRC2012_val_00000473.JPEG,reel,tool,hammer
+ILSVRC2012_val_00000474.JPEG,Sealyham terrier,dog,wolf
+ILSVRC2012_val_00000475.JPEG,viaduct,bridge,arch
+ILSVRC2012_val_00000476.JPEG,magpie,bird,emu
+ILSVRC2012_val_00000477.JPEG,hair slide,accessory,jewelry
+ILSVRC2012_val_00000478.JPEG,hog,pig,boar
+ILSVRC2012_val_00000479.JPEG,trombone,instrument,drum
+ILSVRC2012_val_00000480.JPEG,black-footed ferret,ferret,mink
+ILSVRC2012_val_00000481.JPEG,giant panda,bear,polar bear
+ILSVRC2012_val_00000482.JPEG,wardrobe,furniture,table
+ILSVRC2012_val_00000483.JPEG,beacon,beacon,lighthouse
+ILSVRC2012_val_00000484.JPEG,corn,plant,cactus
+ILSVRC2012_val_00000485.JPEG,crane,crane,heron
+ILSVRC2012_val_00000486.JPEG,baboon,monkey,ape
+ILSVRC2012_val_00000487.JPEG,cougar,cat,lion
+ILSVRC2012_val_00000488.JPEG,modem,device,thermometer
+ILSVRC2012_val_00000489.JPEG,photocopier,printer,typewriter
+ILSVRC2012_val_00000490.JPEG,yurt,shelter,nest
+ILSVRC2012_val_00000491.JPEG,potpie,food,fruit
+ILSVRC2012_val_00000492.JPEG,albatross,bird,penguin
+ILSVRC2012_val_00000493.JPEG,diaper,clothing,hat
+ILSVRC2012_val_00000494.JPEG,balance beam,beam,truss
+ILSVRC2012_val_00000495.JPEG,proboscis monkey,monkey,lemur
+ILSVRC2012_val_00000496.JPEG,grey whale,whale,dolphin
+ILSVRC2012_val_00000497.JPEG,whistle,instrument,drum
+ILSVRC2012_val_00000498.JPEG,common newt,newt,toad
+ILSVRC2012_val_00000499.JPEG,abacus,calculator,computer
+ILSVRC2012_val_00000500.JPEG,otterhound,dog,wolf
+ILSVRC2012_val_00000501.JPEG,white wolf,wolf,coyote
+ILSVRC2012_val_00000502.JPEG,fox squirrel,squirrel,beaver
+ILSVRC2012_val_00000503.JPEG,dining table,furniture,wardrobe
+ILSVRC2012_val_00000504.JPEG,drilling platform,structure,bridge
+ILSVRC2012_val_00000505.JPEG,jack-o'-lantern,pumpkin,cucumber
+ILSVRC2012_val_00000506.JPEG,china cabinet,furniture,bed
+ILSVRC2012_val_00000507.JPEG,kuvasz,dog,wolf
+ILSVRC2012_val_00000508.JPEG,snorkel,equipment,vehicle
+ILSVRC2012_val_00000509.JPEG,groom,person,cat
+ILSVRC2012_val_00000510.JPEG,leaf beetle,beetle,ladybug
+ILSVRC2012_val_00000511.JPEG,Walker hound,dog,wolf
+ILSVRC2012_val_00000512.JPEG,king snake,snake,lizard
+ILSVRC2012_val_00000513.JPEG,tray,container,box
+ILSVRC2012_val_00000514.JPEG,birdhouse,structure,nest
+ILSVRC2012_val_00000515.JPEG,projectile,object,vehicle
+ILSVRC2012_val_00000516.JPEG,frying pan,pan,kettle
+ILSVRC2012_val_00000517.JPEG,red fox,fox,bear
+ILSVRC2012_val_00000518.JPEG,mongoose,mammal,elephant
+ILSVRC2012_val_00000519.JPEG,microwave,appliance,refrigerator
+ILSVRC2012_val_00000520.JPEG,marmoset,monkey,gorilla
+ILSVRC2012_val_00000521.JPEG,ocarina,instrument,drum
+ILSVRC2012_val_00000522.JPEG,stupa,structure,bridge
+ILSVRC2012_val_00000523.JPEG,common iguana,lizard,chameleon
+ILSVRC2012_val_00000524.JPEG,cocker spaniel,dog,wolf
+ILSVRC2012_val_00000525.JPEG,totem pole,structure,bridge
+ILSVRC2012_val_00000526.JPEG,tray,container,box
+ILSVRC2012_val_00000527.JPEG,shower curtain,curtain,blind
+ILSVRC2012_val_00000528.JPEG,black grouse,bird,parrot
+ILSVRC2012_val_00000529.JPEG,scuba diver,diver,astronaut
+ILSVRC2012_val_00000530.JPEG,timber wolf,wolf,coyote
+ILSVRC2012_val_00000531.JPEG,Greater Swiss Mountain dog,dog,wolf
+ILSVRC2012_val_00000532.JPEG,cinema,building,house
+ILSVRC2012_val_00000533.JPEG,schipperke,dog,wolf
+ILSVRC2012_val_00000534.JPEG,Crock Pot,pot,pan
+ILSVRC2012_val_00000535.JPEG,stretcher,furniture,wardrobe
+ILSVRC2012_val_00000536.JPEG,chow,dog,wolf
+ILSVRC2012_val_00000537.JPEG,chain saw,tool,hammer
+ILSVRC2012_val_00000538.JPEG,washbasin,basin,fountain
+ILSVRC2012_val_00000539.JPEG,Sussex spaniel,dog,wolf
+ILSVRC2012_val_00000540.JPEG,nipple,body_part,tongue
+ILSVRC2012_val_00000541.JPEG,Komodo dragon,lizard,chameleon
+ILSVRC2012_val_00000542.JPEG,drumstick,drumstick,flute
+ILSVRC2012_val_00000543.JPEG,dough,food,fruit
+ILSVRC2012_val_00000544.JPEG,steam locomotive,locomotive,tram
+ILSVRC2012_val_00000545.JPEG,killer whale,whale,dolphin
+ILSVRC2012_val_00000546.JPEG,slug,slug,snail
+ILSVRC2012_val_00000547.JPEG,goose,goose,duck
+ILSVRC2012_val_00000548.JPEG,oystercatcher,bird,penguin
+ILSVRC2012_val_00000549.JPEG,oxygen mask,mask,helmet
+ILSVRC2012_val_00000550.JPEG,ski mask,mask,helmet
+ILSVRC2012_val_00000551.JPEG,yellow lady's slipper,flower,cactus
+ILSVRC2012_val_00000552.JPEG,water buffalo,bovine,giraffe
+ILSVRC2012_val_00000553.JPEG,chimpanzee,ape,gibbon
+ILSVRC2012_val_00000554.JPEG,zucchini,vegetable,potato
+ILSVRC2012_val_00000555.JPEG,trombone,instrument,drum
+ILSVRC2012_val_00000556.JPEG,lifeboat,boat,submarine
+ILSVRC2012_val_00000557.JPEG,cassette player,player,projector
+ILSVRC2012_val_00000558.JPEG,buckle,fastener,zipper
+ILSVRC2012_val_00000559.JPEG,space shuttle,vehicle,bicycle
+ILSVRC2012_val_00000560.JPEG,passenger car,vehicle,bicycle
+ILSVRC2012_val_00000561.JPEG,tobacco shop,shop,museum
+ILSVRC2012_val_00000562.JPEG,bullet train,train,horse
+ILSVRC2012_val_00000563.JPEG,scoreboard,device,thermometer
+ILSVRC2012_val_00000564.JPEG,cleaver,knife,sword
+ILSVRC2012_val_00000565.JPEG,guinea pig,rodent,beaver
+ILSVRC2012_val_00000566.JPEG,chain,chain,rope
+ILSVRC2012_val_00000567.JPEG,tile roof,roof,dome
+ILSVRC2012_val_00000568.JPEG,ski,equipment,hammer
+ILSVRC2012_val_00000569.JPEG,beacon,beacon,lighthouse
+ILSVRC2012_val_00000570.JPEG,goldfinch,bird,emu
+ILSVRC2012_val_00000571.JPEG,lifeboat,boat,submarine
+ILSVRC2012_val_00000572.JPEG,burrito,food,apple
+ILSVRC2012_val_00000573.JPEG,trolleybus,vehicle,bicycle
+ILSVRC2012_val_00000574.JPEG,ice cream,dessert,pie
+ILSVRC2012_val_00000575.JPEG,hook,tool,hammer
+ILSVRC2012_val_00000576.JPEG,partridge,bird,penguin
+ILSVRC2012_val_00000577.JPEG,bittern,bird,emu
+ILSVRC2012_val_00000578.JPEG,dugong,mammal,elephant
+ILSVRC2012_val_00000579.JPEG,toyshop,store,museum
+ILSVRC2012_val_00000580.JPEG,cash machine,machine,engine
+ILSVRC2012_val_00000581.JPEG,sulphur butterfly,butterfly,moth
+ILSVRC2012_val_00000582.JPEG,cleaver,tool,hammer
+ILSVRC2012_val_00000583.JPEG,suit,clothing,hat
+ILSVRC2012_val_00000584.JPEG,bannister,structure,bridge
+ILSVRC2012_val_00000585.JPEG,mongoose,mammal,elephant
+ILSVRC2012_val_00000586.JPEG,water tower,tower,skyscraper
+ILSVRC2012_val_00000587.JPEG,window shade,furniture,table
+ILSVRC2012_val_00000588.JPEG,Irish terrier,dog,wolf
+ILSVRC2012_val_00000589.JPEG,power drill,tool,hammer
+ILSVRC2012_val_00000590.JPEG,Samoyed,dog,wolf
+ILSVRC2012_val_00000591.JPEG,restaurant,building,house
+ILSVRC2012_val_00000592.JPEG,American black bear,bear,panda
+ILSVRC2012_val_00000593.JPEG,spoonbill,bird,penguin
+ILSVRC2012_val_00000594.JPEG,Appenzeller,chicken,eagle
+ILSVRC2012_val_00000595.JPEG,submarine,vehicle,bicycle
+ILSVRC2012_val_00000596.JPEG,cannon,weapon,shield
+ILSVRC2012_val_00000597.JPEG,Indian elephant,elephant,manatee
+ILSVRC2012_val_00000598.JPEG,water jug,vessel,pot
+ILSVRC2012_val_00000599.JPEG,beagle,dog,wolf
+ILSVRC2012_val_00000600.JPEG,leopard,leopard,giraffe
+ILSVRC2012_val_00000601.JPEG,bobsled,sled,wheelbarrow
+ILSVRC2012_val_00000602.JPEG,teddy,bear,panda
+ILSVRC2012_val_00000603.JPEG,kelpie,dog,wolf
+ILSVRC2012_val_00000604.JPEG,dingo,dog,wolf
+ILSVRC2012_val_00000605.JPEG,banana,fruit,apple
+ILSVRC2012_val_00000606.JPEG,burrito,food,apple
+ILSVRC2012_val_00000607.JPEG,jigsaw puzzle,puzzle,game
+ILSVRC2012_val_00000608.JPEG,mask,face,skull
+ILSVRC2012_val_00000609.JPEG,grey whale,whale,dolphin
+ILSVRC2012_val_00000610.JPEG,jaguar,cat,lion
+ILSVRC2012_val_00000611.JPEG,tractor,vehicle,bicycle
+ILSVRC2012_val_00000612.JPEG,Norwich terrier,dog,wolf
+ILSVRC2012_val_00000613.JPEG,Blenheim spaniel,dog,wolf
+ILSVRC2012_val_00000614.JPEG,sax,instrument,drum
+ILSVRC2012_val_00000615.JPEG,sarong,garment,shirt
+ILSVRC2012_val_00000616.JPEG,ear,organ,heart
+ILSVRC2012_val_00000617.JPEG,hamster,rodent,beaver
+ILSVRC2012_val_00000618.JPEG,sulphur butterfly,butterfly,moth
+ILSVRC2012_val_00000619.JPEG,goblet,vessel,urn
+ILSVRC2012_val_00000620.JPEG,trifle,dessert,salad
+ILSVRC2012_val_00000621.JPEG,projectile,object,vehicle
+ILSVRC2012_val_00000622.JPEG,scabbard,sheath,holster
+ILSVRC2012_val_00000623.JPEG,submarine,vehicle,bicycle
+ILSVRC2012_val_00000624.JPEG,face powder,cosmetic,toothpaste
+ILSVRC2012_val_00000625.JPEG,ladybug,insect,beetle
+ILSVRC2012_val_00000626.JPEG,picket fence,fence,wall
+ILSVRC2012_val_00000627.JPEG,tape player,player,actor
+ILSVRC2012_val_00000628.JPEG,echidna,animal,jellyfish
+ILSVRC2012_val_00000629.JPEG,shopping basket,basket,cradle
+ILSVRC2012_val_00000630.JPEG,carbonara,dish,curry
+ILSVRC2012_val_00000631.JPEG,airliner,aircraft,helicopter
+ILSVRC2012_val_00000632.JPEG,corn,plant,cactus
+ILSVRC2012_val_00000633.JPEG,bakery,store,pharmacy
+ILSVRC2012_val_00000634.JPEG,bottlecap,object,utensil
+ILSVRC2012_val_00000635.JPEG,boxer,dog,wolf
+ILSVRC2012_val_00000636.JPEG,hook,tool,hammer
+ILSVRC2012_val_00000637.JPEG,crane,crane,heron
+ILSVRC2012_val_00000638.JPEG,bulbul,bird,emu
+ILSVRC2012_val_00000639.JPEG,damselfly,insect,beetle
+ILSVRC2012_val_00000640.JPEG,loudspeaker,speaker,microphone
+ILSVRC2012_val_00000641.JPEG,fur coat,coat,jacket
+ILSVRC2012_val_00000642.JPEG,guinea pig,rodent,beaver
+ILSVRC2012_val_00000643.JPEG,clumber,dog,wolf
+ILSVRC2012_val_00000644.JPEG,hare,mammal,elephant
+ILSVRC2012_val_00000645.JPEG,plane,vehicle,bicycle
+ILSVRC2012_val_00000646.JPEG,carbonara,dish,curry
+ILSVRC2012_val_00000647.JPEG,iPod,device,thermometer
+ILSVRC2012_val_00000648.JPEG,crane,bird,penguin
+ILSVRC2012_val_00000649.JPEG,nail,nail,screw
+ILSVRC2012_val_00000650.JPEG,leopard,cat,lion
+ILSVRC2012_val_00000651.JPEG,brambling,bird,emu
+ILSVRC2012_val_00000652.JPEG,pier,structure,bridge
+ILSVRC2012_val_00000653.JPEG,tennis ball,ball,globe
+ILSVRC2012_val_00000654.JPEG,beer bottle,bottle,jug
+ILSVRC2012_val_00000655.JPEG,wallaby,marsupial,koala
+ILSVRC2012_val_00000656.JPEG,Petri dish,dish,plate
+ILSVRC2012_val_00000657.JPEG,giant panda,bear,polar bear
+ILSVRC2012_val_00000658.JPEG,keeshond,dog,wolf
+ILSVRC2012_val_00000659.JPEG,jeep,vehicle,bicycle
+ILSVRC2012_val_00000660.JPEG,laptop,computer,server
+ILSVRC2012_val_00000661.JPEG,hog,pig,boar
+ILSVRC2012_val_00000662.JPEG,grand piano,instrument,drum
+ILSVRC2012_val_00000663.JPEG,bobsled,sled,wheelbarrow
+ILSVRC2012_val_00000664.JPEG,liner,ship,submarine
+ILSVRC2012_val_00000665.JPEG,English springer,dog,wolf
+ILSVRC2012_val_00000666.JPEG,typewriter keyboard,keyboard,piano
+ILSVRC2012_val_00000667.JPEG,revolver,firearm,bowsaw
+ILSVRC2012_val_00000668.JPEG,Chesapeake Bay retriever,dog,wolf
+ILSVRC2012_val_00000669.JPEG,isopod,crustacean,lobster
+ILSVRC2012_val_00000670.JPEG,monastery,building,stadium
+ILSVRC2012_val_00000671.JPEG,tow truck,truck,bicycle
+ILSVRC2012_val_00000672.JPEG,Border collie,dog,wolf
+ILSVRC2012_val_00000673.JPEG,sax,instrument,drum
+ILSVRC2012_val_00000674.JPEG,butternut squash,squash,pumpkin
+ILSVRC2012_val_00000675.JPEG,marmot,rodent,squirrel
+ILSVRC2012_val_00000676.JPEG,pole,pole,beam
+ILSVRC2012_val_00000677.JPEG,notebook,book,encyclopedia
+ILSVRC2012_val_00000678.JPEG,corkscrew,tool,hammer
+ILSVRC2012_val_00000679.JPEG,tick,arthropod,butterfly
+ILSVRC2012_val_00000680.JPEG,mosque,building,stadium
+ILSVRC2012_val_00000681.JPEG,panpipe,instrument,drum
+ILSVRC2012_val_00000682.JPEG,puck,object,book
+ILSVRC2012_val_00000683.JPEG,green lizard,lizard,iguana
+ILSVRC2012_val_00000684.JPEG,ladle,kitchen_tool,whisk
+ILSVRC2012_val_00000685.JPEG,wood rabbit,rabbit,hare
+ILSVRC2012_val_00000686.JPEG,knee pad,protective gear,helmet
+ILSVRC2012_val_00000687.JPEG,barrel,container,bottle
+ILSVRC2012_val_00000688.JPEG,rock python,snake,lizard
+ILSVRC2012_val_00000689.JPEG,chiton,mollusk,squid
+ILSVRC2012_val_00000690.JPEG,white stork,stork,heron
+ILSVRC2012_val_00000691.JPEG,jackfruit,fruit,apple
+ILSVRC2012_val_00000692.JPEG,rhinoceros beetle,beetle,dragonfly
+ILSVRC2012_val_00000693.JPEG,barn,building,bridge
+ILSVRC2012_val_00000694.JPEG,Sealyham terrier,dog,wolf
+ILSVRC2012_val_00000695.JPEG,guenon,monkey,ape
+ILSVRC2012_val_00000696.JPEG,Yorkshire terrier,dog,wolf
+ILSVRC2012_val_00000697.JPEG,bubble,bubble,droplet
+ILSVRC2012_val_00000698.JPEG,dishwasher,appliance,microwave
+ILSVRC2012_val_00000699.JPEG,puffer,fish,shark
+ILSVRC2012_val_00000700.JPEG,missile,weapon,sword
+ILSVRC2012_val_00000701.JPEG,swab,tool,hammer
+ILSVRC2012_val_00000702.JPEG,pier,structure,bridge
+ILSVRC2012_val_00000703.JPEG,chiton,mollusk,squid
+ILSVRC2012_val_00000704.JPEG,sunglass,glass,mirror
+ILSVRC2012_val_00000705.JPEG,stinkhorn,fungus,mushroom
+ILSVRC2012_val_00000706.JPEG,Band Aid,bandage,gauze
+ILSVRC2012_val_00000707.JPEG,rifle,weapon,bow
+ILSVRC2012_val_00000708.JPEG,Gordon setter,dog,wolf
+ILSVRC2012_val_00000709.JPEG,Egyptian cat,cat,lynx
+ILSVRC2012_val_00000710.JPEG,maraca,instrument,drum
+ILSVRC2012_val_00000711.JPEG,lemon,fruit,banana
+ILSVRC2012_val_00000712.JPEG,vacuum,appliance,toaster
+ILSVRC2012_val_00000713.JPEG,junco,bird,emu
+ILSVRC2012_val_00000714.JPEG,streetcar,vehicle,bicycle
+ILSVRC2012_val_00000715.JPEG,library,building,stadium
+ILSVRC2012_val_00000716.JPEG,clumber,dog,wolf
+ILSVRC2012_val_00000717.JPEG,moped,vehicle,bicycle
+ILSVRC2012_val_00000718.JPEG,Crock Pot,pot,pan
+ILSVRC2012_val_00000719.JPEG,Mexican hairless,dog,wolf
+ILSVRC2012_val_00000720.JPEG,cab,vehicle,bicycle
+ILSVRC2012_val_00000721.JPEG,ballpoint,pen,pencil
+ILSVRC2012_val_00000722.JPEG,plastic bag,container,barrel
+ILSVRC2012_val_00000723.JPEG,weasel,weasel,badger
+ILSVRC2012_val_00000724.JPEG,boathouse,building,skyscraper
+ILSVRC2012_val_00000725.JPEG,Dandie Dinmont,dog,wolf
+ILSVRC2012_val_00000726.JPEG,badger,badger,wolverine
+ILSVRC2012_val_00000727.JPEG,Granny Smith,apple,pear
+ILSVRC2012_val_00000728.JPEG,guacamole,food,carpet
+ILSVRC2012_val_00000729.JPEG,malamute,dog,wolf
+ILSVRC2012_val_00000730.JPEG,cuirass,armor,shield
+ILSVRC2012_val_00000731.JPEG,agaric,mushroom,toadstool
+ILSVRC2012_val_00000732.JPEG,gas pump,pump,heart
+ILSVRC2012_val_00000733.JPEG,Persian cat,cat,tiger
+ILSVRC2012_val_00000734.JPEG,jean,pants,skirt
+ILSVRC2012_val_00000735.JPEG,spoonbill,bird,penguin
+ILSVRC2012_val_00000736.JPEG,cello,instrument,drum
+ILSVRC2012_val_00000737.JPEG,toaster,appliance,refrigerator
+ILSVRC2012_val_00000738.JPEG,cinema,building,house
+ILSVRC2012_val_00000739.JPEG,kite,toy,ball
+ILSVRC2012_val_00000740.JPEG,butcher shop,shop,zoo
+ILSVRC2012_val_00000741.JPEG,handkerchief,cloth,paper
+ILSVRC2012_val_00000742.JPEG,guacamole,food,wood
+ILSVRC2012_val_00000743.JPEG,fire screen,furniture,bed
+ILSVRC2012_val_00000744.JPEG,drake,duck,goose
+ILSVRC2012_val_00000745.JPEG,water bottle,bottle,jug
+ILSVRC2012_val_00000746.JPEG,half track,vehicle,bicycle
+ILSVRC2012_val_00000747.JPEG,brambling,bird,emu
+ILSVRC2012_val_00000748.JPEG,soft-coated wheaten terrier,dog,wolf
+ILSVRC2012_val_00000749.JPEG,diamondback,snake,lizard
+ILSVRC2012_val_00000750.JPEG,cloak,garment,shoe
+ILSVRC2012_val_00000751.JPEG,redshank,bird,emu
+ILSVRC2012_val_00000752.JPEG,horse cart,vehicle,bicycle
+ILSVRC2012_val_00000753.JPEG,planetarium,building,stadium
+ILSVRC2012_val_00000754.JPEG,tusker,elephant,manatee
+ILSVRC2012_val_00000755.JPEG,earthstar,fungus,mushroom
+ILSVRC2012_val_00000756.JPEG,kit fox,fox,wolf
+ILSVRC2012_val_00000757.JPEG,potpie,food,fruit
+ILSVRC2012_val_00000758.JPEG,Appenzeller,cheese,yogurt
+ILSVRC2012_val_00000759.JPEG,barber chair,chair,stool
+ILSVRC2012_val_00000760.JPEG,lumbermill,building,stadium
+ILSVRC2012_val_00000761.JPEG,dishrag,cloth,rope
+ILSVRC2012_val_00000762.JPEG,barbershop,shop,theater
+ILSVRC2012_val_00000763.JPEG,bolo tie,accessory,jewelry
+ILSVRC2012_val_00000764.JPEG,fire engine,vehicle,bicycle
+ILSVRC2012_val_00000765.JPEG,Polaroid camera,camera,telescope
+ILSVRC2012_val_00000766.JPEG,cowboy boot,boot,sandal
+ILSVRC2012_val_00000767.JPEG,snowplow,vehicle,bicycle
+ILSVRC2012_val_00000768.JPEG,tiger beetle,beetle,firefly
+ILSVRC2012_val_00000769.JPEG,face powder,cosmetic,toothpaste
+ILSVRC2012_val_00000770.JPEG,radiator,heater,oven
+ILSVRC2012_val_00000771.JPEG,apron,garment,shoe
+ILSVRC2012_val_00000772.JPEG,mantis,insect,beetle
+ILSVRC2012_val_00000773.JPEG,pizza,food,apple
+ILSVRC2012_val_00000774.JPEG,spoonbill,bird,penguin
+ILSVRC2012_val_00000775.JPEG,barracouta,fish,octopus
+ILSVRC2012_val_00000776.JPEG,hoopskirt,garment,shirt
+ILSVRC2012_val_00000777.JPEG,desk,furniture,bed
+ILSVRC2012_val_00000778.JPEG,suspension bridge,bridge,arch
+ILSVRC2012_val_00000779.JPEG,meerkat,mammal,elephant
+ILSVRC2012_val_00000780.JPEG,gown,garment,shirt
+ILSVRC2012_val_00000781.JPEG,conch,shell,crab
+ILSVRC2012_val_00000782.JPEG,chocolate sauce,sauce,mustard
+ILSVRC2012_val_00000783.JPEG,loudspeaker,speaker,microphone
+ILSVRC2012_val_00000784.JPEG,trailer truck,vehicle,bicycle
+ILSVRC2012_val_00000785.JPEG,dingo,dog,wolf
+ILSVRC2012_val_00000786.JPEG,boa constrictor,snake,lizard
+ILSVRC2012_val_00000787.JPEG,barrel,container,box
+ILSVRC2012_val_00000788.JPEG,chimpanzee,ape,gibbon
+ILSVRC2012_val_00000789.JPEG,guacamole,food,carpet
+ILSVRC2012_val_00000790.JPEG,assault rifle,weapon,shield
+ILSVRC2012_val_00000791.JPEG,leatherback turtle,turtle,alligator
+ILSVRC2012_val_00000792.JPEG,saltshaker,container,vase
+ILSVRC2012_val_00000793.JPEG,minibus,vehicle,bicycle
+ILSVRC2012_val_00000794.JPEG,little blue heron,heron,ibis
+ILSVRC2012_val_00000795.JPEG,trolleybus,vehicle,bicycle
+ILSVRC2012_val_00000796.JPEG,tiger cat,cat,tiger
+ILSVRC2012_val_00000797.JPEG,waffle iron,appliance,toaster
+ILSVRC2012_val_00000798.JPEG,custard apple,fruit,banana
+ILSVRC2012_val_00000799.JPEG,silky terrier,dog,wolf
+ILSVRC2012_val_00000800.JPEG,standard poodle,dog,wolf
+ILSVRC2012_val_00000801.JPEG,eggnog,beverage,coffee
+ILSVRC2012_val_00000802.JPEG,Tibetan terrier,dog,wolf
+ILSVRC2012_val_00000803.JPEG,mouse,mouse,beaver
+ILSVRC2012_val_00000804.JPEG,barber chair,furniture,bookshelf
+ILSVRC2012_val_00000805.JPEG,wine bottle,bottle,flask
+ILSVRC2012_val_00000806.JPEG,garter snake,snake,lizard
+ILSVRC2012_val_00000807.JPEG,eft,salamander,toad
+ILSVRC2012_val_00000808.JPEG,brassiere,garment,shoe
+ILSVRC2012_val_00000809.JPEG,totem pole,structure,bridge
+ILSVRC2012_val_00000810.JPEG,ringlet,butterfly,moth
+ILSVRC2012_val_00000811.JPEG,hotdog,food,apple
+ILSVRC2012_val_00000812.JPEG,monastery,building,stadium
+ILSVRC2012_val_00000813.JPEG,barbershop,shop,theater
+ILSVRC2012_val_00000814.JPEG,organ,instrument,drum
+ILSVRC2012_val_00000815.JPEG,sunglasses,glasses,telescope
+ILSVRC2012_val_00000816.JPEG,hay,plant,tree
+ILSVRC2012_val_00000817.JPEG,maypole,structure,bridge
+ILSVRC2012_val_00000818.JPEG,fiddler crab,crab,lobster
+ILSVRC2012_val_00000819.JPEG,rhinoceros beetle,beetle,ant
+ILSVRC2012_val_00000820.JPEG,French loaf,bread,bagel
+ILSVRC2012_val_00000821.JPEG,king crab,crab,lobster
+ILSVRC2012_val_00000822.JPEG,paddlewheel,boat,submarine
+ILSVRC2012_val_00000823.JPEG,cuirass,armor,shield
+ILSVRC2012_val_00000824.JPEG,flat-coated retriever,dog,wolf
+ILSVRC2012_val_00000825.JPEG,American coot,bird,eagle
+ILSVRC2012_val_00000826.JPEG,teapot,vessel,urn
+ILSVRC2012_val_00000827.JPEG,notebook,book,encyclopedia
+ILSVRC2012_val_00000828.JPEG,titi,monkey,gibbon
+ILSVRC2012_val_00000829.JPEG,half track,vehicle,bicycle
+ILSVRC2012_val_00000830.JPEG,web site,site,construction
+ILSVRC2012_val_00000831.JPEG,carton,container,barrel
+ILSVRC2012_val_00000832.JPEG,Border terrier,dog,wolf
+ILSVRC2012_val_00000833.JPEG,trolleybus,vehicle,bicycle
+ILSVRC2012_val_00000834.JPEG,pickelhaube,helmet,crown
+ILSVRC2012_val_00000835.JPEG,hand-held computer,computer,calculator
+ILSVRC2012_val_00000836.JPEG,nematode,worm,earthworm
+ILSVRC2012_val_00000837.JPEG,chickadee,bird,emu
+ILSVRC2012_val_00000838.JPEG,basset,dog,wolf
+ILSVRC2012_val_00000839.JPEG,yurt,shelter,nest
+ILSVRC2012_val_00000840.JPEG,plow,tool,hammer
+ILSVRC2012_val_00000841.JPEG,neck brace,brace,splint
+ILSVRC2012_val_00000842.JPEG,steel drum,instrument,violin
+ILSVRC2012_val_00000843.JPEG,spotlight,light,lantern
+ILSVRC2012_val_00000844.JPEG,panpipe,instrument,drum
+ILSVRC2012_val_00000845.JPEG,hoopskirt,skirt,pants
+ILSVRC2012_val_00000846.JPEG,mouse,mouse,beaver
+ILSVRC2012_val_00000847.JPEG,Bouvier des Flandres,dog,wolf
+ILSVRC2012_val_00000848.JPEG,cloak,garment,shoe
+ILSVRC2012_val_00000849.JPEG,library,building,stadium
+ILSVRC2012_val_00000850.JPEG,necklace,jewelry,bracelet
+ILSVRC2012_val_00000851.JPEG,academic gown,garment,shirt
+ILSVRC2012_val_00000852.JPEG,grille,structure,bridge
+ILSVRC2012_val_00000853.JPEG,moped,vehicle,bicycle
+ILSVRC2012_val_00000854.JPEG,wig,headwear,hat
+ILSVRC2012_val_00000855.JPEG,lens cap,accessory,battery
+ILSVRC2012_val_00000856.JPEG,hair spray,spray,fog
+ILSVRC2012_val_00000857.JPEG,slot,slot,drawer
+ILSVRC2012_val_00000858.JPEG,water jug,vessel,urn
+ILSVRC2012_val_00000859.JPEG,mosquito net,net,fence
+ILSVRC2012_val_00000860.JPEG,ptarmigan,bird,penguin
+ILSVRC2012_val_00000861.JPEG,puck,object,chair
+ILSVRC2012_val_00000862.JPEG,harvester,machine,tractor
+ILSVRC2012_val_00000863.JPEG,mashed potato,food,apple
+ILSVRC2012_val_00000864.JPEG,mosque,building,stadium
+ILSVRC2012_val_00000865.JPEG,American black bear,bear,panda
+ILSVRC2012_val_00000866.JPEG,wallet,container,box
+ILSVRC2012_val_00000867.JPEG,miniature poodle,dog,wolf
+ILSVRC2012_val_00000868.JPEG,liner,ship,canoe
+ILSVRC2012_val_00000869.JPEG,corn,plant,cactus
+ILSVRC2012_val_00000870.JPEG,chimpanzee,ape,gibbon
+ILSVRC2012_val_00000871.JPEG,brown bear,bear,panda
+ILSVRC2012_val_00000872.JPEG,planetarium,building,stadium
+ILSVRC2012_val_00000873.JPEG,house finch,bird,emu
+ILSVRC2012_val_00000874.JPEG,tub,bath,shower
+ILSVRC2012_val_00000875.JPEG,Norwich terrier,dog,wolf
+ILSVRC2012_val_00000876.JPEG,hand blower,appliance,toaster
+ILSVRC2012_val_00000877.JPEG,harvestman,arachnid,scorpion
+ILSVRC2012_val_00000878.JPEG,spoonbill,bird,penguin
+ILSVRC2012_val_00000879.JPEG,bookshop,store,pharmacy
+ILSVRC2012_val_00000880.JPEG,jay,bird,emu
+ILSVRC2012_val_00000881.JPEG,cardoon,plant,tree
+ILSVRC2012_val_00000882.JPEG,Tibetan terrier,dog,wolf
+ILSVRC2012_val_00000883.JPEG,Bedlington terrier,dog,wolf
+ILSVRC2012_val_00000884.JPEG,bloodhound,dog,wolf
+ILSVRC2012_val_00000885.JPEG,black grouse,bird,emu
+ILSVRC2012_val_00000886.JPEG,spaghetti squash,squash,pumpkin
+ILSVRC2012_val_00000887.JPEG,hammer,tool,brush
+ILSVRC2012_val_00000888.JPEG,kite,toy,doll
+ILSVRC2012_val_00000889.JPEG,standard schnauzer,dog,wolf
+ILSVRC2012_val_00000890.JPEG,European fire salamander,salamander,frog
+ILSVRC2012_val_00000891.JPEG,pretzel,bread,bagel
+ILSVRC2012_val_00000892.JPEG,sorrel,tree,pine
+ILSVRC2012_val_00000893.JPEG,cash machine,machine,engine
+ILSVRC2012_val_00000894.JPEG,rifle,weapon,bow
+ILSVRC2012_val_00000895.JPEG,vase,vase,pot
+ILSVRC2012_val_00000896.JPEG,bookshop,store,pharmacy
+ILSVRC2012_val_00000897.JPEG,solar dish,dish,plate
+ILSVRC2012_val_00000898.JPEG,lynx,cat,tiger
+ILSVRC2012_val_00000899.JPEG,tray,container,basket
+ILSVRC2012_val_00000900.JPEG,kimono,garment,shirt
+ILSVRC2012_val_00000901.JPEG,speedboat,boat,submarine
+ILSVRC2012_val_00000902.JPEG,handkerchief,cloth,paper
+ILSVRC2012_val_00000903.JPEG,street sign,sign,billboard
+ILSVRC2012_val_00000904.JPEG,computer keyboard,keyboard,piano
+ILSVRC2012_val_00000905.JPEG,car wheel,wheel,gear
+ILSVRC2012_val_00000906.JPEG,bonnet,hat,helmet
+ILSVRC2012_val_00000907.JPEG,Shih-Tzu,dog,wolf
+ILSVRC2012_val_00000908.JPEG,whiptail,lizard,chameleon
+ILSVRC2012_val_00000909.JPEG,bloodhound,dog,wolf
+ILSVRC2012_val_00000910.JPEG,iron,metal,gold
+ILSVRC2012_val_00000911.JPEG,cock,bird,emu
+ILSVRC2012_val_00000912.JPEG,timber wolf,wolf,coyote
+ILSVRC2012_val_00000913.JPEG,gondola,boat,submarine
+ILSVRC2012_val_00000914.JPEG,tile roof,roof,dome
+ILSVRC2012_val_00000915.JPEG,coil,coil,spring
+ILSVRC2012_val_00000916.JPEG,vulture,bird,penguin
+ILSVRC2012_val_00000917.JPEG,binoculars,optical device,microscope
+ILSVRC2012_val_00000918.JPEG,puffer,fish,shark
+ILSVRC2012_val_00000919.JPEG,harvester,harvester,tractor
+ILSVRC2012_val_00000920.JPEG,radiator,heater,oven
+ILSVRC2012_val_00000921.JPEG,electric ray,ray,shark
+ILSVRC2012_val_00000922.JPEG,Norwich terrier,dog,wolf
+ILSVRC2012_val_00000923.JPEG,mortarboard,hat,bonnet
+ILSVRC2012_val_00000924.JPEG,dung beetle,beetle,ladybug
+ILSVRC2012_val_00000925.JPEG,green lizard,lizard,iguana
+ILSVRC2012_val_00000926.JPEG,long-horned beetle,beetle,ladybug
+ILSVRC2012_val_00000927.JPEG,mouse,mouse,beaver
+ILSVRC2012_val_00000928.JPEG,trifle,dessert,pizza
+ILSVRC2012_val_00000929.JPEG,coucal,bird,emu
+ILSVRC2012_val_00000930.JPEG,leatherback turtle,turtle,alligator
+ILSVRC2012_val_00000931.JPEG,recreational vehicle,vehicle,bicycle
+ILSVRC2012_val_00000932.JPEG,altar,furniture,wardrobe
+ILSVRC2012_val_00000933.JPEG,eel,fish,shark
+ILSVRC2012_val_00000934.JPEG,tarantula,spider,scorpion
+ILSVRC2012_val_00000935.JPEG,crane,crane,heron
+ILSVRC2012_val_00000936.JPEG,sock,clothing,hat
+ILSVRC2012_val_00000937.JPEG,wood rabbit,rabbit,hare
+ILSVRC2012_val_00000938.JPEG,leatherback turtle,turtle,alligator
+ILSVRC2012_val_00000939.JPEG,flamingo,bird,penguin
+ILSVRC2012_val_00000940.JPEG,platypus,mammal,elephant
+ILSVRC2012_val_00000941.JPEG,king snake,snake,lizard
+ILSVRC2012_val_00000942.JPEG,electric fan,fan,blower
+ILSVRC2012_val_00000943.JPEG,tick,arachnid,scorpion
+ILSVRC2012_val_00000944.JPEG,tree frog,frog,toad
+ILSVRC2012_val_00000945.JPEG,baboon,monkey,ape
+ILSVRC2012_val_00000946.JPEG,German shepherd,dog,wolf
+ILSVRC2012_val_00000947.JPEG,cradle,furniture,wardrobe
+ILSVRC2012_val_00000948.JPEG,Rhodesian ridgeback,dog,wolf
+ILSVRC2012_val_00000949.JPEG,Yorkshire terrier,dog,wolf
+ILSVRC2012_val_00000950.JPEG,French loaf,bread,bagel
+ILSVRC2012_val_00000951.JPEG,viaduct,bridge,arch
+ILSVRC2012_val_00000952.JPEG,toucan,bird,penguin
+ILSVRC2012_val_00000953.JPEG,bicycle-built-for-two,bicycle,unicycle
+ILSVRC2012_val_00000954.JPEG,coral fungus,fungus,mushroom
+ILSVRC2012_val_00000955.JPEG,tripod,stand,stool
+ILSVRC2012_val_00000956.JPEG,ground beetle,beetle,ladybug
+ILSVRC2012_val_00000957.JPEG,French horn,instrument,drum
+ILSVRC2012_val_00000958.JPEG,loggerhead,turtle,alligator
+ILSVRC2012_val_00000959.JPEG,spotlight,light,lantern
+ILSVRC2012_val_00000960.JPEG,paddlewheel,boat,submarine
+ILSVRC2012_val_00000961.JPEG,altar,furniture,wardrobe
+ILSVRC2012_val_00000962.JPEG,water ouzel,bird,emu
+ILSVRC2012_val_00000963.JPEG,magpie,bird,emu
+ILSVRC2012_val_00000964.JPEG,patas,monkey,gibbon
+ILSVRC2012_val_00000965.JPEG,damselfly,insect,beetle
+ILSVRC2012_val_00000966.JPEG,pirate,person,scientist
+ILSVRC2012_val_00000967.JPEG,stinkhorn,fungus,mushroom
+ILSVRC2012_val_00000968.JPEG,plow,tool,hammer
+ILSVRC2012_val_00000969.JPEG,joystick,device,thermometer
+ILSVRC2012_val_00000970.JPEG,koala,mammal,elephant
+ILSVRC2012_val_00000971.JPEG,typewriter keyboard,keyboard,piano
+ILSVRC2012_val_00000972.JPEG,grasshopper,insect,beetle
+ILSVRC2012_val_00000973.JPEG,vase,vase,statue
+ILSVRC2012_val_00000974.JPEG,chimpanzee,ape,gibbon
+ILSVRC2012_val_00000975.JPEG,bull mastiff,dog,wolf
+ILSVRC2012_val_00000976.JPEG,limousine,car,bicycle
+ILSVRC2012_val_00000977.JPEG,artichoke,vegetable,potato
+ILSVRC2012_val_00000978.JPEG,frilled lizard,lizard,chameleon
+ILSVRC2012_val_00000979.JPEG,ashcan,container,barrel
+ILSVRC2012_val_00000980.JPEG,book jacket,cover,wrapper
+ILSVRC2012_val_00000981.JPEG,Angora,cat,tiger
+ILSVRC2012_val_00000982.JPEG,cardigan,garment,hat
+ILSVRC2012_val_00000983.JPEG,hyena,hyena,lion
+ILSVRC2012_val_00000984.JPEG,lipstick,cosmetic,perfume
+ILSVRC2012_val_00000985.JPEG,comic book,book,manual
+ILSVRC2012_val_00000986.JPEG,wolf spider,spider,scorpion
+ILSVRC2012_val_00000987.JPEG,mask,face covering,helmet
+ILSVRC2012_val_00000988.JPEG,fire screen,furniture,table
+ILSVRC2012_val_00000989.JPEG,ear,organ,heart
+ILSVRC2012_val_00000990.JPEG,sea urchin,echinoderm,starfish
+ILSVRC2012_val_00000991.JPEG,pinwheel,toy,doll
+ILSVRC2012_val_00000992.JPEG,basset,dog,wolf
+ILSVRC2012_val_00000993.JPEG,Siberian husky,dog,wolf
+ILSVRC2012_val_00000994.JPEG,goldfish,fish,shark
+ILSVRC2012_val_00000995.JPEG,street sign,sign,billboard
+ILSVRC2012_val_00000996.JPEG,rock beauty,fish,seahorse
+ILSVRC2012_val_00000997.JPEG,Cardigan,dog,wolf
+ILSVRC2012_val_00000998.JPEG,amphibian,amphibian,frog
+ILSVRC2012_val_00000999.JPEG,loupe,magnifier,telescope
+ILSVRC2012_val_00001000.JPEG,china cabinet,furniture,bed
