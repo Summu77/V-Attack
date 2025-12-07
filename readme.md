@@ -1,8 +1,6 @@
 # $V\text{-}Attack$ : Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs
 
 
-
-<a href="https://arxiv.org/abs/2511.20223"><img src="https://img.shields.io/badge/arXiv-2511.20223-b31b1b.svg" alt="arXiv"></a>
 [![License](https://img.shields.io/badge/License-MIT-gold)](https://github.com/VILA-Lab/M-Attack?tab=MIT-1-ov-file)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/release/python-3100/)
 
@@ -94,10 +92,5 @@ The final metric reported is the average score across the entire dataset. See th
 ## Citation
 
 ```
-@article{nie2025v,
-  title={V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs},
-  author={Nie, Sen and Zhang, Jie and Yan, Jianxin and Shan, Shiguang and Chen, Xilin},
-  journal={arXiv preprint arXiv:2511.20223},
-  year={2025}
-}
+The paper is under review.
 ```
