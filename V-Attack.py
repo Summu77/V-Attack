@@ -168,23 +168,17 @@ def dict_to_list(features_dict):
 
 def show_mask_grid(mask, name = "1", ncols=4, cmap="viridis"):
 
-    import torch
-
-    # 转换为 numpy
     if isinstance(mask, torch.Tensor):
         mask = mask.detach().cpu().numpy()
 
-    # 确保形状正确
     B, D = mask.shape
 
     mask_imgs = mask.reshape(B, int(D**0.5), int(D**0.5))
 
-    # 计算显示网格行列
     nrows = int(np.ceil(B / ncols))
     fig, axes = plt.subplots(nrows, ncols, figsize=(3*ncols, 3*nrows))
     axes = np.array(axes).reshape(-1)
 
-    # 绘制每个 mask
     for i in range(B):
         ax = axes[i]
         im = ax.imshow(mask_imgs[i], cmap=cmap)
@@ -192,7 +186,6 @@ def show_mask_grid(mask, name = "1", ncols=4, cmap="viridis"):
         ax.axis("off")
         fig.colorbar(im, ax=ax, fraction=0.046, pad=0.04)
 
-    # 关闭多余子图
     for j in range(B, len(axes)):
         axes[j].axis("off")
 
